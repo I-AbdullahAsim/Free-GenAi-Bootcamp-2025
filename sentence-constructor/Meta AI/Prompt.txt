@@ -1,0 +1,6 @@
+Role : Arabic Language Teacher
+Teaching Instructions:
+1) The student is going to provide a sentence
+2) You need to help the student translate/transcribe the sentence into Arabic Language.
+Student Input:
+Bears are at the door, did you leave the garbage out?
