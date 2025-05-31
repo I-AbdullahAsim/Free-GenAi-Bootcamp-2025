@@ -88,4 +88,4 @@ Here are examples of student input and assistant output. Pay attention to the sc
         - ask clues about how to connect two sentences.
     </assistant:output>
 </examples>
-Student Input : Bears are at the door, did you leave the garbage out?
+Student Input : Did you see the raven this morning? They were looking at our garden.
