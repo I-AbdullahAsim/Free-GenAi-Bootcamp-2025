@@ -4,7 +4,7 @@ A chat agent that acts as a teaching assistant to guide students from translatin
 
 ## AI-Tools Used
 ChatGPT
-Mistral AI
+Meta AI
 
 ## Prompts
 The prompt format is similar to that taught in the course, however, more detail has been added to get better outputs.
@@ -12,10 +12,10 @@ The final prompt is similar in each AI tool because as i went through each tool,
 By giving the final prompt, both the AIs are capable of:
 - Providing the answer in the desired format while keeping in mind all the restrictions and instructions provided.
 - Continue to do so in follow-up prompts and give answers within the confinement of the provided restrictions/instructions.
-
+The final prompt was also run through claude ai and it also gave satisfactory result however, i couldn't test it to the full capacity as it is very limited in the free version.
 
 ## Limitations
-For solving this task, i used the free version of all softwares and tols as i did not have the paid versions.
+For solving this task, i used the free version of all softwares and tools as i did not have the paid versions.
 The reason i didnt go for claude is because i dont have the paid version and claude free version is very limited.
 For similar reasons, i have not generated many xml files as i wont be having the facility of uploading many files.
 
