@@ -44,31 +44,316 @@ We have the following tables:
 
 
 ### API Endpoints
-- GET /api/dashboard/last_study_session
-- GET /api/dashboard/study_progress
-- GET /api/dashboard/quick_stats
+#### GET /api/dashboard/last_study_session
+Returns information about the most recent study session
+```json
+{
+  "id": integer,
+  "created_at": datetime,
+  "study_activity_id": integer,
+  "group": {
+    "id": integer,
+    "name": string
+  }
+}
+```
 
-- GET /api/study-activities/:id
-- GET /api/study-activities/:id/study-sessions
+#### GET /api/dashboard/study_progress
+Returns study progress statistics
+Please note that the front end will determine progress percentage based on the total number of words available and the total number of words studied
+```json
+{
+  "total_words_studied": integer,
+  "total_available_words": integer,
+}
+```
 
-- POST /api/study-activities
-    - required params : study_activity_id, group_id
+#### GET /api/dashboard/quick_stats
+Returns quick stats about the user's study progress
+```json
+{
+  "success_rate": float,
+  "total_study_sessions": integer,
+  "total_active_groups": integer,
+  "study_streak_days": integer
+}
+```
 
-- GET /api/words
-    - pagination with 100 items per page
-- GET /api/words/:id
-- GET /api/groups
-    - pagination with 100 items per page
-- GET /api/groups/:id
-- GET /api/groups/:id/words
-- GET /api/groups/:id/study-sessions
-- GET /api/study-sessions
-    - pagination with 100 items per page
-- GET /api/study-sessions/:id
-- GET /api/study-sessions/:id/words
+#### GET /api/study-activities/:id
+Returns detailed information about a specific study activity.
+```json
+{
+  "id": integer,
+  "name": string,
+  "description": string,
+  "thumbnail_url": string,
+  "launch_url": string,
+  //"study_sessions": [
+  //  {
+    //  "id": integer,
+    //  "group_id": integer,
+    //  "created_at": datetime,
+     // "word_review_items_count": integer,
+    //  "start_time": datetime,
+    //  "end_time": datetime
+   // }
+  //]
+}
+```
 
+#### GET /api/study-activities/:id/study-sessions
+Returns paginated list with 100 words per page
+```json
+{
+  "total_pages": integer,
+  "current_page": integer,
+  "items_per_page": integer,
+  "total_items": integer,
+  "items": [
+    {
+      "id": integer,
+      "group_id": integer,
+      "created_at": datetime,
+      "word_review_items_count": integer,
+      "start_time": datetime,
+      "end_time": datetime,
+      "group": {
+        "id": integer,
+        "name": string
+      }
+    }
+  ]
+}
+```
 
-- POST /api/settings/reset-history
-- POST /api/settings/full-reset
-- POST /api/study_sessions/:id/words/:word_id/review
-    - required params : correct
+#### POST /api/study-activities
+Creates a new study activity
+##### Request Params
+- group_id integer
+- study_activity_id integer
+
+##### Response
+```json
+{
+  "id": integer,
+  "group_id": integer,
+  
+}
+```
+
+#### GET /api/words
+Returns paginated list of words
+```json
+{
+  "total_pages": integer,
+  "current_page": integer,
+  "items_per_page": 100,
+  "total_items": integer,
+  "items": [
+    {
+      "id": integer,
+      "arabic_word": string,
+      "english_word": string,
+      "correct_count": integer,
+      "wrong_count": integer,
+      "success_rate": float,
+      "groups": [
+        {
+          "id": integer,
+          "name": string
+        }
+      ]
+    }
+  ]
+}
+```
+
+#### GET /api/words/:id
+Returns detailed information about a specific word
+```json
+{
+  "id": integer,
+  "arabic_word": string,
+  "english_word": string,
+  "correct_count": integer,
+  "wrong_count": integer,
+  "success_rate": float,
+  "groups": [
+    {
+      "id": integer,
+      "name": string
+    }
+  ]
+}
+```
+
+#### GET /api/groups
+Returns paginated list of groups
+```json
+{
+  "total_pages": integer,
+  "current_page": integer,
+  "items_per_page": 100,
+  "total_items": integer,
+  "items": [
+    {
+      "id": integer,
+      "name": string,
+      "word_count": integer
+    }
+  ]
+}
+```
+
+#### GET /api/groups/:id
+Returns detailed information about a specific group
+```json
+{
+  "id": integer,
+  "name": string,
+  "total_word_count": integer,
+  
+}
+```
+
+#### GET /api/groups/:id/words
+Returns paginated list of words in a specific group
+```json
+{
+  "total_pages": integer,
+  "current_page": integer,
+  "items_per_page": 100,
+  "total_items": integer,
+  "items": [
+    {
+      "id": integer,
+      "arabic_word": string,
+      "english_word": string,
+      "correct_count": integer,
+      "wrong_count": integer,
+      "success_rate": float
+    }
+  ]
+}
+```
+
+#### GET /api/groups/:id/study-sessions
+Returns paginated list of study sessions for a specific group
+```json
+{
+  "total_pages": integer,
+  "current_page": integer,
+  "items_per_page": 100,
+  "total_items": integer,
+  "items": [
+    {
+      "id": integer,
+      "group_id": integer,
+      "created_at": datetime,
+      "word_review_items_count": integer,
+      "start_time": datetime,
+      "end_time": datetime,
+      "activity_name": string
+    }
+  ]
+}
+```
+
+#### GET /api/study-sessions
+Returns paginated list of study sessions
+```json
+{
+  "total_pages": integer,
+  "current_page": integer,
+  "items_per_page": 100,
+  "total_items": integer,
+  "items": [
+    {
+      "id": integer,
+      "group_id": integer,
+      "study_activity_id": integer,
+      "created_at": datetime,
+      "word_review_items_count": integer,
+      "start_time": datetime,
+      "end_time": datetime,
+      "activity_name": string
+    }
+  ]
+}
+```
+
+#### GET /api/study-sessions/:id
+Returns detailed information about a specific study session
+```json
+{
+  "id": integer,
+  "group_id": integer,
+  "study_activity_id": integer,
+  "created_at": datetime,
+  "word_review_items_count": integer,
+  "start_time": datetime,
+  "end_time": datetime,
+  "activity_name": string
+}
+```
+
+#### GET /api/study-sessions/:id/words
+Returns paginated list of words in a study session
+```json
+{
+  "total_pages": integer,
+  "current_page": integer,
+  "items_per_page": 100,
+  "total_items": integer,
+  "items": [
+    {
+      "id": integer,
+      "arabic_word": string,
+      "english_word": string,
+      "correct_count": integer,
+      "wrong_count": integer,
+      "success_rate": float
+    }
+  ]
+}
+```
+
+#### POST /api/settings/reset-history
+Reset study history
+```json
+{
+  "message": "Study history reset successfully",
+  "success": boolean
+}
+```
+
+#### POST /api/settings/full-reset
+Full database reset
+```json
+{
+  "message": "Full database reset completed",
+  "success": boolean
+}
+```
+
+#### POST /api/study_sessions/:id/words/:word_id/review
+##### Request Params
+- id integer
+- word_id integer
+- study_session_id integer
+##### Request Payload
+```json
+{
+  "correct": boolean
+}
+##### Response
+```json
+{
+  "message": "Word review updated successfully",
+  "success": boolean,
+  "word_id": integer,
+  "study_session_id": integer,
+  "correct": boolean,
+  "created_at": datetime
+}
+```
