@@ -366,5 +366,24 @@ Lets us list out possible tasks and run them.
 This task will initalize the database called `words.db`.
 ### Migrate Database
 This task will run a series of migrations sql files on the database.
+Migrations will live in the `migrations` folder
+The migration files will be run in the order of their filename.
+The file name should look like this :
+```sql
+0001_init.sql
+0002_create_words_table.sql
+```
 ### Seed Data
 This task will import json files and transform them into target data for our database.
+All seed files live in the `seeds` folder
+All seed files should be loaded.
+In our task we should have a DSL to specify each seed file and its expected group word name.
+
+```json
+[
+  {
+    "english_word": "word",
+    "arabic_word": "كلمة",
+  },
+  ...
+  ]```
