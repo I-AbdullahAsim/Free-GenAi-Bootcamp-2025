@@ -13,6 +13,7 @@ A language learning school wants to build a prototype of learning portal which w
 - There will be no authentication or authorization
 
 ## Database Schema
+Our database will be an Sqlit3 database called `words.db` that will be in the root of the project folder of `backend_go`
 We have the following tables:
 - words - stored vocabulary words
     - id integer
@@ -357,3 +358,13 @@ Full database reset
   "created_at": datetime
 }
 ```
+
+## Mage Tasks
+Mage is a task runner for Go.
+Lets us list out possible tasks and run them.
+### Initializing the database
+This task will initalize the database called `words.db`.
+### Migrate Database
+This task will run a series of migrations sql files on the database.
+### Seed Data
+This task will import json files and transform them into target data for our database.
