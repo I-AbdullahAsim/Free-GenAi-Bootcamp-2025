@@ -1,0 +1,42 @@
+[
+    {
+        "english_word": "cat",
+        "arabic_word": "قطة",
+        "parts": {
+            "singular": "قطة",
+            "plural": "قطط"
+        }
+    },
+    {
+        "english_word": "dog",
+        "arabic_word": "كلب",
+        "parts": {
+            "singular": "كلب",
+            "plural": "كلاب"
+        }
+    },
+    {
+        "english_word": "bird",
+        "arabic_word": "طير",
+        "parts": {
+            "singular": "طير",
+            "plural": "طيور"
+        }
+    },
+    {
+        "english_word": "fish",
+        "arabic_word": "سمكة",
+        "parts": {
+            "singular": "سمكة",
+            "plural": "أسماك"
+        }
+    },
+    {
+        "english_word": "elephant",
+        "arabic_word": "فيل",
+        "parts": {
+            "singular": "فيل",
+            "plural": "فيال"
+        }
+    }
+]

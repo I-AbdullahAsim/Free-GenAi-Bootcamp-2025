@@ -1,0 +1,42 @@
+[
+    {
+        "english_word": "bread",
+        "arabic_word": "خبز",
+        "parts": {
+            "singular": "خبز",
+            "plural": "أرغفة"
+        }
+    },
+    {
+        "english_word": "rice",
+        "arabic_word": "أرز",
+        "parts": {
+            "singular": "أرز",
+            "plural": "أرزات"
+        }
+    },
+    {
+        "english_word": "meat",
+        "arabic_word": "لحم",
+        "parts": {
+            "singular": "لحم",
+            "plural": "لحمات"
+        }
+    },
+    {
+        "english_word": "vegetable",
+        "arabic_word": "خضروات",
+        "parts": {
+            "singular": "خضروات",
+            "plural": "خضروات"
+        }
+    },
+    {
+        "english_word": "fruit",
+        "arabic_word": "فاكهة",
+        "parts": {
+            "singular": "فاكهة",
+            "plural": "فواكه"
+        }
+    }
+]

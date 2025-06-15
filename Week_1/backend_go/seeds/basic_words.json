@@ -1,0 +1,42 @@
+[
+    {
+        "english_word": "apple",
+        "arabic_word": "تفاحة",
+        "parts": {
+            "singular": "تفاحة",
+            "plural": "تفاحات"
+        }
+    },
+    {
+        "english_word": "water",
+        "arabic_word": "ماء",
+        "parts": {
+            "singular": "ماء",
+            "plural": "مياه"
+        }
+    },
+    {
+        "english_word": "book",
+        "arabic_word": "كتاب",
+        "parts": {
+            "singular": "كتاب",
+            "plural": "كتب"
+        }
+    },
+    {
+        "english_word": "house",
+        "arabic_word": "بيت",
+        "parts": {
+            "singular": "بيت",
+            "plural": "بيوت"
+        }
+    },
+    {
+        "english_word": "door",
+        "arabic_word": "باب",
+        "parts": {
+            "singular": "باب",
+            "plural": "أبواب"
+        }
+    }
+]
