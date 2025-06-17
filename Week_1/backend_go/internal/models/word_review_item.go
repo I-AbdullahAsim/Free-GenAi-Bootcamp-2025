@@ -1,16 +1,11 @@
 package models
 
-import (
-    "gorm.io/gorm"
-    "time"
-)
 
-type WordReviewItem struct {
-    gorm.Model
-    WordID          uint        `gorm:"not null"`
-    StudySessionID  uint        `gorm:"not null"`
-    Correct         bool        `gorm:"not null"`
-    CreatedAt       time.Time   `gorm:"not null"`
-    Word            Word
-    StudySession    StudySession
+
+// WordReviewItem model is defined in models.go
+// Use the models from models.go instead of defining them here
+
+// Model exports all models for external packages
+var _ = []interface{}{
+    (*WordReviewItem)(nil),
 }

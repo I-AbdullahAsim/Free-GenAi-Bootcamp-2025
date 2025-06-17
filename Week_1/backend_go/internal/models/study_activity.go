@@ -10,6 +10,6 @@ type StudyActivity struct {
     StudySessionID uint   `gorm:"not null"`
     GroupID        uint   `gorm:"not null"`
     CreatedAt      time.Time
-    StudySessions  []StudySession
+    StudySession   StudySession `gorm:"foreignKey:StudySessionID;references:ID"`
     Group          Group
 }
