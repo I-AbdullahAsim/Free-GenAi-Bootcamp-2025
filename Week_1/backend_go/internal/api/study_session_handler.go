@@ -95,22 +95,36 @@ func (h *StudySessionHandler) CreateWordReview(c *gin.Context) {
 		return
 	}
 
-	// Get review data from request body
-	review := models.WordReviewItem{}
-	if err := c.ShouldBindJSON(&review); err != nil {
-		c.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
+	// Use a dedicated struct for payload validation
+	type reviewPayload struct {
+		IsCorrect *bool `json:"is_correct"`
+	}
+	var payload reviewPayload
+	if err := c.ShouldBindJSON(&payload); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "invalid JSON payload"})
+		return
+	}
+	if payload.IsCorrect == nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "missing required field: is_correct"})
 		return
 	}
 
-	// Create review with session and word IDs
-	review.SessionID = uint(sessionIDUint)
-	review.WordID = uint(wordIDUint)
+	review := models.WordReviewItem{
+		SessionID: uint(sessionIDUint),
+		WordID:    uint(wordIDUint),
+		IsCorrect: *payload.IsCorrect,
+	}
 
 	if err := h.service.CreateWordReview(&review); err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
 		return
 	}
-	c.JSON(http.StatusCreated, review)
+
+	c.JSON(http.StatusCreated, gin.H{
+		"success": true,
+		"message": "Word review updated successfully",
+		"data":    review,
+	})
 }
 
 // DeleteStudySession deletes a study session

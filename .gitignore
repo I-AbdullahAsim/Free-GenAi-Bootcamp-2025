@@ -1,1 +1,3 @@
 Week_1/ollama-comps/.env
+.vscode/
+*.db

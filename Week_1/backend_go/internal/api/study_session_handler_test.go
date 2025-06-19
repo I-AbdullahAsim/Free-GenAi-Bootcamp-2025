@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 	"net/http/httptest"
+	"strings"
 	"testing"
 	"time"
 
@@ -11,6 +12,7 @@ import (
 	"github.com/i-AbdullahAsim/free-genai-bootcamp-2025/Week_1/backend_go/internal/models"
 	"github.com/stretchr/testify/assert"
 	"gorm.io/gorm"
+	"github.com/stretchr/testify/mock"
 )
 
 func setupStudySessionTestRouter(mockService StudyServiceInterface) *gin.Engine {
@@ -21,6 +23,19 @@ func setupStudySessionTestRouter(mockService StudyServiceInterface) *gin.Engine 
 	router.GET("/api/study-sessions", handler.GetStudySessions)
 	router.GET("/api/study-sessions/:id", handler.GetStudySession)
 	router.GET("/api/study-sessions/:id/words", handler.GetStudySessionWords)
+
+	return router
+}
+
+func setupStudySessionTestRouterWithReview(mockService StudyServiceInterface) *gin.Engine {
+	gin.SetMode(gin.TestMode)
+	router := gin.New()
+	handler := NewStudySessionHandler(mockService)
+
+	router.GET("/api/study-sessions", handler.GetStudySessions)
+	router.GET("/api/study-sessions/:id", handler.GetStudySession)
+	router.GET("/api/study-sessions/:id/words", handler.GetStudySessionWords)
+	router.POST("/api/study-sessions/:id/words/:word_id/review", handler.CreateWordReview)
 
 	return router
 }
@@ -190,5 +205,54 @@ func TestGetStudySessionWords(t *testing.T) {
 		err := json.Unmarshal(w.Body.Bytes(), &response)
 		assert.NoError(t, err)
 		assert.Empty(t, response)
+	})
+}
+
+func TestCreateWordReview(t *testing.T) {
+	mockService := new(MockStudyService)
+	router := setupStudySessionTestRouterWithReview(mockService)
+
+	t.Run("Success", func(t *testing.T) {
+		mockService.On("CreateWordReview", mock.AnythingOfType("*models.WordReviewItem")).Return(nil)
+
+		payload := `{"is_correct": true}`
+		w := httptest.NewRecorder()
+		req, _ := http.NewRequest("POST", "/api/study-sessions/2/words/1/review", strings.NewReader(payload))
+		req.Header.Set("Content-Type", "application/json")
+		router.ServeHTTP(w, req)
+
+		assert.Equal(t, http.StatusCreated, w.Code)
+		var response struct {
+			Success bool `json:"success"`
+			Message string `json:"message"`
+			Data    models.WordReviewItem `json:"data"`
+		}
+		err := json.Unmarshal(w.Body.Bytes(), &response)
+		assert.NoError(t, err)
+		assert.True(t, response.Success)
+		assert.Equal(t, "Word review updated successfully", response.Message)
+		assert.Equal(t, uint(1), response.Data.WordID)
+		assert.Equal(t, uint(2), response.Data.SessionID)
+		assert.True(t, response.Data.IsCorrect)
+	})
+
+	t.Run("Invalid Payload", func(t *testing.T) {
+		w := httptest.NewRecorder()
+		req, _ := http.NewRequest("POST", "/api/study-sessions/2/words/1/review", strings.NewReader("{}"))
+		req.Header.Set("Content-Type", "application/json")
+		router.ServeHTTP(w, req)
+		assert.Equal(t, http.StatusBadRequest, w.Code)
+	})
+
+	t.Run("Service Error", func(t *testing.T) {
+		mockService.ExpectedCalls = nil // Reset mock
+		mockService.On("CreateWordReview", mock.AnythingOfType("*models.WordReviewItem")).Return(gorm.ErrInvalidData)
+
+		payload := `{"is_correct": false}`
+		w := httptest.NewRecorder()
+		req, _ := http.NewRequest("POST", "/api/study-sessions/2/words/1/review", strings.NewReader(payload))
+		req.Header.Set("Content-Type", "application/json")
+		router.ServeHTTP(w, req)
+		assert.Equal(t, http.StatusInternalServerError, w.Code)
 	})
 } 

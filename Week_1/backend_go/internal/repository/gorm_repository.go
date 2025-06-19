@@ -286,6 +286,14 @@ func (r *GORMStudyActivityRepository) FindStudyActivitySessions(activityID uint)
 	return sessions, nil
 }
 
+func (r *GORMStudyActivityRepository) FindGroupByID(id uint) (*models.Group, error) {
+	var group models.Group
+	if err := r.db.First(&group, id).Error; err != nil {
+		return nil, err
+	}
+	return &group, nil
+}
+
 // GORMWordReviewRepository implements WordReviewRepository using GORM
 type GORMWordReviewRepository struct {
 	db *gorm.DB
