@@ -1,0 +1,491 @@
+[
+  {
+    "english_word": "electricity",
+    "arabic_word": "كهرباء",
+    "arabic_letters": [
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: كهرباء",
+      "plural: كهرباءات"
+    ]
+  },
+  {
+    "english_word": "water",
+    "arabic_word": "ماء",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "utility",
+      "resource",
+      "singular: ماء",
+      "plural: مياه"
+    ]
+  },
+  {
+    "english_word": "gas",
+    "arabic_word": "غاز",
+    "arabic_letters": [
+      "غ",
+      "ا",
+      "ز"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: غاز",
+      "plural: غازات"
+    ]
+  },
+  {
+    "english_word": "internet",
+    "arabic_word": "إنترنت",
+    "arabic_letters": [
+      "إ",
+      "ن",
+      "ت",
+      "ر",
+      "ن",
+      "ت"
+    ],
+    "parts": [
+      "utility",
+      "communication",
+      "singular: إنترنت",
+      "plural: إنترنتات"
+    ]
+  },
+  {
+    "english_word": "phone",
+    "arabic_word": "هاتف",
+    "arabic_letters": [
+      "ه",
+      "ا",
+      "ت",
+      "ف"
+    ],
+    "parts": [
+      "utility",
+      "communication",
+      "singular: هاتف",
+      "plural: هواتف"
+    ]
+  },
+  {
+    "english_word": "television",
+    "arabic_word": "تلفزيون",
+    "arabic_letters": [
+      "ت",
+      "ل",
+      "ف",
+      "ز",
+      "ي",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "utility",
+      "entertainment",
+      "singular: تلفزيون",
+      "plural: تلفزيونات"
+    ]
+  },
+  {
+    "english_word": "radio",
+    "arabic_word": "راديو",
+    "arabic_letters": [
+      "ر",
+      "ا",
+      "د",
+      "ي",
+      "و"
+    ],
+    "parts": [
+      "utility",
+      "entertainment",
+      "singular: راديو",
+      "plural: راديوهات"
+    ]
+  },
+  {
+    "english_word": "heating",
+    "arabic_word": "تدفئة",
+    "arabic_letters": [
+      "ت",
+      "د",
+      "ف",
+      "ئ",
+      "ة"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: تدفئة",
+      "plural: تدفيئات"
+    ]
+  },
+  {
+    "english_word": "cooling",
+    "arabic_word": "تكييف",
+    "arabic_letters": [
+      "ت",
+      "ك",
+      "ي",
+      "ي",
+      "ف"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: تكييف",
+      "plural: تكييفات"
+    ]
+  },
+  {
+    "english_word": "plumbing",
+    "arabic_word": "ماء معالج",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ء",
+      "م",
+      "ع",
+      "ا",
+      "ل",
+      "ج"
+    ],
+    "parts": [
+      "utility",
+      "resource",
+      "singular: ماء معالج",
+      "plural: مياه معالجة"
+    ]
+  },
+  {
+    "english_word": "sewerage",
+    "arabic_word": "مجاري",
+    "arabic_letters": [
+      "م",
+      "ج",
+      "ا",
+      "ر",
+      "ي"
+    ],
+    "parts": [
+      "utility",
+      "resource",
+      "singular: مجاري",
+      "plural: مجاريات"
+    ]
+  },
+  {
+    "english_word": "trash",
+    "arabic_word": "نفايات",
+    "arabic_letters": [
+      "ن",
+      "ف",
+      "ا",
+      "ي",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "utility",
+      "waste",
+      "singular: نفاية",
+      "plural: نفايات"
+    ]
+  },
+  {
+    "english_word": "recycling",
+    "arabic_word": "تدوير",
+    "arabic_letters": [
+      "ت",
+      "د",
+      "و",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "utility",
+      "waste",
+      "singular: تدوير",
+      "plural: تدويرات"
+    ]
+  },
+  {
+    "english_word": "fire alarm",
+    "arabic_word": "منبه حريق",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ب",
+      "ه",
+      "ح",
+      "ر",
+      "ي",
+      "ق"
+    ],
+    "parts": [
+      "utility",
+      "safety",
+      "singular: منبه حريق",
+      "plural: منبهات حريق"
+    ]
+  },
+  {
+    "english_word": "security camera",
+    "arabic_word": "كاميرا أمن",
+    "arabic_letters": [
+      "ك",
+      "ا",
+      "م",
+      "ي",
+      "ر",
+      "ا",
+      "أ",
+      "م",
+      "ن"
+    ],
+    "parts": [
+      "utility",
+      "safety",
+      "singular: كاميرا أمن",
+      "plural: كاميرات أمن"
+    ]
+  },
+  {
+    "english_word": "elevator",
+    "arabic_word": "مصعد",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ع",
+      "د"
+    ],
+    "parts": [
+      "utility",
+      "transportation",
+      "singular: مصعد",
+      "plural: مصاعد"
+    ]
+  },
+  {
+    "english_word": "generator",
+    "arabic_word": "مولد",
+    "arabic_letters": [
+      "م",
+      "و",
+      "ل",
+      "د"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: مولد",
+      "plural: مولدات"
+    ]
+  },
+  {
+    "english_word": "air conditioning",
+    "arabic_word": "تكييف هواء",
+    "arabic_letters": [
+      "ت",
+      "ك",
+      "ي",
+      "ي",
+      "ف",
+      "ه",
+      "و",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: تكييف هواء",
+      "plural: تكييفات هواء"
+    ]
+  },
+  {
+    "english_word": "ventilation",
+    "arabic_word": "تهوية",
+    "arabic_letters": [
+      "ت",
+      "ه",
+      "و",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: تهوية",
+      "plural: تهويات"
+    ]
+  },
+  {
+    "english_word": "lighting",
+    "arabic_word": "إضاءة",
+    "arabic_letters": [
+      "إ",
+      "ض",
+      "ا",
+      "ء",
+      "ة"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: إضاءة",
+      "plural: إضاءات"
+    ]
+  },
+  {
+    "english_word": "water heater",
+    "arabic_word": "ماء ساخن",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ء",
+      "س",
+      "ا",
+      "خ",
+      "ن"
+    ],
+    "parts": [
+      "utility",
+      "resource",
+      "singular: ماء ساخن",
+      "plural: مياه ساخنة"
+    ]
+  },
+  {
+    "english_word": "fire extinguisher",
+    "arabic_word": "مطفئ حريق",
+    "arabic_letters": [
+      "م",
+      "ط",
+      "ف",
+      "ئ",
+      "ح",
+      "ر",
+      "ي",
+      "ق"
+    ],
+    "parts": [
+      "utility",
+      "safety",
+      "singular: مطفئ حريق",
+      "plural: مطفئات حريق"
+    ]
+  },
+  {
+    "english_word": "alarm system",
+    "arabic_word": "نظام منبه",
+    "arabic_letters": [
+      "ن",
+      "ظ",
+      "ا",
+      "م",
+      "م",
+      "ن",
+      "ب",
+      "ه"
+    ],
+    "parts": [
+      "utility",
+      "safety",
+      "singular: نظام منبه",
+      "plural: أنظمة منبه"
+    ]
+  },
+  {
+    "english_word": "surveillance",
+    "arabic_word": "مراقبة",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "ا",
+      "ق",
+      "ب",
+      "ة"
+    ],
+    "parts": [
+      "utility",
+      "safety",
+      "singular: مراقبة",
+      "plural: مراقبات"
+    ]
+  },
+  {
+    "english_word": "electric meter",
+    "arabic_word": "عداد كهرباء",
+    "arabic_letters": [
+      "ع",
+      "د",
+      "ا",
+      "د",
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: عداد كهرباء",
+      "plural: عدادات كهرباء"
+    ]
+  },
+  {
+    "english_word": "water meter",
+    "arabic_word": "عداد ماء",
+    "arabic_letters": [
+      "ع",
+      "د",
+      "ا",
+      "د",
+      "م",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "utility",
+      "resource",
+      "singular: عداد ماء",
+      "plural: عدادات ماء"
+    ]
+  },
+  {
+    "english_word": "gas meter",
+    "arabic_word": "عداد غاز",
+    "arabic_letters": [
+      "ع",
+      "د",
+      "ا",
+      "د",
+      "غ",
+      "ا",
+      "ز"
+    ],
+    "parts": [
+      "utility",
+      "energy",
+      "singular: عداد غاز",
+      "plural: عدادات غاز"
+    ]
+  }
+]

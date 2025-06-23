@@ -1,0 +1,523 @@
+[
+  {
+    "english_word": "house",
+    "arabic_word": "بيت",
+    "arabic_letters": [
+      "ب",
+      "ي",
+      "ت"
+    ],
+    "parts": [
+      "building",
+      "residence",
+      "singular: بيت",
+      "plural: بيوت"
+    ]
+  },
+  {
+    "english_word": "apartment",
+    "arabic_word": "شقة",
+    "arabic_letters": [
+      "ش",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "building",
+      "residence",
+      "singular: شقة",
+      "plural: شقق"
+    ]
+  },
+  {
+    "english_word": "room",
+    "arabic_word": "غرفة",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة"
+    ],
+    "parts": [
+      "space",
+      "indoor",
+      "singular: غرفة",
+      "plural: غرف"
+    ]
+  },
+  {
+    "english_word": "bedroom",
+    "arabic_word": "غرفة نوم",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة",
+      "ن",
+      "و",
+      "م"
+    ],
+    "parts": [
+      "space",
+      "indoor",
+      "singular: غرفة نوم",
+      "plural: غرف نوم"
+    ]
+  },
+  {
+    "english_word": "kitchen",
+    "arabic_word": "مطبخ",
+    "arabic_letters": [
+      "م",
+      "ط",
+      "ب",
+      "خ"
+    ],
+    "parts": [
+      "space",
+      "indoor",
+      "singular: مطبخ",
+      "plural: مطابخ"
+    ]
+  },
+  {
+    "english_word": "bathroom",
+    "arabic_word": "حمام",
+    "arabic_letters": [
+      "ح",
+      "م",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "space",
+      "indoor",
+      "singular: حمام",
+      "plural: حمامات"
+    ]
+  },
+  {
+    "english_word": "living room",
+    "arabic_word": "غرفة جلوس",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة",
+      "ج",
+      "ل",
+      "و",
+      "س"
+    ],
+    "parts": [
+      "space",
+      "indoor",
+      "singular: غرفة جلوس",
+      "plural: غرف جلوس"
+    ]
+  },
+  {
+    "english_word": "dining room",
+    "arabic_word": "غرفة طعام",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة",
+      "ط",
+      "ع",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "space",
+      "indoor",
+      "singular: غرفة طعام",
+      "plural: غرف طعام"
+    ]
+  },
+  {
+    "english_word": "door",
+    "arabic_word": "باب",
+    "arabic_letters": [
+      "ب",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: باب",
+      "plural: أبواب"
+    ]
+  },
+  {
+    "english_word": "window",
+    "arabic_word": "نافذة",
+    "arabic_letters": [
+      "ن",
+      "ا",
+      "ف",
+      "ذ",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: نافذة",
+      "plural: نوافذ"
+    ]
+  },
+  {
+    "english_word": "mirror",
+    "arabic_word": "مرآة",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "آ",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: مرآة",
+      "plural: مرايا"
+    ]
+  },
+  {
+    "english_word": "table",
+    "arabic_word": "مائدة",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ئ",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: مائدة",
+      "plural: مائدات"
+    ]
+  },
+  {
+    "english_word": "chair",
+    "arabic_word": "كرسي",
+    "arabic_letters": [
+      "ك",
+      "ر",
+      "س",
+      "ي"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: كرسي",
+      "plural: كراسي"
+    ]
+  },
+  {
+    "english_word": "bed",
+    "arabic_word": "سرير",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: سرير",
+      "plural: سراير"
+    ]
+  },
+  {
+    "english_word": "sofa",
+    "arabic_word": "كنبة",
+    "arabic_letters": [
+      "ك",
+      "ن",
+      "ب",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: كنبة",
+      "plural: كنبات"
+    ]
+  },
+  {
+    "english_word": "cabinet",
+    "arabic_word": "خزانة",
+    "arabic_letters": [
+      "خ",
+      "ز",
+      "ا",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: خزانة",
+      "plural: خزانات"
+    ]
+  },
+  {
+    "english_word": "shelf",
+    "arabic_word": "رف",
+    "arabic_letters": [
+      "ر",
+      "ف"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: رف",
+      "plural: رفات"
+    ]
+  },
+  {
+    "english_word": "lamp",
+    "arabic_word": "مصباح",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ب",
+      "ا",
+      "ح"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: مصباح",
+      "plural: مصباحات"
+    ]
+  },
+  {
+    "english_word": "television",
+    "arabic_word": "تلفزيون",
+    "arabic_letters": [
+      "ت",
+      "ل",
+      "ف",
+      "ز",
+      "ي",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "electronic",
+      "indoor",
+      "singular: تلفزيون",
+      "plural: تلفزيونات"
+    ]
+  },
+  {
+    "english_word": "air conditioner",
+    "arabic_word": "مكيف هواء",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ي",
+      "ف",
+      "ه",
+      "و",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "electronic",
+      "indoor",
+      "singular: مكيف هواء",
+      "plural: مكيفات هواء"
+    ]
+  },
+  {
+    "english_word": "refrigerator",
+    "arabic_word": "ثلاجة",
+    "arabic_letters": [
+      "ث",
+      "ل",
+      "ا",
+      "ج",
+      "ة"
+    ],
+    "parts": [
+      "electronic",
+      "indoor",
+      "singular: ثلاجة",
+      "plural: ثلاجات"
+    ]
+  },
+  {
+    "english_word": "washing machine",
+    "arabic_word": "غسالة ملابس",
+    "arabic_letters": [
+      "غ",
+      "س",
+      "ا",
+      "ل",
+      "ة",
+      "م",
+      "ل",
+      "ا",
+      "ب",
+      "س"
+    ],
+    "parts": [
+      "electronic",
+      "indoor",
+      "singular: غسالة ملابس",
+      "plural: غسالات ملابس"
+    ]
+  },
+  {
+    "english_word": "garden",
+    "arabic_word": "حديقة",
+    "arabic_letters": [
+      "ح",
+      "د",
+      "ي",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "outdoor",
+      "residence",
+      "singular: حديقة",
+      "plural: حدائق"
+    ]
+  },
+  {
+    "english_word": "balcony",
+    "arabic_word": "شرفة",
+    "arabic_letters": [
+      "ش",
+      "ر",
+      "ف",
+      "ة"
+    ],
+    "parts": [
+      "outdoor",
+      "residence",
+      "singular: شرفة",
+      "plural: شرفات"
+    ]
+  },
+  {
+    "english_word": "roof",
+    "arabic_word": "سقف",
+    "arabic_letters": [
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "outdoor",
+      "residence",
+      "singular: سقف",
+      "plural: أسقف"
+    ]
+  },
+  {
+    "english_word": "staircase",
+    "arabic_word": "درج",
+    "arabic_letters": [
+      "د",
+      "ر",
+      "ج"
+    ],
+    "parts": [
+      "building",
+      "indoor",
+      "singular: درج",
+      "plural: درجات"
+    ]
+  },
+  {
+    "english_word": "elevator",
+    "arabic_word": "مصعد",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ع",
+      "د"
+    ],
+    "parts": [
+      "building",
+      "indoor",
+      "singular: مصعد",
+      "plural: مصاعد"
+    ]
+  },
+  {
+    "english_word": "garage",
+    "arabic_word": "جراج",
+    "arabic_letters": [
+      "ج",
+      "ر",
+      "ا",
+      "ج"
+    ],
+    "parts": [
+      "building",
+      "indoor",
+      "singular: جراج",
+      "plural: جراجات"
+    ]
+  },
+  {
+    "english_word": "furniture",
+    "arabic_word": "أثاث",
+    "arabic_letters": [
+      "أ",
+      "ث",
+      "ا",
+      "ث"
+    ],
+    "parts": [
+      "indoor",
+      "household",
+      "singular: أثاث",
+      "plural: أثاثات"
+    ]
+  },
+  {
+    "english_word": "curtain",
+    "arabic_word": "ستارة",
+    "arabic_letters": [
+      "س",
+      "ت",
+      "ا",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: ستارة",
+      "plural: ستارات"
+    ]
+  },
+  {
+    "english_word": "carpet",
+    "arabic_word": "سجادة",
+    "arabic_letters": [
+      "س",
+      "ج",
+      "ا",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "indoor",
+      "singular: سجادة",
+      "plural: سجادات"
+    ]
+  }
+]

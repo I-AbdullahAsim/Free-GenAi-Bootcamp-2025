@@ -1,0 +1,439 @@
+[
+  {
+    "english_word": "house",
+    "arabic_word": "بيت",
+    "arabic_letters": [
+      "ب",
+      "ي",
+      "ت"
+    ],
+    "parts": [
+      "building",
+      "residence",
+      "singular: بيت",
+      "plural: بيوت"
+    ]
+  },
+  {
+    "english_word": "apartment",
+    "arabic_word": "شقة",
+    "arabic_letters": [
+      "ش",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "building",
+      "residence",
+      "singular: شقة",
+      "plural: شقق"
+    ]
+  },
+  {
+    "english_word": "room",
+    "arabic_word": "غرفة",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة"
+    ],
+    "parts": [
+      "space",
+      "residence",
+      "singular: غرفة",
+      "plural: غرف"
+    ]
+  },
+  {
+    "english_word": "office",
+    "arabic_word": "مكتب",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ت",
+      "ب"
+    ],
+    "parts": [
+      "space",
+      "workplace",
+      "singular: مكتب",
+      "plural: مكاتب"
+    ]
+  },
+  {
+    "english_word": "factory",
+    "arabic_word": "مصنع",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ن",
+      "ع"
+    ],
+    "parts": [
+      "building",
+      "industry",
+      "singular: مصنع",
+      "plural: مصانع"
+    ]
+  },
+  {
+    "english_word": "land",
+    "arabic_word": "أرض",
+    "arabic_letters": [
+      "أ",
+      "ر",
+      "ض"
+    ],
+    "parts": [
+      "property",
+      "real estate",
+      "singular: أرض",
+      "plural: أراضي"
+    ]
+  },
+  {
+    "english_word": "territory",
+    "arabic_word": "إقليم",
+    "arabic_letters": [
+      "إ",
+      "ق",
+      "ل",
+      "ي",
+      "م"
+    ],
+    "parts": [
+      "property",
+      "geography",
+      "singular: إقليم",
+      "plural: أقاليم"
+    ]
+  },
+  {
+    "english_word": "settlement",
+    "arabic_word": "مستوطنة",
+    "arabic_letters": [
+      "م",
+      "س",
+      "ت",
+      "و",
+      "ط",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "community",
+      "residence",
+      "singular: مستوطنة",
+      "plural: مستوطنات"
+    ]
+  },
+  {
+    "english_word": "colony",
+    "arabic_word": "مستعمرة",
+    "arabic_letters": [
+      "م",
+      "س",
+      "ت",
+      "ع",
+      "م",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "community",
+      "residence",
+      "singular: مستعمرة",
+      "plural: مستعمرات"
+    ]
+  },
+  {
+    "english_word": "village",
+    "arabic_word": "قرية",
+    "arabic_letters": [
+      "ق",
+      "ر",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "community",
+      "residence",
+      "singular: قرية",
+      "plural: قرى"
+    ]
+  },
+  {
+    "english_word": "town",
+    "arabic_word": "بلدة",
+    "arabic_letters": [
+      "ب",
+      "ل",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "community",
+      "residence",
+      "singular: بلدة",
+      "plural: بلدات"
+    ]
+  },
+  {
+    "english_word": "city",
+    "arabic_word": "مدينة",
+    "arabic_letters": [
+      "م",
+      "د",
+      "ي",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "community",
+      "residence",
+      "singular: مدينة",
+      "plural: مدن"
+    ]
+  },
+  {
+    "english_word": "capital",
+    "arabic_word": "عاصمة",
+    "arabic_letters": [
+      "ع",
+      "ا",
+      "ص",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "city",
+      "government",
+      "singular: عاصمة",
+      "plural: عواصم"
+    ]
+  },
+  {
+    "english_word": "neighborhood",
+    "arabic_word": "حي",
+    "arabic_letters": [
+      "ح",
+      "ي"
+    ],
+    "parts": [
+      "community",
+      "residence",
+      "singular: حي",
+      "plural: أحياء"
+    ]
+  },
+  {
+    "english_word": "district",
+    "arabic_word": "منطقة",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ط",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "area",
+      "geography",
+      "singular: منطقة",
+      "plural: مناطق"
+    ]
+  },
+  {
+    "english_word": "region",
+    "arabic_word": "منطقة",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ط",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "area",
+      "geography",
+      "singular: منطقة",
+      "plural: مناطق"
+    ]
+  },
+  {
+    "english_word": "province",
+    "arabic_word": "محافظة",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ا",
+      "ف",
+      "ظ",
+      "ة"
+    ],
+    "parts": [
+      "area",
+      "government",
+      "singular: محافظة",
+      "plural: محافظات"
+    ]
+  },
+  {
+    "english_word": "state",
+    "arabic_word": "دولة",
+    "arabic_letters": [
+      "د",
+      "و",
+      "ل",
+      "ة"
+    ],
+    "parts": [
+      "area",
+      "government",
+      "singular: دولة",
+      "plural: دول"
+    ]
+  },
+  {
+    "english_word": "country",
+    "arabic_word": "بلد",
+    "arabic_letters": [
+      "ب",
+      "ل",
+      "د"
+    ],
+    "parts": [
+      "area",
+      "geography",
+      "singular: بلد",
+      "plural: بلدان"
+    ]
+  },
+  {
+    "english_word": "continent",
+    "arabic_word": "قارة",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "area",
+      "geography",
+      "singular: قارة",
+      "plural: قارات"
+    ]
+  },
+  {
+    "english_word": "camp",
+    "arabic_word": "مخيم",
+    "arabic_letters": [
+      "م",
+      "خ",
+      "ي",
+      "م"
+    ],
+    "parts": [
+      "temporary residence",
+      "travel",
+      "singular: مخيم",
+      "plural: مخيمات"
+    ]
+  },
+  {
+    "english_word": "fortress",
+    "arabic_word": "حصن",
+    "arabic_letters": [
+      "ح",
+      "ص",
+      "ن"
+    ],
+    "parts": [
+      "building",
+      "military",
+      "singular: حصن",
+      "plural: حصون"
+    ]
+  },
+  {
+    "english_word": "castle",
+    "arabic_word": "قصر",
+    "arabic_letters": [
+      "ق",
+      "ص",
+      "ر"
+    ],
+    "parts": [
+      "building",
+      "residence",
+      "singular: قصر",
+      "plural: قصور"
+    ]
+  },
+  {
+    "english_word": "villa",
+    "arabic_word": "فيلا",
+    "arabic_letters": [
+      "ف",
+      "ي",
+      "ل",
+      "ا"
+    ],
+    "parts": [
+      "building",
+      "residence",
+      "singular: فيلا",
+      "plural: فيلات"
+    ]
+  },
+  {
+    "english_word": "mansion",
+    "arabic_word": "قصر",
+    "arabic_letters": [
+      "ق",
+      "ص",
+      "ر"
+    ],
+    "parts": [
+      "building",
+      "residence",
+      "singular: قصر",
+      "plural: قصور"
+    ]
+  },
+  {
+    "english_word": "hut",
+    "arabic_word": "كبينة",
+    "arabic_letters": [
+      "ك",
+      "ب",
+      "ي",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "building",
+      "residence",
+      "singular: كبينة",
+      "plural: كبائن"
+    ]
+  },
+  {
+    "english_word": "tent",
+    "arabic_word": "خيمة",
+    "arabic_letters": [
+      "خ",
+      "ي",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "temporary residence",
+      "travel",
+      "singular: خيمة",
+      "plural: خيام"
+    ]
+  }
+]

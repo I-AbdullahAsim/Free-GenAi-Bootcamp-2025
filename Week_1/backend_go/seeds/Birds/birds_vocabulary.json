@@ -1,0 +1,448 @@
+[
+  {
+    "english_word": "bird",
+    "arabic_word": "طائر",
+    "arabic_letters": [
+      "ط",
+      "ا",
+      "ئ",
+      "ر"
+    ],
+    "parts": [
+      "animal",
+      "nature",
+      "singular: طائر",
+      "plural: طيور"
+    ]
+  },
+  {
+    "english_word": "eagle",
+    "arabic_word": "نسر",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "ر"
+    ],
+    "parts": [
+      "bird of prey",
+      "nature",
+      "singular: نسر",
+      "plural: نسور"
+    ]
+  },
+  {
+    "english_word": "sparrow",
+    "arabic_word": "دوري",
+    "arabic_letters": [
+      "د",
+      "و",
+      "ر",
+      "ي"
+    ],
+    "parts": [
+      "small bird",
+      "nature",
+      "singular: دوري",
+      "plural: دوريات"
+    ]
+  },
+  {
+    "english_word": "pigeon",
+    "arabic_word": "حمامة",
+    "arabic_letters": [
+      "ح",
+      "م",
+      "ا",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "domestic bird",
+      "city",
+      "singular: حمامة",
+      "plural: حمامات"
+    ]
+  },
+  {
+    "english_word": "parrot",
+    "arabic_word": "ببغاء",
+    "arabic_letters": [
+      "ب",
+      "ب",
+      "غ",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "colorful bird",
+      "pet",
+      "singular: ببغاء",
+      "plural: ببغاوات"
+    ]
+  },
+  {
+    "english_word": "owl",
+    "arabic_word": "بومة",
+    "arabic_letters": [
+      "ب",
+      "و",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "nocturnal bird",
+      "nature",
+      "singular: بومة",
+      "plural: بومات"
+    ]
+  },
+  {
+    "english_word": "peacock",
+    "arabic_word": "تاووس",
+    "arabic_letters": [
+      "ت",
+      "ا",
+      "و",
+      "و",
+      "س"
+    ],
+    "parts": [
+      "ornamental bird",
+      "zoo",
+      "singular: تاووس",
+      "plural: تاووسات"
+    ]
+  },
+  {
+    "english_word": "turkey",
+    "arabic_word": "ديك رومي",
+    "arabic_letters": [
+      "د",
+      "ي",
+      "ك",
+      "ر",
+      "و",
+      "م",
+      "ي"
+    ],
+    "parts": [
+      "large bird",
+      "food",
+      "singular: ديك رومي",
+      "plural: ديك رومي"
+    ]
+  },
+  {
+    "english_word": "chicken",
+    "arabic_word": "دجاجة",
+    "arabic_letters": [
+      "د",
+      "ج",
+      "ا",
+      "ج",
+      "ة"
+    ],
+    "parts": [
+      "domestic bird",
+      "food",
+      "singular: دجاجة",
+      "plural: دجاجات"
+    ]
+  },
+  {
+    "english_word": "duck",
+    "arabic_word": "بطة",
+    "arabic_letters": [
+      "ب",
+      "ط",
+      "ة"
+    ],
+    "parts": [
+      "water bird",
+      "food",
+      "singular: بطة",
+      "plural: بطات"
+    ]
+  },
+  {
+    "english_word": "goose",
+    "arabic_word": "أوز",
+    "arabic_letters": [
+      "أ",
+      "و",
+      "ز"
+    ],
+    "parts": [
+      "water bird",
+      "food",
+      "singular: أوز",
+      "plural: أوزات"
+    ]
+  },
+  {
+    "english_word": "flamingo",
+    "arabic_word": "فلamingو",
+    "arabic_letters": [
+      "ف",
+      "ل",
+      "a",
+      "m",
+      "i",
+      "n",
+      "g",
+      "و"
+    ],
+    "parts": [
+      "pink bird",
+      "zoo",
+      "singular: فلamingو",
+      "plural: فلamingوات"
+    ]
+  },
+  {
+    "english_word": "stork",
+    "arabic_word": "لقلق",
+    "arabic_letters": [
+      "ل",
+      "ق",
+      "ل",
+      "ق"
+    ],
+    "parts": [
+      "large wading bird",
+      "nature",
+      "singular: لقلق",
+      "plural: لقلقات"
+    ]
+  },
+  {
+    "english_word": "crane",
+    "arabic_word": "كركي",
+    "arabic_letters": [
+      "ك",
+      "ر",
+      "ك",
+      "ي"
+    ],
+    "parts": [
+      "large wading bird",
+      "nature",
+      "singular: كركي",
+      "plural: كركيات"
+    ]
+  },
+  {
+    "english_word": "hawk",
+    "arabic_word": "صقر",
+    "arabic_letters": [
+      "ص",
+      "ق",
+      "ر"
+    ],
+    "parts": [
+      "bird of prey",
+      "nature",
+      "singular: صقر",
+      "plural: صقور"
+    ]
+  },
+  {
+    "english_word": "falcon",
+    "arabic_word": "صقر جارح",
+    "arabic_letters": [
+      "ص",
+      "ق",
+      "ر",
+      "ج",
+      "ا",
+      "ر",
+      "ح"
+    ],
+    "parts": [
+      "bird of prey",
+      "nature",
+      "singular: صقر جارح",
+      "plural: صقور جارحة"
+    ]
+  },
+  {
+    "english_word": "vulture",
+    "arabic_word": "نسر أبو ليم",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "ر",
+      "أ",
+      "ب",
+      "و",
+      "ل",
+      "ي",
+      "م"
+    ],
+    "parts": [
+      "scavenging bird",
+      "nature",
+      "singular: نسر أبو ليم",
+      "plural: نسور أبو ليم"
+    ]
+  },
+  {
+    "english_word": "penguin",
+    "arabic_word": "بنجوي",
+    "arabic_letters": [
+      "ب",
+      "ن",
+      "ج",
+      "و",
+      "ي"
+    ],
+    "parts": [
+      "flightless bird",
+      "Antarctica",
+      "singular: بنجوي",
+      "plural: بنجويات"
+    ]
+  },
+  {
+    "english_word": "ostrich",
+    "arabic_word": "نعام",
+    "arabic_letters": [
+      "ن",
+      "ع",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "large flightless bird",
+      "Africa",
+      "singular: نعام",
+      "plural: نعامات"
+    ]
+  },
+  {
+    "english_word": "emus",
+    "arabic_word": "إيمو",
+    "arabic_letters": [
+      "إ",
+      "ي",
+      "م",
+      "و"
+    ],
+    "parts": [
+      "large flightless bird",
+      "Australia",
+      "singular: إيمو",
+      "plural: إيموات"
+    ]
+  },
+  {
+    "english_word": "kiwi",
+    "arabic_word": "كيوي",
+    "arabic_letters": [
+      "ك",
+      "ي",
+      "و",
+      "ي"
+    ],
+    "parts": [
+      "small flightless bird",
+      "New Zealand",
+      "singular: كيوي",
+      "plural: كيويات"
+    ]
+  },
+  {
+    "english_word": "rooster",
+    "arabic_word": "ديك",
+    "arabic_letters": [
+      "د",
+      "ي",
+      "ك"
+    ],
+    "parts": [
+      "male chicken",
+      "farm",
+      "singular: ديك",
+      "plural: ديكات"
+    ]
+  },
+  {
+    "english_word": "hen",
+    "arabic_word": "دجاجة",
+    "arabic_letters": [
+      "د",
+      "ج",
+      "ا",
+      "ج",
+      "ة"
+    ],
+    "parts": [
+      "female chicken",
+      "farm",
+      "singular: دجاجة",
+      "plural: دجاجات"
+    ]
+  },
+  {
+    "english_word": "nest",
+    "arabic_word": "عش",
+    "arabic_letters": [
+      "ع",
+      "ش"
+    ],
+    "parts": [
+      "bird's home",
+      "nature",
+      "singular: عش",
+      "plural: أعشاش"
+    ]
+  },
+  {
+    "english_word": "feather",
+    "arabic_word": "ريش",
+    "arabic_letters": [
+      "ر",
+      "ي",
+      "ش"
+    ],
+    "parts": [
+      "bird's feature",
+      "nature",
+      "singular: ريش",
+      "plural: أريش"
+    ]
+  },
+  {
+    "english_word": "beak",
+    "arabic_word": "منقار",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ق",
+      "ا",
+      "ر"
+    ],
+    "parts": [
+      "bird's mouth",
+      "nature",
+      "singular: منقار",
+      "plural: مناقير"
+    ]
+  },
+  {
+    "english_word": "wing",
+    "arabic_word": "جناح",
+    "arabic_letters": [
+      "ج",
+      "ن",
+      "ا",
+      "ح"
+    ],
+    "parts": [
+      "bird's feature",
+      "nature",
+      "singular: جناح",
+      "plural: أجنحة"
+    ]
+  }
+]

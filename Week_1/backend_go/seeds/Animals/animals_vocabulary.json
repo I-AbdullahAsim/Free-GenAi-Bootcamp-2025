@@ -1,0 +1,454 @@
+[
+  {
+    "english_word": "lion",
+    "arabic_word": "أسد",
+    "arabic_letters": [
+      "أ",
+      "س",
+      "د"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: أسد",
+      "plural: أسود"
+    ]
+  },
+  {
+    "english_word": "elephant",
+    "arabic_word": "فيل",
+    "arabic_letters": [
+      "ف",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: فيل",
+      "plural: فيلة"
+    ]
+  },
+  {
+    "english_word": "giraffe",
+    "arabic_word": "زرافة",
+    "arabic_letters": [
+      "ز",
+      "ر",
+      "ا",
+      "ف",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: زرافة",
+      "plural: زرافات"
+    ]
+  },
+  {
+    "english_word": "monkey",
+    "arabic_word": "قرد",
+    "arabic_letters": [
+      "ق",
+      "ر",
+      "د"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: قرد",
+      "plural: قردة"
+    ]
+  },
+  {
+    "english_word": "zebra",
+    "arabic_word": "حمار وحشي",
+    "arabic_letters": [
+      "ح",
+      "م",
+      "ا",
+      "ر",
+      "و",
+      "ح",
+      "ش",
+      "ي"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: حمار وحشي",
+      "plural: حمير وحشية"
+    ]
+  },
+  {
+    "english_word": "horse",
+    "arabic_word": "حصان",
+    "arabic_letters": [
+      "ح",
+      "ص",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "animal",
+      "domestic",
+      "singular: حصان",
+      "plural: حصانة"
+    ]
+  },
+  {
+    "english_word": "cow",
+    "arabic_word": "بقرة",
+    "arabic_letters": [
+      "ب",
+      "ق",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "domestic",
+      "singular: بقرة",
+      "plural: بقرات"
+    ]
+  },
+  {
+    "english_word": "sheep",
+    "arabic_word": "خروف",
+    "arabic_letters": [
+      "خ",
+      "ر",
+      "و",
+      "ف"
+    ],
+    "parts": [
+      "animal",
+      "domestic",
+      "singular: خروف",
+      "plural: خراف"
+    ]
+  },
+  {
+    "english_word": "goat",
+    "arabic_word": "ماعز",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ع",
+      "ز"
+    ],
+    "parts": [
+      "animal",
+      "domestic",
+      "singular: ماعز",
+      "plural: معاز"
+    ]
+  },
+  {
+    "english_word": "dog",
+    "arabic_word": "كلب",
+    "arabic_letters": [
+      "ك",
+      "ل",
+      "ب"
+    ],
+    "parts": [
+      "animal",
+      "domestic",
+      "singular: كلب",
+      "plural: كلاب"
+    ]
+  },
+  {
+    "english_word": "cat",
+    "arabic_word": "قطة",
+    "arabic_letters": [
+      "ق",
+      "ط",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "domestic",
+      "singular: قطة",
+      "plural: قطط"
+    ]
+  },
+  {
+    "english_word": "bird",
+    "arabic_word": "طائر",
+    "arabic_letters": [
+      "ط",
+      "ا",
+      "ئ",
+      "ر"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: طائر",
+      "plural: طيور"
+    ]
+  },
+  {
+    "english_word": "fish",
+    "arabic_word": "سمكة",
+    "arabic_letters": [
+      "س",
+      "م",
+      "ك",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "aquatic",
+      "singular: سمكة",
+      "plural: سمك"
+    ]
+  },
+  {
+    "english_word": "shark",
+    "arabic_word": "قرش",
+    "arabic_letters": [
+      "ق",
+      "ر",
+      "ش"
+    ],
+    "parts": [
+      "animal",
+      "aquatic",
+      "singular: قرش",
+      "plural: قروش"
+    ]
+  },
+  {
+    "english_word": "turtle",
+    "arabic_word": "سلحفاة",
+    "arabic_letters": [
+      "س",
+      "ل",
+      "ح",
+      "ف",
+      "ا",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "aquatic",
+      "singular: سلحفاة",
+      "plural: سلحفات"
+    ]
+  },
+  {
+    "english_word": "snake",
+    "arabic_word": "أفعى",
+    "arabic_letters": [
+      "أ",
+      "ف",
+      "ع",
+      "ى"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: أفعى",
+      "plural: أفاعي"
+    ]
+  },
+  {
+    "english_word": "frog",
+    "arabic_word": "ضفدع",
+    "arabic_letters": [
+      "ض",
+      "ف",
+      "د",
+      "ع"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: ضفدع",
+      "plural: ضفادع"
+    ]
+  },
+  {
+    "english_word": "bear",
+    "arabic_word": "دب",
+    "arabic_letters": [
+      "د",
+      "ب"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: دب",
+      "plural: دببة"
+    ]
+  },
+  {
+    "english_word": "wolf",
+    "arabic_word": "ذئب",
+    "arabic_letters": [
+      "ذ",
+      "ئ",
+      "ب"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: ذئب",
+      "plural: ذئاب"
+    ]
+  },
+  {
+    "english_word": "rabbit",
+    "arabic_word": "أرنب",
+    "arabic_letters": [
+      "أ",
+      "ر",
+      "ن",
+      "ب"
+    ],
+    "parts": [
+      "animal",
+      "wild",
+      "singular: أرنب",
+      "plural: أرنب"
+    ]
+  },
+  {
+    "english_word": "chicken",
+    "arabic_word": "دجاجة",
+    "arabic_letters": [
+      "د",
+      "ج",
+      "ا",
+      "ج",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "domestic",
+      "singular: دجاجة",
+      "plural: دجاجات"
+    ]
+  },
+  {
+    "english_word": "duck",
+    "arabic_word": "بطة",
+    "arabic_letters": [
+      "ب",
+      "ط",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "domestic",
+      "singular: بطة",
+      "plural: بطات"
+    ]
+  },
+  {
+    "english_word": "turkey",
+    "arabic_word": "ديك رومي",
+    "arabic_letters": [
+      "د",
+      "ي",
+      "ك",
+      "ر",
+      "و",
+      "م",
+      "ي"
+    ],
+    "parts": [
+      "animal",
+      "domestic",
+      "singular: ديك رومي",
+      "plural: ديك رومي"
+    ]
+  },
+  {
+    "english_word": "bee",
+    "arabic_word": "نحلة",
+    "arabic_letters": [
+      "ن",
+      "ح",
+      "ل",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "insect",
+      "singular: نحلة",
+      "plural: نحلات"
+    ]
+  },
+  {
+    "english_word": "butterfly",
+    "arabic_word": "فراشة",
+    "arabic_letters": [
+      "ف",
+      "ر",
+      "ا",
+      "ش",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "insect",
+      "singular: فراشة",
+      "plural: فراشات"
+    ]
+  },
+  {
+    "english_word": "ant",
+    "arabic_word": "نمل",
+    "arabic_letters": [
+      "ن",
+      "م",
+      "ل"
+    ],
+    "parts": [
+      "animal",
+      "insect",
+      "singular: نمل",
+      "plural: نملات"
+    ]
+  },
+  {
+    "english_word": "spider",
+    "arabic_word": "عنكبوت",
+    "arabic_letters": [
+      "ع",
+      "ن",
+      "ك",
+      "ب",
+      "و",
+      "ت"
+    ],
+    "parts": [
+      "animal",
+      "insect",
+      "singular: عنكبوت",
+      "plural: عناكب"
+    ]
+  },
+  {
+    "english_word": "mosquito",
+    "arabic_word": "بعوضة",
+    "arabic_letters": [
+      "ب",
+      "ع",
+      "و",
+      "ض",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "insect",
+      "singular: بعوضة",
+      "plural: بعوضات"
+    ]
+  }
+]

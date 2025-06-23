@@ -1,0 +1,511 @@
+[
+  {
+    "english_word": "basement",
+    "arabic_word": "المنزل السفلي",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "م",
+      "ن",
+      "ز",
+      "ل",
+      "ا",
+      "ل",
+      "س",
+      "ف",
+      "ل",
+      "ي"
+    ],
+    "parts": [
+      "room",
+      "house",
+      "singular: المنزل السفلي",
+      "plural: المنازل السفلية"
+    ]
+  },
+  {
+    "english_word": "cellar",
+    "arabic_word": "القبو",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ق",
+      "ب",
+      "و"
+    ],
+    "parts": [
+      "room",
+      "house",
+      "singular: القبو",
+      "plural: القباب"
+    ]
+  },
+  {
+    "english_word": "foundation",
+    "arabic_word": "الأساس",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "أ",
+      "س",
+      "ا",
+      "س"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: الأساس",
+      "plural: الأساسات"
+    ]
+  },
+  {
+    "english_word": "wall",
+    "arabic_word": "الجدار",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ج",
+      "د",
+      "ا",
+      "ر"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: الجدار",
+      "plural: الجدران"
+    ]
+  },
+  {
+    "english_word": "ceiling",
+    "arabic_word": "السقف",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: السقف",
+      "plural: السقوف"
+    ]
+  },
+  {
+    "english_word": "floor",
+    "arabic_word": "الارضية",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ا",
+      "ر",
+      "ض",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: الارضية",
+      "plural: الارضيات"
+    ]
+  },
+  {
+    "english_word": "staircase",
+    "arabic_word": "الدرج",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "د",
+      "ر",
+      "ج"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: الدرج",
+      "plural: الدرجات"
+    ]
+  },
+  {
+    "english_word": "door",
+    "arabic_word": "الباب",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ب",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: الباب",
+      "plural: الأبواب"
+    ]
+  },
+  {
+    "english_word": "window",
+    "arabic_word": "النافذة",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ن",
+      "ا",
+      "ف",
+      "ذ",
+      "ة"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: النافذة",
+      "plural: النوافذ"
+    ]
+  },
+  {
+    "english_word": "pipe",
+    "arabic_word": "الأنبوب",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "أ",
+      "ن",
+      "ب",
+      "و",
+      "ب"
+    ],
+    "parts": [
+      "plumbing",
+      "basement",
+      "singular: الأنبوب",
+      "plural: الأنابيب"
+    ]
+  },
+  {
+    "english_word": "water heater",
+    "arabic_word": "ماء ساخن",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ء",
+      "س",
+      "ا",
+      "خ",
+      "ن"
+    ],
+    "parts": [
+      "appliance",
+      "basement",
+      "singular: ماء ساخن",
+      "plural: مياه ساخنة"
+    ]
+  },
+  {
+    "english_word": "boiler",
+    "arabic_word": "المرجل",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "م",
+      "ر",
+      "ج",
+      "ل"
+    ],
+    "parts": [
+      "appliance",
+      "basement",
+      "singular: المرجل",
+      "plural: المراجل"
+    ]
+  },
+  {
+    "english_word": "furnace",
+    "arabic_word": "الموقد",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "م",
+      "و",
+      "ق",
+      "د"
+    ],
+    "parts": [
+      "appliance",
+      "basement",
+      "singular: الموقد",
+      "plural: المواقد"
+    ]
+  },
+  {
+    "english_word": "electrical panel",
+    "arabic_word": "لوحة الكهرباء",
+    "arabic_letters": [
+      "ل",
+      "و",
+      "ح",
+      "ة",
+      "ا",
+      "ل",
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "electrical",
+      "basement",
+      "singular: لوحة الكهرباء",
+      "plural: لوحات الكهرباء"
+    ]
+  },
+  {
+    "english_word": "circuit breaker",
+    "arabic_word": "مفصلة الدائرة",
+    "arabic_letters": [
+      "م",
+      "ف",
+      "ص",
+      "ل",
+      "ة",
+      "ا",
+      "ل",
+      "د",
+      "ا",
+      "ئ",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "electrical",
+      "basement",
+      "singular: مفصلة الدائرة",
+      "plural: مفصلات الدائرة"
+    ]
+  },
+  {
+    "english_word": "storage room",
+    "arabic_word": "غرفة التخزين",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة",
+      "ا",
+      "ل",
+      "ت",
+      "خ",
+      "ز",
+      "ي",
+      "ن"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: غرفة التخزين",
+      "plural: غرف التخزين"
+    ]
+  },
+  {
+    "english_word": "laundry room",
+    "arabic_word": "غرفة الغسيل",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة",
+      "ا",
+      "ل",
+      "غ",
+      "س",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: غرفة الغسيل",
+      "plural: غرف الغسيل"
+    ]
+  },
+  {
+    "english_word": "utility room",
+    "arabic_word": "غرفة الخدمات",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة",
+      "ا",
+      "ل",
+      "خ",
+      "د",
+      "م",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: غرفة الخدمات",
+      "plural: غرف الخدمات"
+    ]
+  },
+  {
+    "english_word": "workshop",
+    "arabic_word": "المعمل",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "م",
+      "ع",
+      "م",
+      "ل"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: المعمل",
+      "plural: المعامل"
+    ]
+  },
+  {
+    "english_word": "home gym",
+    "arabic_word": "الجيم بالمنزل",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ج",
+      "ي",
+      "م",
+      "ب",
+      "ا",
+      "ل",
+      "م",
+      "ن",
+      "ز",
+      "ل"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: الجيم بالمنزل",
+      "plural: الجيمات بالمنزل"
+    ]
+  },
+  {
+    "english_word": "wine cellar",
+    "arabic_word": "قبو النبيذ",
+    "arabic_letters": [
+      "ق",
+      "ب",
+      "و",
+      "ا",
+      "ل",
+      "ن",
+      "ب",
+      "ي",
+      "ذ"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: قبو النبيذ",
+      "plural: قباء النبيذ"
+    ]
+  },
+  {
+    "english_word": "home office",
+    "arabic_word": "مكتب المنزل",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ت",
+      "ب",
+      "ا",
+      "ل",
+      "م",
+      "ن",
+      "ز",
+      "ل"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: مكتب المنزل",
+      "plural: مكاتب المنزل"
+    ]
+  },
+  {
+    "english_word": "playroom",
+    "arabic_word": "غرفة اللعب",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة",
+      "ا",
+      "ل",
+      "ل",
+      "ع",
+      "ب"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: غرفة اللعب",
+      "plural: غرف اللعب"
+    ]
+  },
+  {
+    "english_word": "game room",
+    "arabic_word": "غرفة الألعاب",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة",
+      "ا",
+      "ل",
+      "أ",
+      "ل",
+      "ع",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: غرفة الألعاب",
+      "plural: غرف الألعاب"
+    ]
+  },
+  {
+    "english_word": "hobby room",
+    "arabic_word": "غرفة الهوايات",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ف",
+      "ة",
+      "ا",
+      "ل",
+      "ه",
+      "و",
+      "ا",
+      "ي",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "room",
+      "basement",
+      "singular: غرفة الهوايات",
+      "plural: غرف الهوايات"
+    ]
+  }
+]

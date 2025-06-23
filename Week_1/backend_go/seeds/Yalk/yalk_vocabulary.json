@@ -1,0 +1,289 @@
+[
+  {
+    "english_word": "baby",
+    "arabic_word": "مواليد",
+    "arabic_letters": [
+      "م",
+      "و",
+      "ا",
+      "ل",
+      "ي",
+      "د"
+    ],
+    "parts": [
+      "human",
+      "family",
+      "singular: مولود",
+      "plural: مواليد"
+    ]
+  },
+  {
+    "english_word": "toddler",
+    "arabic_word": "راشد",
+    "arabic_letters": [
+      "ر",
+      "ا",
+      "ش",
+      "د"
+    ],
+    "parts": [
+      "human",
+      "family",
+      "singular: راشد",
+      "plural: راشدين"
+    ]
+  },
+  {
+    "english_word": "infant",
+    "arabic_word": "مواليد",
+    "arabic_letters": [
+      "م",
+      "و",
+      "ا",
+      "ل",
+      "ي",
+      "د"
+    ],
+    "parts": [
+      "human",
+      "family",
+      "singular: مولود",
+      "plural: مواليد"
+    ]
+  },
+  {
+    "english_word": "newborn",
+    "arabic_word": "مولود جديد",
+    "arabic_letters": [
+      "م",
+      "و",
+      "ل",
+      "و",
+      "د",
+      "ج",
+      "د",
+      "ي",
+      "د"
+    ],
+    "parts": [
+      "human",
+      "family",
+      "singular: مولود جديد",
+      "plural: مواليد جدد"
+    ]
+  },
+  {
+    "english_word": "child",
+    "arabic_word": "طفل",
+    "arabic_letters": [
+      "ط",
+      "ف",
+      "ل"
+    ],
+    "parts": [
+      "human",
+      "family",
+      "singular: طفل",
+      "plural: أطفال"
+    ]
+  },
+  {
+    "english_word": "kid",
+    "arabic_word": "صبي",
+    "arabic_letters": [
+      "ص",
+      "ب",
+      "ي"
+    ],
+    "parts": [
+      "human",
+      "family",
+      "singular: صبي",
+      "plural: صبيان"
+    ]
+  },
+  {
+    "english_word": "youth",
+    "arabic_word": "شاب",
+    "arabic_letters": [
+      "ش",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "human",
+      "age",
+      "singular: شاب",
+      "plural: شباب"
+    ]
+  },
+  {
+    "english_word": "teenager",
+    "arabic_word": "مراهق",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "ا",
+      "ه",
+      "ق"
+    ],
+    "parts": [
+      "human",
+      "age",
+      "singular: مراهق",
+      "plural: مراهقون"
+    ]
+  },
+  {
+    "english_word": "adolescent",
+    "arabic_word": "مراهق",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "ا",
+      "ه",
+      "ق"
+    ],
+    "parts": [
+      "human",
+      "age",
+      "singular: مراهق",
+      "plural: مراهقون"
+    ]
+  },
+  {
+    "english_word": "juvenile",
+    "arabic_word": "قاصر",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ص",
+      "ر"
+    ],
+    "parts": [
+      "human",
+      "age",
+      "singular: قاصر",
+      "plural: قاصرين"
+    ]
+  },
+  {
+    "english_word": "minor",
+    "arabic_word": "قاصر",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ص",
+      "ر"
+    ],
+    "parts": [
+      "human",
+      "age",
+      "singular: قاصر",
+      "plural: قاصرين"
+    ]
+  },
+  {
+    "english_word": "youngster",
+    "arabic_word": "شاب صغير",
+    "arabic_letters": [
+      "ش",
+      "ا",
+      "ب",
+      "ص",
+      "غ",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "human",
+      "age",
+      "singular: شاب صغير",
+      "plural: شباب صغار"
+    ]
+  },
+  {
+    "english_word": "young child",
+    "arabic_word": "طفل صغير",
+    "arabic_letters": [
+      "ط",
+      "ف",
+      "ل",
+      "ص",
+      "غ",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "human",
+      "family",
+      "singular: طفل صغير",
+      "plural: أطفال صغار"
+    ]
+  },
+  {
+    "english_word": "schoolboy",
+    "arabic_word": "تلميذ",
+    "arabic_letters": [
+      "ت",
+      "ل",
+      "م",
+      "ي",
+      "ذ"
+    ],
+    "parts": [
+      "human",
+      "education",
+      "singular: تلميذ",
+      "plural: تلاميذ"
+    ]
+  },
+  {
+    "english_word": "schoolgirl",
+    "arabic_word": "تلميذة",
+    "arabic_letters": [
+      "ت",
+      "ل",
+      "م",
+      "ي",
+      "ذ",
+      "ة"
+    ],
+    "parts": [
+      "human",
+      "education",
+      "singular: تلميذة",
+      "plural: تلميذات"
+    ]
+  },
+  {
+    "english_word": "boy",
+    "arabic_word": "صبي",
+    "arabic_letters": [
+      "ص",
+      "ب",
+      "ي"
+    ],
+    "parts": [
+      "human",
+      "family",
+      "singular: صبي",
+      "plural: صبيان"
+    ]
+  },
+  {
+    "english_word": "girl",
+    "arabic_word": "بنت",
+    "arabic_letters": [
+      "ب",
+      "ن",
+      "ت"
+    ],
+    "parts": [
+      "human",
+      "family",
+      "singular: بنت",
+      "plural: بنات"
+    ]
+  }
+]

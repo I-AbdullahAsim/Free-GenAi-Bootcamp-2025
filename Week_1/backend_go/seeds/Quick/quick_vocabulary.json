@@ -1,0 +1,400 @@
+[
+  {
+    "english_word": "fast",
+    "arabic_word": "سريع",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: سريع",
+      "plural: سريعيين"
+    ]
+  },
+  {
+    "english_word": "quick",
+    "arabic_word": "سريع",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: سريع",
+      "plural: سريعيين"
+    ]
+  },
+  {
+    "english_word": "rapid",
+    "arabic_word": "سريع",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: سريع",
+      "plural: سريعيين"
+    ]
+  },
+  {
+    "english_word": "swift",
+    "arabic_word": "سريع",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: سريع",
+      "plural: سريعيين"
+    ]
+  },
+  {
+    "english_word": "hurry",
+    "arabic_word": "استعجل",
+    "arabic_letters": [
+      "ا",
+      "س",
+      "ت",
+      "ع",
+      "ج",
+      "ل"
+    ],
+    "parts": [
+      "verb",
+      "action",
+      "singular: استعجل",
+      "plural: استعجلوا"
+    ]
+  },
+  {
+    "english_word": "rush",
+    "arabic_word": "هرول",
+    "arabic_letters": [
+      "ه",
+      "ر",
+      "و",
+      "ل"
+    ],
+    "parts": [
+      "verb",
+      "action",
+      "singular: هرول",
+      "plural: هرولوا"
+    ]
+  },
+  {
+    "english_word": "speed",
+    "arabic_word": "سرعة",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ع",
+      "ة"
+    ],
+    "parts": [
+      "noun",
+      "measurement",
+      "singular: سرعة",
+      "plural: سرعات"
+    ]
+  },
+  {
+    "english_word": "express",
+    "arabic_word": "سريع",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: سريع",
+      "plural: سريعيين"
+    ]
+  },
+  {
+    "english_word": "prompt",
+    "arabic_word": "سريع",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: سريع",
+      "plural: سريعيين"
+    ]
+  },
+  {
+    "english_word": "brisk",
+    "arabic_word": "سريع",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: سريع",
+      "plural: سريعيين"
+    ]
+  },
+  {
+    "english_word": "fleet",
+    "arabic_word": "سريع",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: سريع",
+      "plural: سريعيين"
+    ]
+  },
+  {
+    "english_word": "zip",
+    "arabic_word": "زقزق",
+    "arabic_letters": [
+      "ز",
+      "ق",
+      "ز",
+      "ق"
+    ],
+    "parts": [
+      "verb",
+      "action",
+      "singular: زقزق",
+      "plural: زقزقوا"
+    ]
+  },
+  {
+    "english_word": "dart",
+    "arabic_word": "رمد",
+    "arabic_letters": [
+      "ر",
+      "م",
+      "د"
+    ],
+    "parts": [
+      "verb",
+      "action",
+      "singular: رمد",
+      "plural: رمدوا"
+    ]
+  },
+  {
+    "english_word": "sprint",
+    "arabic_word": "ركض",
+    "arabic_letters": [
+      "ر",
+      "ك",
+      "ض"
+    ],
+    "parts": [
+      "verb",
+      "action",
+      "singular: ركض",
+      "plural: ركضوا"
+    ]
+  },
+  {
+    "english_word": "flash",
+    "arabic_word": "برق",
+    "arabic_letters": [
+      "ب",
+      "ر",
+      "ق"
+    ],
+    "parts": [
+      "noun",
+      "phenomenon",
+      "singular: برق",
+      "plural: بروق"
+    ]
+  },
+  {
+    "english_word": "instant",
+    "arabic_word": "فوري",
+    "arabic_letters": [
+      "ف",
+      "و",
+      "ر",
+      "ي"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: فوري",
+      "plural: فورين"
+    ]
+  },
+  {
+    "english_word": "immediate",
+    "arabic_word": "فوري",
+    "arabic_letters": [
+      "ف",
+      "و",
+      "ر",
+      "ي"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: فوري",
+      "plural: فورين"
+    ]
+  },
+  {
+    "english_word": "urgent",
+    "arabic_word": "عاجل",
+    "arabic_letters": [
+      "ع",
+      "ا",
+      "ج",
+      "ل"
+    ],
+    "parts": [
+      "adjective",
+      "description",
+      "singular: عاجل",
+      "plural: عاجلون"
+    ]
+  },
+  {
+    "english_word": "swiftly",
+    "arabic_word": "سريعا",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع",
+      "ا"
+    ],
+    "parts": [
+      "adverb",
+      "manner",
+      "singular: سريعا",
+      "plural: سريعا"
+    ]
+  },
+  {
+    "english_word": "quickly",
+    "arabic_word": "سريعا",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع",
+      "ا"
+    ],
+    "parts": [
+      "adverb",
+      "manner",
+      "singular: سريعا",
+      "plural: سريعا"
+    ]
+  },
+  {
+    "english_word": "promptly",
+    "arabic_word": "سريعا",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ع",
+      "ا"
+    ],
+    "parts": [
+      "adverb",
+      "manner",
+      "singular: سريعا",
+      "plural: سريعا"
+    ]
+  },
+  {
+    "english_word": "fast track",
+    "arabic_word": "مسار سريع",
+    "arabic_letters": [
+      "م",
+      "س",
+      "ا",
+      "ر",
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "noun",
+      "process",
+      "singular: مسار سريع",
+      "plural: مسارات سريعة"
+    ]
+  },
+  {
+    "english_word": "quick fix",
+    "arabic_word": "إصلاح سريع",
+    "arabic_letters": [
+      "إ",
+      "ص",
+      "ل",
+      "ا",
+      "ح",
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "noun",
+      "solution",
+      "singular: إصلاح سريع",
+      "plural: إصلاحات سريعة"
+    ]
+  },
+  {
+    "english_word": "rapid fire",
+    "arabic_word": "نار سريع",
+    "arabic_letters": [
+      "ن",
+      "ا",
+      "ر",
+      "س",
+      "ر",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "noun",
+      "phenomenon",
+      "singular: نار سريع",
+      "plural: نيران سريعة"
+    ]
+  }
+]

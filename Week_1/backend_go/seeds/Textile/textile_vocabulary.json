@@ -1,0 +1,590 @@
+[
+  {
+    "english_word": "cloth",
+    "arabic_word": "قُماش",
+    "arabic_letters": [
+      "ق",
+      "م",
+      "ا",
+      "ش"
+    ],
+    "parts": [
+      "fabric",
+      "textile",
+      "singular: قُماش",
+      "plural: أقمشة"
+    ]
+  },
+  {
+    "english_word": "fabric",
+    "arabic_word": "مادة نسيجية",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "د",
+      "ة",
+      "ن",
+      "س",
+      "ي",
+      "ج",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: مادة نسيجية",
+      "plural: مواد نسيجية"
+    ]
+  },
+  {
+    "english_word": "thread",
+    "arabic_word": "خيط",
+    "arabic_letters": [
+      "خ",
+      "ي",
+      "ط"
+    ],
+    "parts": [
+      "yarn",
+      "textile",
+      "singular: خيط",
+      "plural: خيوط"
+    ]
+  },
+  {
+    "english_word": "yarn",
+    "arabic_word": "غزْل",
+    "arabic_letters": [
+      "غ",
+      "ز",
+      "ل"
+    ],
+    "parts": [
+      "thread",
+      "textile",
+      "singular: غزْل",
+      "plural: غزْل"
+    ]
+  },
+  {
+    "english_word": "wool",
+    "arabic_word": "صوف",
+    "arabic_letters": [
+      "ص",
+      "و",
+      "ف"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: صوف",
+      "plural: أصواف"
+    ]
+  },
+  {
+    "english_word": "cotton",
+    "arabic_word": "قطن",
+    "arabic_letters": [
+      "ق",
+      "ط",
+      "ن"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: قطن",
+      "plural: قطنات"
+    ]
+  },
+  {
+    "english_word": "silk",
+    "arabic_word": "حرير",
+    "arabic_letters": [
+      "ح",
+      "ر",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: حرير",
+      "plural: حرائر"
+    ]
+  },
+  {
+    "english_word": "linen",
+    "arabic_word": "كتان",
+    "arabic_letters": [
+      "ك",
+      "ت",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: كتان",
+      "plural: أكتنة"
+    ]
+  },
+  {
+    "english_word": "velvet",
+    "arabic_word": "مخمل",
+    "arabic_letters": [
+      "م",
+      "خ",
+      "م",
+      "ل"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: مخمل",
+      "plural: مخملات"
+    ]
+  },
+  {
+    "english_word": "lace",
+    "arabic_word": "دنتيل",
+    "arabic_letters": [
+      "د",
+      "ن",
+      "ت",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: دنتيل",
+      "plural: دنتيلات"
+    ]
+  },
+  {
+    "english_word": "sweater",
+    "arabic_word": "سويتر",
+    "arabic_letters": [
+      "س",
+      "و",
+      "ي",
+      "ت",
+      "ر"
+    ],
+    "parts": [
+      "garment",
+      "textile",
+      "singular: سويتر",
+      "plural: سوترات"
+    ]
+  },
+  {
+    "english_word": "shirt",
+    "arabic_word": "قميص",
+    "arabic_letters": [
+      "ق",
+      "م",
+      "ي",
+      "ص"
+    ],
+    "parts": [
+      "garment",
+      "textile",
+      "singular: قميص",
+      "plural: قمصان"
+    ]
+  },
+  {
+    "english_word": "pants",
+    "arabic_word": "بنطلون",
+    "arabic_letters": [
+      "ب",
+      "ن",
+      "ط",
+      "ل",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "garment",
+      "textile",
+      "singular: بنطلون",
+      "plural: بنطلونات"
+    ]
+  },
+  {
+    "english_word": "dress",
+    "arabic_word": "فستان",
+    "arabic_letters": [
+      "ف",
+      "س",
+      "ت",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "garment",
+      "textile",
+      "singular: فستان",
+      "plural: فساتين"
+    ]
+  },
+  {
+    "english_word": "scarf",
+    "arabic_word": "كوفية",
+    "arabic_letters": [
+      "ك",
+      "و",
+      "ف",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "accessory",
+      "textile",
+      "singular: كوفية",
+      "plural: كوفيات"
+    ]
+  },
+  {
+    "english_word": "towel",
+    "arabic_word": "منشفة",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ش",
+      "ف",
+      "ة"
+    ],
+    "parts": [
+      "household",
+      "textile",
+      "singular: منشفة",
+      "plural: مناشف"
+    ]
+  },
+  {
+    "english_word": "blanket",
+    "arabic_word": "باطنية",
+    "arabic_letters": [
+      "ب",
+      "ا",
+      "ط",
+      "ن",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "household",
+      "textile",
+      "singular: باطنية",
+      "plural: باطنات"
+    ]
+  },
+  {
+    "english_word": "curtain",
+    "arabic_word": "ستارة",
+    "arabic_letters": [
+      "س",
+      "ت",
+      "ا",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "household",
+      "textile",
+      "singular: ستارة",
+      "plural: ستارات"
+    ]
+  },
+  {
+    "english_word": "carpet",
+    "arabic_word": "سجادة",
+    "arabic_letters": [
+      "س",
+      "ج",
+      "ا",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "household",
+      "textile",
+      "singular: سجادة",
+      "plural: سجادات"
+    ]
+  },
+  {
+    "english_word": "embroidery",
+    "arabic_word": "تطريز",
+    "arabic_letters": [
+      "ت",
+      "ط",
+      "ر",
+      "ي",
+      "ز"
+    ],
+    "parts": [
+      "technique",
+      "textile",
+      "singular: تطريز",
+      "plural: تطريزات"
+    ]
+  },
+  {
+    "english_word": "weaving",
+    "arabic_word": "نسيج",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "ي",
+      "ج"
+    ],
+    "parts": [
+      "technique",
+      "textile",
+      "singular: نسيج",
+      "plural: أنسج"
+    ]
+  },
+  {
+    "english_word": "knitting",
+    "arabic_word": "نسيج بالملك",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "ي",
+      "ج",
+      "ب",
+      "ا",
+      "ل",
+      "م",
+      "ل",
+      "ك"
+    ],
+    "parts": [
+      "technique",
+      "textile",
+      "singular: نسيج بالملك",
+      "plural: أنسج بالملك"
+    ]
+  },
+  {
+    "english_word": "sewing",
+    "arabic_word": "خياطة",
+    "arabic_letters": [
+      "خ",
+      "ي",
+      "ا",
+      "ط",
+      "ة"
+    ],
+    "parts": [
+      "technique",
+      "textile",
+      "singular: خياطة",
+      "plural: خياطات"
+    ]
+  },
+  {
+    "english_word": "tapestry",
+    "arabic_word": "نسيج جداري",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "ي",
+      "ج",
+      "ج",
+      "د",
+      "ا",
+      "ر",
+      "ي"
+    ],
+    "parts": [
+      "art",
+      "textile",
+      "singular: نسيج جداري",
+      "plural: أنسج جدارية"
+    ]
+  },
+  {
+    "english_word": "brocade",
+    "arabic_word": "بروكاد",
+    "arabic_letters": [
+      "ب",
+      "ر",
+      "و",
+      "ك",
+      "ا",
+      "د"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: بروكاد",
+      "plural: بروكادات"
+    ]
+  },
+  {
+    "english_word": "satin",
+    "arabic_word": "ساتان",
+    "arabic_letters": [
+      "س",
+      "ا",
+      "ت",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: ساتان",
+      "plural: ساتانات"
+    ]
+  },
+  {
+    "english_word": "velour",
+    "arabic_word": "فيلور",
+    "arabic_letters": [
+      "ف",
+      "ي",
+      "ل",
+      "و",
+      "ر"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: فيلور",
+      "plural: فيلورات"
+    ]
+  },
+  {
+    "english_word": "terrycloth",
+    "arabic_word": "تيري كلوث",
+    "arabic_letters": [
+      "ت",
+      "ي",
+      "ر",
+      "ي",
+      "ك",
+      "ل",
+      "و",
+      "ث"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: تيري كلوث",
+      "plural: تيري كلوثات"
+    ]
+  },
+  {
+    "english_word": "flannel",
+    "arabic_word": "فلانيل",
+    "arabic_letters": [
+      "ف",
+      "ل",
+      "ا",
+      "ن",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: فلانيل",
+      "plural: فلانيلات"
+    ]
+  },
+  {
+    "english_word": "gauze",
+    "arabic_word": "غاز",
+    "arabic_letters": [
+      "غ",
+      "ا",
+      "ز"
+    ],
+    "parts": [
+      "material",
+      "textile",
+      "singular: غاز",
+      "plural: غازات"
+    ]
+  },
+  {
+    "english_word": "lace-making",
+    "arabic_word": "صناعة الدنتيل",
+    "arabic_letters": [
+      "ص",
+      "ن",
+      "ا",
+      "ع",
+      "ة",
+      "ا",
+      "ل",
+      "د",
+      "ن",
+      "ت",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "craft",
+      "textile",
+      "singular: صناعة الدنتيل",
+      "plural: صناعات الدنتيل"
+    ]
+  },
+  {
+    "english_word": "weaver",
+    "arabic_word": "ناسج",
+    "arabic_letters": [
+      "ن",
+      "ا",
+      "س",
+      "ج"
+    ],
+    "parts": [
+      "profession",
+      "textile",
+      "singular: ناسج",
+      "plural: ناسجون"
+    ]
+  },
+  {
+    "english_word": "tailor",
+    "arabic_word": "خياط",
+    "arabic_letters": [
+      "خ",
+      "ي",
+      "ا",
+      "ط"
+    ],
+    "parts": [
+      "profession",
+      "textile",
+      "singular: خياط",
+      "plural: خياطون"
+    ]
+  },
+  {
+    "english_word": "seamstress",
+    "arabic_word": "خياطة",
+    "arabic_letters": [
+      "خ",
+      "ي",
+      "ا",
+      "ط",
+      "ة"
+    ],
+    "parts": [
+      "profession",
+      "textile",
+      "singular: خياطة",
+      "plural: خياطات"
+    ]
+  }
+]

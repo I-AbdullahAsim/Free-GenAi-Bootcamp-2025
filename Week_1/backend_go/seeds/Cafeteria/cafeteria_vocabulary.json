@@ -1,0 +1,417 @@
+[
+  {
+    "english_word": "cafe",
+    "arabic_word": "مقهى",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ه",
+      "ى"
+    ],
+    "parts": [
+      "establishment",
+      "food",
+      "singular: مقهى",
+      "plural: مقاهي"
+    ]
+  },
+  {
+    "english_word": "menu",
+    "arabic_word": "قائمة",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ئ",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "document",
+      "food",
+      "singular: قائمة",
+      "plural: قوائم"
+    ]
+  },
+  {
+    "english_word": "table",
+    "arabic_word": "مائدة",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ئ",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "cafe",
+      "singular: مائدة",
+      "plural: مائدات"
+    ]
+  },
+  {
+    "english_word": "chair",
+    "arabic_word": "كرسي",
+    "arabic_letters": [
+      "ك",
+      "ر",
+      "س",
+      "ي"
+    ],
+    "parts": [
+      "furniture",
+      "cafe",
+      "singular: كرسي",
+      "plural: كراسي"
+    ]
+  },
+  {
+    "english_word": "cup",
+    "arabic_word": "فنجان",
+    "arabic_letters": [
+      "ف",
+      "ن",
+      "ج",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "utensil",
+      "beverage",
+      "singular: فنجان",
+      "plural: فنجانات"
+    ]
+  },
+  {
+    "english_word": "plate",
+    "arabic_word": "صحن",
+    "arabic_letters": [
+      "ص",
+      "ح",
+      "ن"
+    ],
+    "parts": [
+      "utensil",
+      "food",
+      "singular: صحن",
+      "plural: صحون"
+    ]
+  },
+  {
+    "english_word": "fork",
+    "arabic_word": "شوك",
+    "arabic_letters": [
+      "ش",
+      "و",
+      "ك"
+    ],
+    "parts": [
+      "utensil",
+      "food",
+      "singular: شوك",
+      "plural: شوكات"
+    ]
+  },
+  {
+    "english_word": "spoon",
+    "arabic_word": "ملعقة",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ع",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "utensil",
+      "food",
+      "singular: ملعقة",
+      "plural: ملاعق"
+    ]
+  },
+  {
+    "english_word": "knife",
+    "arabic_word": "سكين",
+    "arabic_letters": [
+      "س",
+      "ك",
+      "ي",
+      "ن"
+    ],
+    "parts": [
+      "utensil",
+      "food",
+      "singular: سكين",
+      "plural: سكاكين"
+    ]
+  },
+  {
+    "english_word": "napkin",
+    "arabic_word": "منديل",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "د",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "utensil",
+      "cafe",
+      "singular: منديل",
+      "plural: مناديل"
+    ]
+  },
+  {
+    "english_word": "water",
+    "arabic_word": "ماء",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "beverage",
+      "cafe",
+      "singular: ماء",
+      "plural: مياه"
+    ]
+  },
+  {
+    "english_word": "coffee",
+    "arabic_word": "قهوة",
+    "arabic_letters": [
+      "ق",
+      "ه",
+      "و",
+      "ة"
+    ],
+    "parts": [
+      "beverage",
+      "cafe",
+      "singular: قهوة",
+      "plural: قهوات"
+    ]
+  },
+  {
+    "english_word": "tea",
+    "arabic_word": "شاي",
+    "arabic_letters": [
+      "ش",
+      "ا",
+      "ي"
+    ],
+    "parts": [
+      "beverage",
+      "cafe",
+      "singular: شاي",
+      "plural: شايات"
+    ]
+  },
+  {
+    "english_word": "juice",
+    "arabic_word": "عصير",
+    "arabic_letters": [
+      "ع",
+      "ص",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "beverage",
+      "cafe",
+      "singular: عصير",
+      "plural: عصائر"
+    ]
+  },
+  {
+    "english_word": "sandwich",
+    "arabic_word": "ساندويش",
+    "arabic_letters": [
+      "س",
+      "ا",
+      "ن",
+      "د",
+      "و",
+      "ي",
+      "ش"
+    ],
+    "parts": [
+      "food",
+      "cafe",
+      "singular: ساندويش",
+      "plural: ساندويشات"
+    ]
+  },
+  {
+    "english_word": "salad",
+    "arabic_word": "سلطة",
+    "arabic_letters": [
+      "س",
+      "ل",
+      "ط",
+      "ة"
+    ],
+    "parts": [
+      "food",
+      "cafe",
+      "singular: سلطة",
+      "plural: سلطات"
+    ]
+  },
+  {
+    "english_word": "pizza",
+    "arabic_word": "بيتزا",
+    "arabic_letters": [
+      "ب",
+      "ي",
+      "ت",
+      "ز",
+      "ا"
+    ],
+    "parts": [
+      "food",
+      "cafe",
+      "singular: بيتزا",
+      "plural: بيتزات"
+    ]
+  },
+  {
+    "english_word": "burger",
+    "arabic_word": "برجر",
+    "arabic_letters": [
+      "ب",
+      "ر",
+      "ج",
+      "ر"
+    ],
+    "parts": [
+      "food",
+      "cafe",
+      "singular: برجر",
+      "plural: برجرات"
+    ]
+  },
+  {
+    "english_word": "fries",
+    "arabic_word": "باتات",
+    "arabic_letters": [
+      "ب",
+      "ا",
+      "ت",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "food",
+      "cafe",
+      "singular: باتة",
+      "plural: باتات"
+    ]
+  },
+  {
+    "english_word": "dessert",
+    "arabic_word": "حلوى",
+    "arabic_letters": [
+      "ح",
+      "ل",
+      "و",
+      "ى"
+    ],
+    "parts": [
+      "food",
+      "cafe",
+      "singular: حلوى",
+      "plural: حلويات"
+    ]
+  },
+  {
+    "english_word": "cake",
+    "arabic_word": "كيك",
+    "arabic_letters": [
+      "ك",
+      "ي",
+      "ك"
+    ],
+    "parts": [
+      "food",
+      "cafe",
+      "singular: كيك",
+      "plural: كيكات"
+    ]
+  },
+  {
+    "english_word": "ice cream",
+    "arabic_word": "آيس كريم",
+    "arabic_letters": [
+      "آ",
+      "ي",
+      "س",
+      "ك",
+      "ر",
+      "ي",
+      "م"
+    ],
+    "parts": [
+      "food",
+      "cafe",
+      "singular: آيس كريم",
+      "plural: آيس كريمات"
+    ]
+  },
+  {
+    "english_word": "waiter",
+    "arabic_word": "نادل",
+    "arabic_letters": [
+      "ن",
+      "ا",
+      "د",
+      "ل"
+    ],
+    "parts": [
+      "person",
+      "cafe",
+      "singular: نادل",
+      "plural: نادلون"
+    ]
+  },
+  {
+    "english_word": "bill",
+    "arabic_word": "فاتورة",
+    "arabic_letters": [
+      "ف",
+      "ا",
+      "ت",
+      "و",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "document",
+      "cafe",
+      "singular: فاتورة",
+      "plural: فواتير"
+    ]
+  },
+  {
+    "english_word": "tip",
+    "arabic_word": "بakhshish",
+    "arabic_letters": [
+      "ب",
+      "a",
+      "k",
+      "h",
+      "s",
+      "h",
+      "i",
+      "s",
+      "h"
+    ],
+    "parts": [
+      "money",
+      "cafe",
+      "singular: بakhshish",
+      "plural: بakhshishat"
+    ]
+  }
+]

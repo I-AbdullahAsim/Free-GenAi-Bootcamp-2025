@@ -1,0 +1,466 @@
+[
+  {
+    "english_word": "workshop",
+    "arabic_word": "ورشة عمل",
+    "arabic_letters": [
+      "و",
+      "ر",
+      "ش",
+      "ة",
+      "ع",
+      "م",
+      "ل"
+    ],
+    "parts": [
+      "place",
+      "industry",
+      "singular: ورشة عمل",
+      "plural: ورش عمل"
+    ]
+  },
+  {
+    "english_word": "tool",
+    "arabic_word": "أداة",
+    "arabic_letters": [
+      "أ",
+      "د",
+      "ا",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: أداة",
+      "plural: أدوات"
+    ]
+  },
+  {
+    "english_word": "machine",
+    "arabic_word": "مكنة",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مكنة",
+      "plural: مكينات"
+    ]
+  },
+  {
+    "english_word": "welder",
+    "arabic_word": "لحام",
+    "arabic_letters": [
+      "ل",
+      "ح",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "person",
+      "industry",
+      "singular: لحام",
+      "plural: لحامين"
+    ]
+  },
+  {
+    "english_word": "electrician",
+    "arabic_word": "كهربائي",
+    "arabic_letters": [
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "person",
+      "industry",
+      "singular: كهربائي",
+      "plural: كهربائيين"
+    ]
+  },
+  {
+    "english_word": "mechanic",
+    "arabic_word": "ميكانيكي",
+    "arabic_letters": [
+      "م",
+      "ي",
+      "ك",
+      "ا",
+      "ن",
+      "ي",
+      "ك",
+      "ي"
+    ],
+    "parts": [
+      "person",
+      "industry",
+      "singular: ميكانيكي",
+      "plural: ميكانيكيون"
+    ]
+  },
+  {
+    "english_word": "engineer",
+    "arabic_word": "مهندس",
+    "arabic_letters": [
+      "م",
+      "ه",
+      "ن",
+      "د",
+      "س"
+    ],
+    "parts": [
+      "person",
+      "industry",
+      "singular: مهندس",
+      "plural: مهندسون"
+    ]
+  },
+  {
+    "english_word": "saw",
+    "arabic_word": "منشار",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ش",
+      "ا",
+      "ر"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: منشار",
+      "plural: مناشير"
+    ]
+  },
+  {
+    "english_word": "drill",
+    "arabic_word": "مثقاب",
+    "arabic_letters": [
+      "م",
+      "ث",
+      "ق",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مثقاب",
+      "plural: مثاقيب"
+    ]
+  },
+  {
+    "english_word": "hammer",
+    "arabic_word": "مطرقة",
+    "arabic_letters": [
+      "م",
+      "ط",
+      "ر",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مطرقة",
+      "plural: مطارق"
+    ]
+  },
+  {
+    "english_word": "wrench",
+    "arabic_word": "مفك",
+    "arabic_letters": [
+      "م",
+      "ف",
+      "ك"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مفك",
+      "plural: مفكات"
+    ]
+  },
+  {
+    "english_word": "screwdriver",
+    "arabic_word": "مفتاح رأس",
+    "arabic_letters": [
+      "م",
+      "ف",
+      "ت",
+      "ا",
+      "ح",
+      "ر",
+      "أ",
+      "س"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مفتاح رأس",
+      "plural: مفاتيح رؤوس"
+    ]
+  },
+  {
+    "english_word": "pliers",
+    "arabic_word": "ملقط",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ق",
+      "ط"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: ملقط",
+      "plural: ملقطات"
+    ]
+  },
+  {
+    "english_word": "vice",
+    "arabic_word": "مكبس",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ب",
+      "س"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مكبس",
+      "plural: مكابس"
+    ]
+  },
+  {
+    "english_word": "anvil",
+    "arabic_word": "نارج",
+    "arabic_letters": [
+      "ن",
+      "ا",
+      "ر",
+      "ج"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: نارج",
+      "plural: نارجات"
+    ]
+  },
+  {
+    "english_word": "workbench",
+    "arabic_word": "مكتب عمل",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ت",
+      "ب",
+      "ع",
+      "م",
+      "ل"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مكتب عمل",
+      "plural: مكتبات عمل"
+    ]
+  },
+  {
+    "english_word": "lathe",
+    "arabic_word": "مخرطة",
+    "arabic_letters": [
+      "م",
+      "خ",
+      "ر",
+      "ط",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مخرطة",
+      "plural: مخارط"
+    ]
+  },
+  {
+    "english_word": "drill press",
+    "arabic_word": "مثقاب راسي",
+    "arabic_letters": [
+      "م",
+      "ث",
+      "ق",
+      "ا",
+      "ب",
+      "ر",
+      "ا",
+      "س",
+      "ي"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مثقاب راسي",
+      "plural: مثاقيب راسية"
+    ]
+  },
+  {
+    "english_word": "grinder",
+    "arabic_word": "مطحنة",
+    "arabic_letters": [
+      "م",
+      "ط",
+      "ح",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مطحنة",
+      "plural: مطاحن"
+    ]
+  },
+  {
+    "english_word": "safety glasses",
+    "arabic_word": "نظارات حماية",
+    "arabic_letters": [
+      "ن",
+      "ظ",
+      "ا",
+      "ر",
+      "ا",
+      "ت",
+      "ح",
+      "م",
+      "ا",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: نظارات حماية",
+      "plural: نظارات حماية"
+    ]
+  },
+  {
+    "english_word": "gloves",
+    "arabic_word": "قفازات",
+    "arabic_letters": [
+      "ق",
+      "ف",
+      "ا",
+      "ز",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: قفاز",
+      "plural: قفازات"
+    ]
+  },
+  {
+    "english_word": "hard hat",
+    "arabic_word": "طوق حماية",
+    "arabic_letters": [
+      "ط",
+      "و",
+      "ق",
+      "ح",
+      "م",
+      "ا",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: طوق حماية",
+      "plural: طووق حماية"
+    ]
+  },
+  {
+    "english_word": "measuring tape",
+    "arabic_word": "شريط قياس",
+    "arabic_letters": [
+      "ش",
+      "ر",
+      "ي",
+      "ط",
+      "ق",
+      "ي",
+      "ا",
+      "س"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: شريط قياس",
+      "plural: شرائط قياس"
+    ]
+  },
+  {
+    "english_word": "level",
+    "arabic_word": "مستوى",
+    "arabic_letters": [
+      "م",
+      "س",
+      "ت",
+      "و",
+      "ى"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مستوى",
+      "plural: مستويات"
+    ]
+  },
+  {
+    "english_word": "pencil",
+    "arabic_word": "قلم رصاص",
+    "arabic_letters": [
+      "ق",
+      "ل",
+      "م",
+      "ر",
+      "ص",
+      "ا",
+      "ص"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: قلم رصاص",
+      "plural: أقلام رصاص"
+    ]
+  },
+  {
+    "english_word": "blueprint",
+    "arabic_word": "مخطط",
+    "arabic_letters": [
+      "م",
+      "خ",
+      "ط",
+      "ط"
+    ],
+    "parts": [
+      "object",
+      "industry",
+      "singular: مخطط",
+      "plural: مخططات"
+    ]
+  }
+]

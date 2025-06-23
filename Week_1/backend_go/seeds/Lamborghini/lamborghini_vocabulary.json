@@ -1,0 +1,341 @@
+[
+  {
+    "english_word": "Lamborghini",
+    "arabic_word": "لامبورغيني",
+    "arabic_letters": [
+      "ل",
+      "ا",
+      "م",
+      "ب",
+      "و",
+      "ر",
+      "غ",
+      "ي",
+      "ن",
+      "ي"
+    ],
+    "parts": [
+      "car brand",
+      "transportation",
+      "singular: لامبورغيني",
+      "plural: لامبورغينيات"
+    ]
+  },
+  {
+    "english_word": "Huracan",
+    "arabic_word": "هوراكان",
+    "arabic_letters": [
+      "ه",
+      "و",
+      "ر",
+      "ا",
+      "ك",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: هوراكان",
+      "plural: هوراكانات"
+    ]
+  },
+  {
+    "english_word": "Aventador",
+    "arabic_word": "أفنتادور",
+    "arabic_letters": [
+      "أ",
+      "ف",
+      "ن",
+      "ت",
+      "ا",
+      "د",
+      "و",
+      "ر"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: أفنتادور",
+      "plural: أفنتادورات"
+    ]
+  },
+  {
+    "english_word": "Gallardo",
+    "arabic_word": "غالاردو",
+    "arabic_letters": [
+      "غ",
+      "ا",
+      "ل",
+      "ا",
+      "ر",
+      "د",
+      "و"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: غالاردو",
+      "plural: غالاردوات"
+    ]
+  },
+  {
+    "english_word": "Murcielago",
+    "arabic_word": "مورسيلاغو",
+    "arabic_letters": [
+      "م",
+      "و",
+      "ر",
+      "س",
+      "ي",
+      "ل",
+      "ا",
+      "غ",
+      "و"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: مورسيلاغو",
+      "plural: مورسيلاغوات"
+    ]
+  },
+  {
+    "english_word": "Countach",
+    "arabic_word": "كونتاش",
+    "arabic_letters": [
+      "ك",
+      "و",
+      "ن",
+      "ت",
+      "ا",
+      "ش"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: كونتاش",
+      "plural: كونتاشات"
+    ]
+  },
+  {
+    "english_word": "Diablo",
+    "arabic_word": "ديابلو",
+    "arabic_letters": [
+      "د",
+      "ي",
+      "ا",
+      "ب",
+      "ل",
+      "و"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: ديابلو",
+      "plural: ديابلوات"
+    ]
+  },
+  {
+    "english_word": "Reventon",
+    "arabic_word": "ريفنتون",
+    "arabic_letters": [
+      "ر",
+      "ي",
+      "ف",
+      "ن",
+      "ت",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: ريفنتون",
+      "plural: ريفنتونات"
+    ]
+  },
+  {
+    "english_word": "Sian",
+    "arabic_word": "سيان",
+    "arabic_letters": [
+      "س",
+      "ي",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: سيان",
+      "plural: سيانات"
+    ]
+  },
+  {
+    "english_word": "Urus",
+    "arabic_word": "أوروس",
+    "arabic_letters": [
+      "أ",
+      "و",
+      "ر",
+      "و",
+      "س"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: أوروس",
+      "plural: أوروسات"
+    ]
+  },
+  {
+    "english_word": "Sián Roadster",
+    "arabic_word": "سيان رودستر",
+    "arabic_letters": [
+      "س",
+      "ي",
+      "ا",
+      "ن",
+      "ر",
+      "و",
+      "د",
+      "س",
+      "ت",
+      "ر"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: سيان رودستر",
+      "plural: سيانات رودستر"
+    ]
+  },
+  {
+    "english_word": "Huracan Evo",
+    "arabic_word": "هوراكان إيفو",
+    "arabic_letters": [
+      "ه",
+      "و",
+      "ر",
+      "ا",
+      "ك",
+      "ا",
+      "ن",
+      "إ",
+      "ي",
+      "ف",
+      "و"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: هوراكان إيفو",
+      "plural: هوراكانات إيفو"
+    ]
+  },
+  {
+    "english_word": "Aventador SVJ",
+    "arabic_word": "أفنتادور إس في جاي",
+    "arabic_letters": [
+      "أ",
+      "ف",
+      "ن",
+      "ت",
+      "ا",
+      "د",
+      "و",
+      "ر",
+      "إ",
+      "س",
+      "ف",
+      "ي",
+      "ج",
+      "ا",
+      "ي"
+    ],
+    "parts": [
+      "car model",
+      "Lamborghini",
+      "singular: أفنتادور إس في جاي",
+      "plural: أفنتادورات إس في جاي"
+    ]
+  },
+  {
+    "english_word": "Lamborghini logo",
+    "arabic_word": "شعار لامبورغيني",
+    "arabic_letters": [
+      "ش",
+      "ع",
+      "ا",
+      "ر",
+      "ل",
+      "ا",
+      "م",
+      "ب",
+      "و",
+      "ر",
+      "غ",
+      "ي",
+      "ن",
+      "ي"
+    ],
+    "parts": [
+      "car brand logo",
+      "Lamborghini",
+      "singular: شعار لامبورغيني",
+      "plural: شعارات لامبورغيني"
+    ]
+  },
+  {
+    "english_word": "Lamborghini factory",
+    "arabic_word": "مصنع لامبورغيني",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ن",
+      "ع",
+      "ل",
+      "ا",
+      "م",
+      "ب",
+      "و",
+      "ر",
+      "غ",
+      "ي",
+      "ن",
+      "ي"
+    ],
+    "parts": [
+      "car manufacturer",
+      "Lamborghini",
+      "singular: مصنع لامبورغيني",
+      "plural: مصانع لامبورغيني"
+    ]
+  },
+  {
+    "english_word": "Lamborghini museum",
+    "arabic_word": "متحف لامبورغيني",
+    "arabic_letters": [
+      "م",
+      "ت",
+      "ح",
+      "ف",
+      "ل",
+      "ا",
+      "م",
+      "ب",
+      "و",
+      "ر",
+      "غ",
+      "ي",
+      "ن",
+      "ي"
+    ],
+    "parts": [
+      "car museum",
+      "Lamborghini",
+      "singular: متحف لامبورغيني",
+      "plural: متاحف لامبورغيني"
+    ]
+  }
+]

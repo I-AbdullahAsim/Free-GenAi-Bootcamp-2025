@@ -1,0 +1,456 @@
+[
+  {
+    "english_word": "bathroom",
+    "arabic_word": "الحمام",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ح",
+      "م",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "room",
+      "house",
+      "singular: الحمام",
+      "plural: حمامات"
+    ]
+  },
+  {
+    "english_word": "shower",
+    "arabic_word": "دوش",
+    "arabic_letters": [
+      "د",
+      "و",
+      "ش"
+    ],
+    "parts": [
+      "fixture",
+      "bathroom",
+      "singular: دوش",
+      "plural: دوشات"
+    ]
+  },
+  {
+    "english_word": "bathtub",
+    "arabic_word": "مغتسل",
+    "arabic_letters": [
+      "م",
+      "غ",
+      "ت",
+      "س",
+      "ل"
+    ],
+    "parts": [
+      "fixture",
+      "bathroom",
+      "singular: مغتسل",
+      "plural: مغتسلات"
+    ]
+  },
+  {
+    "english_word": "sink",
+    "arabic_word": "مغسلة",
+    "arabic_letters": [
+      "م",
+      "غ",
+      "س",
+      "ل",
+      "ة"
+    ],
+    "parts": [
+      "fixture",
+      "bathroom",
+      "singular: مغسلة",
+      "plural: مغسلات"
+    ]
+  },
+  {
+    "english_word": "toilet",
+    "arabic_word": "مرحاض",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "ح",
+      "ا",
+      "ض"
+    ],
+    "parts": [
+      "fixture",
+      "bathroom",
+      "singular: مرحاض",
+      "plural: مراحيض"
+    ]
+  },
+  {
+    "english_word": "mirror",
+    "arabic_word": "مرآة",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "آ",
+      "ة"
+    ],
+    "parts": [
+      "fixture",
+      "bathroom",
+      "singular: مرآة",
+      "plural: مرايا"
+    ]
+  },
+  {
+    "english_word": "towel",
+    "arabic_word": "منشفة",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ش",
+      "ف",
+      "ة"
+    ],
+    "parts": [
+      "linen",
+      "bathroom",
+      "singular: منشفة",
+      "plural: مناشف"
+    ]
+  },
+  {
+    "english_word": "soap",
+    "arabic_word": "صابون",
+    "arabic_letters": [
+      "ص",
+      "ا",
+      "ب",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "hygiene",
+      "bathroom",
+      "singular: صابون",
+      "plural: صابونات"
+    ]
+  },
+  {
+    "english_word": "shampoo",
+    "arabic_word": "شامبو",
+    "arabic_letters": [
+      "ش",
+      "ا",
+      "م",
+      "ب",
+      "و"
+    ],
+    "parts": [
+      "hygiene",
+      "bathroom",
+      "singular: شامبو",
+      "plural: شامبوهات"
+    ]
+  },
+  {
+    "english_word": "toothbrush",
+    "arabic_word": "فرشاة أسنان",
+    "arabic_letters": [
+      "ف",
+      "ر",
+      "ش",
+      "ا",
+      "ة",
+      "أ",
+      "س",
+      "ن",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "hygiene",
+      "bathroom",
+      "singular: فرشاة أسنان",
+      "plural: فرشات أسنان"
+    ]
+  },
+  {
+    "english_word": "toothpaste",
+    "arabic_word": "معجون أسنان",
+    "arabic_letters": [
+      "م",
+      "ع",
+      "ج",
+      "و",
+      "ن",
+      "أ",
+      "س",
+      "ن",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "hygiene",
+      "bathroom",
+      "singular: معجون أسنان",
+      "plural: معاجين أسنان"
+    ]
+  },
+  {
+    "english_word": "comb",
+    "arabic_word": "مشط",
+    "arabic_letters": [
+      "م",
+      "ش",
+      "ط"
+    ],
+    "parts": [
+      "grooming",
+      "bathroom",
+      "singular: مشط",
+      "plural: مشطات"
+    ]
+  },
+  {
+    "english_word": "hair dryer",
+    "arabic_word": "مجفف شعر",
+    "arabic_letters": [
+      "م",
+      "ج",
+      "ف",
+      "ف",
+      "ش",
+      "ع",
+      "ر"
+    ],
+    "parts": [
+      "appliance",
+      "bathroom",
+      "singular: مجفف شعر",
+      "plural: مجففات شعر"
+    ]
+  },
+  {
+    "english_word": "razor",
+    "arabic_word": "مقص",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ص"
+    ],
+    "parts": [
+      "grooming",
+      "bathroom",
+      "singular: مقص",
+      "plural: مقصات"
+    ]
+  },
+  {
+    "english_word": "shaving cream",
+    "arabic_word": "كريم حلاقة",
+    "arabic_letters": [
+      "ك",
+      "ر",
+      "ي",
+      "م",
+      "ح",
+      "ل",
+      "ا",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "hygiene",
+      "bathroom",
+      "singular: كريم حلاقة",
+      "plural: كريمات حلاقة"
+    ]
+  },
+  {
+    "english_word": "cotton swab",
+    "arabic_word": "عصا قطن",
+    "arabic_letters": [
+      "ع",
+      "ص",
+      "ا",
+      "ق",
+      "ط",
+      "ن"
+    ],
+    "parts": [
+      "hygiene",
+      "bathroom",
+      "singular: عصا قطن",
+      "plural: عصي قطن"
+    ]
+  },
+  {
+    "english_word": "toilet paper",
+    "arabic_word": "ورق مرحاض",
+    "arabic_letters": [
+      "و",
+      "ر",
+      "ق",
+      "م",
+      "ر",
+      "ح",
+      "ا",
+      "ض"
+    ],
+    "parts": [
+      "hygiene",
+      "bathroom",
+      "singular: ورق مرحاض",
+      "plural: أوراق مرحاض"
+    ]
+  },
+  {
+    "english_word": "bath mat",
+    "arabic_word": "سجادة حمام",
+    "arabic_letters": [
+      "س",
+      "ج",
+      "ا",
+      "د",
+      "ة",
+      "ح",
+      "م",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "accessory",
+      "bathroom",
+      "singular: سجادة حمام",
+      "plural: سجاد حمام"
+    ]
+  },
+  {
+    "english_word": "shower curtain",
+    "arabic_word": "ستارة دوش",
+    "arabic_letters": [
+      "س",
+      "ت",
+      "ا",
+      "ر",
+      "ة",
+      "د",
+      "و",
+      "ش"
+    ],
+    "parts": [
+      "accessory",
+      "bathroom",
+      "singular: ستارة دوش",
+      "plural: ستارات دوش"
+    ]
+  },
+  {
+    "english_word": "bathroom trash can",
+    "arabic_word": "سلة قمامة حمام",
+    "arabic_letters": [
+      "س",
+      "ل",
+      "ة",
+      "ق",
+      "م",
+      "ا",
+      "م",
+      "ة",
+      "ح",
+      "م",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "accessory",
+      "bathroom",
+      "singular: سلة قمامة حمام",
+      "plural: سلالي قمامة حمام"
+    ]
+  },
+  {
+    "english_word": "bathroom cabinet",
+    "arabic_word": "خزانة حمام",
+    "arabic_letters": [
+      "خ",
+      "ز",
+      "ا",
+      "ن",
+      "ة",
+      "ح",
+      "م",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "furniture",
+      "bathroom",
+      "singular: خزانة حمام",
+      "plural: خزانات حمام"
+    ]
+  },
+  {
+    "english_word": "bidet",
+    "arabic_word": "بديت",
+    "arabic_letters": [
+      "ب",
+      "د",
+      "ي",
+      "ت"
+    ],
+    "parts": [
+      "fixture",
+      "bathroom",
+      "singular: بديت",
+      "plural: بديتات"
+    ]
+  },
+  {
+    "english_word": "heated towel rail",
+    "arabic_word": "مكواة مناشف ساخنة",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "و",
+      "ا",
+      "ة",
+      "م",
+      "ن",
+      "ا",
+      "ش",
+      "ف",
+      "س",
+      "ا",
+      "خ",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "fixture",
+      "bathroom",
+      "singular: مكواة مناشف ساخنة",
+      "plural: مكوات مناشف ساخنة"
+    ]
+  },
+  {
+    "english_word": "exhaust fan",
+    "arabic_word": "مروحة تهوية",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "و",
+      "ح",
+      "ة",
+      "ت",
+      "ه",
+      "و",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "appliance",
+      "bathroom",
+      "singular: مروحة تهوية",
+      "plural: مروحات تهوية"
+    ]
+  }
+]

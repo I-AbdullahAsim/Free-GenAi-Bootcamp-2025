@@ -1,0 +1,383 @@
+[
+  {
+    "english_word": "goal",
+    "arabic_word": "هدف",
+    "arabic_letters": [
+      "ه",
+      "د",
+      "ف"
+    ],
+    "parts": [
+      "objective",
+      "purpose",
+      "singular: هدف",
+      "plural: أهداف"
+    ]
+  },
+  {
+    "english_word": "aim",
+    "arabic_word": "هدف",
+    "arabic_letters": [
+      "ه",
+      "د",
+      "ف"
+    ],
+    "parts": [
+      "objective",
+      "purpose",
+      "singular: هدف",
+      "plural: أهداف"
+    ]
+  },
+  {
+    "english_word": "objective",
+    "arabic_word": "هدف",
+    "arabic_letters": [
+      "ه",
+      "د",
+      "ف"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: هدف",
+      "plural: أهداف"
+    ]
+  },
+  {
+    "english_word": "mission",
+    "arabic_word": "مهمة",
+    "arabic_letters": [
+      "م",
+      "ه",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "task",
+      "purpose",
+      "singular: مهمة",
+      "plural: مهام"
+    ]
+  },
+  {
+    "english_word": "task",
+    "arabic_word": "مهمة",
+    "arabic_letters": [
+      "م",
+      "ه",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "mission",
+      "purpose",
+      "singular: مهمة",
+      "plural: مهام"
+    ]
+  },
+  {
+    "english_word": "intention",
+    "arabic_word": "نية",
+    "arabic_letters": [
+      "ن",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: نية",
+      "plural: نيّات"
+    ]
+  },
+  {
+    "english_word": "purpose",
+    "arabic_word": "غرض",
+    "arabic_letters": [
+      "غ",
+      "ر",
+      "ض"
+    ],
+    "parts": [
+      "goal",
+      "aim",
+      "singular: غرض",
+      "plural: أغراض"
+    ]
+  },
+  {
+    "english_word": "target",
+    "arabic_word": "هدف",
+    "arabic_letters": [
+      "ه",
+      "د",
+      "ف"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: هدف",
+      "plural: أهداف"
+    ]
+  },
+  {
+    "english_word": "ambition",
+    "arabic_word": "طموح",
+    "arabic_letters": [
+      "ط",
+      "م",
+      "و",
+      "ح"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: طموح",
+      "plural: طموحات"
+    ]
+  },
+  {
+    "english_word": "aspiration",
+    "arabic_word": "طموح",
+    "arabic_letters": [
+      "ط",
+      "م",
+      "و",
+      "ح"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: طموح",
+      "plural: طموحات"
+    ]
+  },
+  {
+    "english_word": "desire",
+    "arabic_word": "رغبة",
+    "arabic_letters": [
+      "ر",
+      "غ",
+      "ب",
+      "ة"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: رغبة",
+      "plural: رغبات"
+    ]
+  },
+  {
+    "english_word": "wish",
+    "arabic_word": "رغبة",
+    "arabic_letters": [
+      "ر",
+      "غ",
+      "ب",
+      "ة"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: رغبة",
+      "plural: رغبات"
+    ]
+  },
+  {
+    "english_word": "dream",
+    "arabic_word": "حلم",
+    "arabic_letters": [
+      "ح",
+      "ل",
+      "م"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: حلم",
+      "plural: أحلام"
+    ]
+  },
+  {
+    "english_word": "vision",
+    "arabic_word": "رؤية",
+    "arabic_letters": [
+      "ر",
+      "ؤ",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: رؤية",
+      "plural: رؤى"
+    ]
+  },
+  {
+    "english_word": "plan",
+    "arabic_word": "خطة",
+    "arabic_letters": [
+      "خ",
+      "ط",
+      "ة"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: خطة",
+      "plural: خطط"
+    ]
+  },
+  {
+    "english_word": "strategy",
+    "arabic_word": "استراتيجية",
+    "arabic_letters": [
+      "ا",
+      "س",
+      "ت",
+      "ر",
+      "ا",
+      "ت",
+      "ي",
+      "ج",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: استراتيجية",
+      "plural: استراتيجيات"
+    ]
+  },
+  {
+    "english_word": "objective",
+    "arabic_word": "هدف",
+    "arabic_letters": [
+      "ه",
+      "د",
+      "ف"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: هدف",
+      "plural: أهداف"
+    ]
+  },
+  {
+    "english_word": "intent",
+    "arabic_word": "نية",
+    "arabic_letters": [
+      "ن",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: نية",
+      "plural: نيّات"
+    ]
+  },
+  {
+    "english_word": "motive",
+    "arabic_word": "دافع",
+    "arabic_letters": [
+      "د",
+      "ا",
+      "ف",
+      "ع"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: دافع",
+      "plural: دوافع"
+    ]
+  },
+  {
+    "english_word": "drive",
+    "arabic_word": "دافع",
+    "arabic_letters": [
+      "د",
+      "ا",
+      "ف",
+      "ع"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: دافع",
+      "plural: دوافع"
+    ]
+  },
+  {
+    "english_word": "motivation",
+    "arabic_word": "دافع",
+    "arabic_letters": [
+      "د",
+      "ا",
+      "ف",
+      "ع"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: دافع",
+      "plural: دوافع"
+    ]
+  },
+  {
+    "english_word": "inspiration",
+    "arabic_word": "إلهام",
+    "arabic_letters": [
+      "إ",
+      "ل",
+      "ه",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: إلهام",
+      "plural: إلهامات"
+    ]
+  },
+  {
+    "english_word": "stimulus",
+    "arabic_word": "مثير",
+    "arabic_letters": [
+      "م",
+      "ث",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: مثير",
+      "plural: مثيرات"
+    ]
+  },
+  {
+    "english_word": "incentive",
+    "arabic_word": "حافز",
+    "arabic_letters": [
+      "ح",
+      "ا",
+      "ف",
+      "ز"
+    ],
+    "parts": [
+      "goal",
+      "purpose",
+      "singular: حافز",
+      "plural: حوافز"
+    ]
+  }
+]

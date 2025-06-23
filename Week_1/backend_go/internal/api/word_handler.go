@@ -7,15 +7,17 @@ import (
 	"github.com/i-AbdullahAsim/free-genai-bootcamp-2025/Week_1/backend_go/internal/service"
 	"github.com/i-AbdullahAsim/free-genai-bootcamp-2025/Week_1/backend_go/internal/utils"
 	"strconv"
+	"gorm.io/gorm"
+	repo "github.com/i-AbdullahAsim/free-genai-bootcamp-2025/Week_1/backend_go/internal/repository"
 )
 
 // WordHandler handles word related endpoints
 type WordHandler struct {
-	service *service.WordService
+	service service.WordServiceInterface
 }
 
 // NewWordHandler creates a new word handler
-func NewWordHandler(service *service.WordService) *WordHandler {
+func NewWordHandler(service service.WordServiceInterface) *WordHandler {
 	return &WordHandler{service: service}
 }
 
@@ -67,14 +69,13 @@ func (h *WordHandler) GetWord(c *gin.Context) {
 
 	word, err := h.service.GetWord(uint(wordID))
 	if err != nil {
-		if err == service.ErrWordNotFound {
+		if err == service.ErrWordNotFound || err == repo.ErrNotFound || err == gorm.ErrRecordNotFound {
 			utils.ErrorWithStatus(c, http.StatusNotFound, "Word not found")
 			return
 		}
 		utils.ErrorWithStatus(c, http.StatusInternalServerError, err.Error())
 		return
 	}
-	
 	utils.Success(c, word, "Word retrieved successfully")
 }
 

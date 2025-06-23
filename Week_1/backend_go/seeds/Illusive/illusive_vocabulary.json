@@ -1,0 +1,404 @@
+[
+  {
+    "english_word": "illusion",
+    "arabic_word": "وهم",
+    "arabic_letters": [
+      "و",
+      "ه",
+      "م"
+    ],
+    "parts": [
+      "concept",
+      "psychology",
+      "singular: وهم",
+      "plural: أوهام"
+    ]
+  },
+  {
+    "english_word": "mirage",
+    "arabic_word": "سراب",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "optical phenomenon",
+      "desert",
+      "singular: سراب",
+      "plural: سراب"
+    ]
+  },
+  {
+    "english_word": "hallucination",
+    "arabic_word": "تخيل",
+    "arabic_letters": [
+      "ت",
+      "خ",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "psychological disorder",
+      "mental health",
+      "singular: تخيل",
+      "plural: تخيلات"
+    ]
+  },
+  {
+    "english_word": "delusion",
+    "arabic_word": "وهمة",
+    "arabic_letters": [
+      "و",
+      "ه",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "psychological disorder",
+      "mental health",
+      "singular: وهمة",
+      "plural: وهومات"
+    ]
+  },
+  {
+    "english_word": "fantasy",
+    "arabic_word": "خيال",
+    "arabic_letters": [
+      "خ",
+      "ي",
+      "ا",
+      "ل"
+    ],
+    "parts": [
+      "imagination",
+      "creativity",
+      "singular: خيال",
+      "plural: خيالات"
+    ]
+  },
+  {
+    "english_word": "dream",
+    "arabic_word": "حلم",
+    "arabic_letters": [
+      "ح",
+      "ل",
+      "م"
+    ],
+    "parts": [
+      "sleep",
+      "subconscious",
+      "singular: حلم",
+      "plural: أحلام"
+    ]
+  },
+  {
+    "english_word": "vision",
+    "arabic_word": "رؤيا",
+    "arabic_letters": [
+      "ر",
+      "ؤ",
+      "ي",
+      "ا"
+    ],
+    "parts": [
+      "perception",
+      "insight",
+      "singular: رؤيا",
+      "plural: رؤى"
+    ]
+  },
+  {
+    "english_word": "specter",
+    "arabic_word": "شبح",
+    "arabic_letters": [
+      "ش",
+      "ب",
+      "ح"
+    ],
+    "parts": [
+      "ghostly apparition",
+      "supernatural",
+      "singular: شبح",
+      "plural: أشباح"
+    ]
+  },
+  {
+    "english_word": "phantom",
+    "arabic_word": "خَيال",
+    "arabic_letters": [
+      "خ",
+      "ي",
+      "ا",
+      "ل"
+    ],
+    "parts": [
+      "ghostly apparition",
+      "supernatural",
+      "singular: خَيال",
+      "plural: خَيالات"
+    ]
+  },
+  {
+    "english_word": "apparition",
+    "arabic_word": "ظهور",
+    "arabic_letters": [
+      "ظ",
+      "ه",
+      "و",
+      "ر"
+    ],
+    "parts": [
+      "ghostly appearance",
+      "supernatural",
+      "singular: ظهور",
+      "plural: ظهورات"
+    ]
+  },
+  {
+    "english_word": "deception",
+    "arabic_word": "خدعة",
+    "arabic_letters": [
+      "خ",
+      "د",
+      "ع",
+      "ة"
+    ],
+    "parts": [
+      "trickery",
+      "dishonesty",
+      "singular: خدعة",
+      "plural: خدع"
+    ]
+  },
+  {
+    "english_word": "trick",
+    "arabic_word": "مكر",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ر"
+    ],
+    "parts": [
+      "deception",
+      "illusion",
+      "singular: مكر",
+      "plural: مكرات"
+    ]
+  },
+  {
+    "english_word": "magic",
+    "arabic_word": "سحر",
+    "arabic_letters": [
+      "س",
+      "ح",
+      "ر"
+    ],
+    "parts": [
+      "illusion",
+      "entertainment",
+      "singular: سحر",
+      "plural: سحور"
+    ]
+  },
+  {
+    "english_word": "hypnosis",
+    "arabic_word": "تنويم",
+    "arabic_letters": [
+      "ت",
+      "ن",
+      "و",
+      "ي",
+      "م"
+    ],
+    "parts": [
+      "mind control",
+      "psychology",
+      "singular: تنويم",
+      "plural: تنويمات"
+    ]
+  },
+  {
+    "english_word": "optical illusion",
+    "arabic_word": "وهم بصري",
+    "arabic_letters": [
+      "و",
+      "ه",
+      "م",
+      "ب",
+      "ص",
+      "ر",
+      "ي"
+    ],
+    "parts": [
+      "visual deception",
+      "optics",
+      "singular: وهم بصري",
+      "plural: أوهام بصرية"
+    ]
+  },
+  {
+    "english_word": "auditory illusion",
+    "arabic_word": "وهم سمعي",
+    "arabic_letters": [
+      "و",
+      "ه",
+      "م",
+      "س",
+      "م",
+      "ع",
+      "ي"
+    ],
+    "parts": [
+      "sound deception",
+      "acoustics",
+      "singular: وهم سمعي",
+      "plural: أوهام سمعية"
+    ]
+  },
+  {
+    "english_word": "tactile illusion",
+    "arabic_word": "وهم لامسي",
+    "arabic_letters": [
+      "و",
+      "ه",
+      "م",
+      "ل",
+      "ا",
+      "م",
+      "س",
+      "ي"
+    ],
+    "parts": [
+      "touch deception",
+      "sensory",
+      "singular: وهم لامسي",
+      "plural: أوهام لامسية"
+    ]
+  },
+  {
+    "english_word": "mirroring",
+    "arabic_word": "تأشير",
+    "arabic_letters": [
+      "ت",
+      "أ",
+      "ش",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "optical illusion",
+      "reflection",
+      "singular: تأشير",
+      "plural: تأشيرات"
+    ]
+  },
+  {
+    "english_word": "camouflage",
+    "arabic_word": "تخفي",
+    "arabic_letters": [
+      "ت",
+      "خ",
+      "ف",
+      "ي"
+    ],
+    "parts": [
+      "concealment",
+      "deception",
+      "singular: تخفي",
+      "plural: تخفيات"
+    ]
+  },
+  {
+    "english_word": "disguise",
+    "arabic_word": "تقمص",
+    "arabic_letters": [
+      "ت",
+      "ق",
+      "م",
+      "ص"
+    ],
+    "parts": [
+      "deception",
+      "costume",
+      "singular: تقمص",
+      "plural: تقمصات"
+    ]
+  },
+  {
+    "english_word": "impostor",
+    "arabic_word": "محتال",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ت",
+      "ا",
+      "ل"
+    ],
+    "parts": [
+      "deception",
+      "fraud",
+      "singular: محتال",
+      "plural: محتالون"
+    ]
+  },
+  {
+    "english_word": "pretence",
+    "arabic_word": "تظاهر",
+    "arabic_letters": [
+      "ت",
+      "ظ",
+      "ا",
+      "ه",
+      "ر"
+    ],
+    "parts": [
+      "deception",
+      "false appearance",
+      "singular: تظاهر",
+      "plural: تظاهرات"
+    ]
+  },
+  {
+    "english_word": "simulation",
+    "arabic_word": "محاكاة",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ا",
+      "ك",
+      "ا",
+      "ة"
+    ],
+    "parts": [
+      "imitation",
+      "modeling",
+      "singular: محاكاة",
+      "plural: محاكيات"
+    ]
+  },
+  {
+    "english_word": "virtual reality",
+    "arabic_word": "واقع افتراضي",
+    "arabic_letters": [
+      "و",
+      "ا",
+      "ق",
+      "ع",
+      "ا",
+      "ف",
+      "ت",
+      "ر",
+      "ا",
+      "ض",
+      "ي"
+    ],
+    "parts": [
+      "illusion",
+      "technology",
+      "singular: واقع افتراضي",
+      "plural: واقع افتراضي"
+    ]
+  }
+]

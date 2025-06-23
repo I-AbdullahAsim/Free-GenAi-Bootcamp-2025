@@ -1,0 +1,450 @@
+[
+  {
+    "english_word": "Roof",
+    "arabic_word": "سقف",
+    "arabic_letters": [
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: سقف",
+      "plural: أسقف"
+    ]
+  },
+  {
+    "english_word": "Ceiling",
+    "arabic_word": "سقف مائل",
+    "arabic_letters": [
+      "س",
+      "ق",
+      "ف",
+      "م",
+      "ا",
+      "ئ",
+      "ل"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: سقف مائل",
+      "plural: أسقف مائلة"
+    ]
+  },
+  {
+    "english_word": "Tile",
+    "arabic_word": "بلاطة",
+    "arabic_letters": [
+      "ب",
+      "ل",
+      "ا",
+      "ط",
+      "ة"
+    ],
+    "parts": [
+      "material",
+      "construction",
+      "singular: بلاطة",
+      "plural: بلاطات"
+    ]
+  },
+  {
+    "english_word": "Shingle",
+    "arabic_word": "مقرنة",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ر",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "material",
+      "construction",
+      "singular: مقرنة",
+      "plural: مقرنات"
+    ]
+  },
+  {
+    "english_word": "Gutter",
+    "arabic_word": "مجرى ماء",
+    "arabic_letters": [
+      "م",
+      "ج",
+      "ر",
+      "ى",
+      "م",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: مجرى ماء",
+      "plural: مجاري ماء"
+    ]
+  },
+  {
+    "english_word": "Downspout",
+    "arabic_word": "مجرى ماء سفلي",
+    "arabic_letters": [
+      "م",
+      "ج",
+      "ر",
+      "ى",
+      "م",
+      "ا",
+      "ء",
+      "س",
+      "ف",
+      "ل",
+      "ي"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: مجرى ماء سفلي",
+      "plural: مجاري ماء سفلية"
+    ]
+  },
+  {
+    "english_word": "Chimney",
+    "arabic_word": "مدخنة",
+    "arabic_letters": [
+      "م",
+      "د",
+      "خ",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: مدخنة",
+      "plural: مداخن"
+    ]
+  },
+  {
+    "english_word": "Skylight",
+    "arabic_word": "نافذة سقف",
+    "arabic_letters": [
+      "ن",
+      "ا",
+      "ف",
+      "ذ",
+      "ة",
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: نافذة سقف",
+      "plural: نافذات سقف"
+    ]
+  },
+  {
+    "english_word": "Vent",
+    "arabic_word": "مفاجئ",
+    "arabic_letters": [
+      "م",
+      "ف",
+      "ا",
+      "ج",
+      "ئ"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: مفاجئ",
+      "plural: مفاجئات"
+    ]
+  },
+  {
+    "english_word": "Dormer",
+    "arabic_word": "نافذة سقفية",
+    "arabic_letters": [
+      "ن",
+      "ا",
+      "ف",
+      "ذ",
+      "ة",
+      "س",
+      "ق",
+      "ف",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: نافذة سقفية",
+      "plural: نافذات سقفية"
+    ]
+  },
+  {
+    "english_word": "Eaves",
+    "arabic_word": "شرفة سقف",
+    "arabic_letters": [
+      "ش",
+      "ر",
+      "ف",
+      "ة",
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: شرفة سقف",
+      "plural: شرفات سقف"
+    ]
+  },
+  {
+    "english_word": "Rafter",
+    "arabic_word": "عصا سقف",
+    "arabic_letters": [
+      "ع",
+      "ص",
+      "ا",
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: عصا سقف",
+      "plural: عصات سقف"
+    ]
+  },
+  {
+    "english_word": "Truss",
+    "arabic_word": "هيكل سقف",
+    "arabic_letters": [
+      "ه",
+      "ي",
+      "ك",
+      "ل",
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: هيكل سقف",
+      "plural: هياكل سقف"
+    ]
+  },
+  {
+    "english_word": "Fascia",
+    "arabic_word": "شرفة سقفية",
+    "arabic_letters": [
+      "ش",
+      "ر",
+      "ف",
+      "ة",
+      "س",
+      "ق",
+      "ف",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: شرفة سقفية",
+      "plural: شرفات سقفية"
+    ]
+  },
+  {
+    "english_word": "Soffit",
+    "arabic_word": "سقف سفلي",
+    "arabic_letters": [
+      "س",
+      "ق",
+      "ف",
+      "س",
+      "ف",
+      "ل",
+      "ي"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: سقف سفلي",
+      "plural: أسقف سفلية"
+    ]
+  },
+  {
+    "english_word": "Gable",
+    "arabic_word": "مثلث سقف",
+    "arabic_letters": [
+      "م",
+      "ث",
+      "ل",
+      "ث",
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: مثلث سقف",
+      "plural: مثلثات سقف"
+    ]
+  },
+  {
+    "english_word": "Hip",
+    "arabic_word": "مثلث سقف مائل",
+    "arabic_letters": [
+      "م",
+      "ث",
+      "ل",
+      "ث",
+      "س",
+      "ق",
+      "ف",
+      "م",
+      "ا",
+      "ئ",
+      "ل"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: مثلث سقف مائل",
+      "plural: مثلثات سقف مائلة"
+    ]
+  },
+  {
+    "english_word": "Valley",
+    "arabic_word": "وادي سقف",
+    "arabic_letters": [
+      "و",
+      "ا",
+      "د",
+      "ي",
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "structure",
+      "building",
+      "singular: وادي سقف",
+      "plural: أودية سقف"
+    ]
+  },
+  {
+    "english_word": "Flashing",
+    "arabic_word": "مادة ماء",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "د",
+      "ة",
+      "م",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "material",
+      "construction",
+      "singular: مادة ماء",
+      "plural: مواد ماء"
+    ]
+  },
+  {
+    "english_word": "Shingle nail",
+    "arabic_word": "مسمار مقرنة",
+    "arabic_letters": [
+      "م",
+      "س",
+      "م",
+      "ا",
+      "ر",
+      "م",
+      "ق",
+      "ر",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "tool",
+      "construction",
+      "singular: مسمار مقرنة",
+      "plural: مسامير مقرنات"
+    ]
+  },
+  {
+    "english_word": "Roofing felt",
+    "arabic_word": "مادة سقفية",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "د",
+      "ة",
+      "س",
+      "ق",
+      "ف",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "material",
+      "construction",
+      "singular: مادة سقفية",
+      "plural: مواد سقفية"
+    ]
+  },
+  {
+    "english_word": "Roofing hammer",
+    "arabic_word": "مطرقة سقفية",
+    "arabic_letters": [
+      "م",
+      "ط",
+      "ر",
+      "ق",
+      "ة",
+      "س",
+      "ق",
+      "ف",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "tool",
+      "construction",
+      "singular: مطرقة سقفية",
+      "plural: مطرق سقفية"
+    ]
+  },
+  {
+    "english_word": "Roofing tape",
+    "arabic_word": "شريط سقفية",
+    "arabic_letters": [
+      "ش",
+      "ر",
+      "ي",
+      "ط",
+      "س",
+      "ق",
+      "ف",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "material",
+      "construction",
+      "singular: شريط سقفية",
+      "plural: شرائط سقفية"
+    ]
+  }
+]

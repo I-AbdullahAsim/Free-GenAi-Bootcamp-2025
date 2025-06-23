@@ -1,0 +1,497 @@
+[
+  {
+    "english_word": "bed",
+    "arabic_word": "سرير",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: سرير",
+      "plural: سريرات"
+    ]
+  },
+  {
+    "english_word": "mattress",
+    "arabic_word": "مرتبة",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "ت",
+      "ب",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: مرتبة",
+      "plural: مراتب"
+    ]
+  },
+  {
+    "english_word": "pillow",
+    "arabic_word": "مخدة",
+    "arabic_letters": [
+      "م",
+      "خ",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "bedding",
+      "bedroom",
+      "singular: مخدة",
+      "plural: مخدات"
+    ]
+  },
+  {
+    "english_word": "blanket",
+    "arabic_word": "بطانية",
+    "arabic_letters": [
+      "ب",
+      "ط",
+      "ا",
+      "ن",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "bedding",
+      "bedroom",
+      "singular: بطانية",
+      "plural: بطانيات"
+    ]
+  },
+  {
+    "english_word": "sheet",
+    "arabic_word": "ملاءة",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ا",
+      "ء",
+      "ة"
+    ],
+    "parts": [
+      "bedding",
+      "bedroom",
+      "singular: ملاءة",
+      "plural: ملاءات"
+    ]
+  },
+  {
+    "english_word": "wardrobe",
+    "arabic_word": "خزانة ملابس",
+    "arabic_letters": [
+      "خ",
+      "ز",
+      "ا",
+      "ن",
+      "ة",
+      "م",
+      "ل",
+      "ا",
+      "ب",
+      "س"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: خزانة ملابس",
+      "plural: خزانات ملابس"
+    ]
+  },
+  {
+    "english_word": "dresser",
+    "arabic_word": "خزانة ملابس صغيرة",
+    "arabic_letters": [
+      "خ",
+      "ز",
+      "ا",
+      "ن",
+      "ة",
+      "م",
+      "ل",
+      "ا",
+      "ب",
+      "س",
+      "ص",
+      "غ",
+      "ي",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: خزانة ملابس صغيرة",
+      "plural: خزانات ملابس صغيرة"
+    ]
+  },
+  {
+    "english_word": "mirror",
+    "arabic_word": "مرآة",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "آ",
+      "ة"
+    ],
+    "parts": [
+      "decor",
+      "bedroom",
+      "singular: مرآة",
+      "plural: مرايا"
+    ]
+  },
+  {
+    "english_word": "lamp",
+    "arabic_word": "مصباح",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ب",
+      "ا",
+      "ح"
+    ],
+    "parts": [
+      "lighting",
+      "bedroom",
+      "singular: مصباح",
+      "plural: مصباحات"
+    ]
+  },
+  {
+    "english_word": "curtains",
+    "arabic_word": "ستائر",
+    "arabic_letters": [
+      "س",
+      "ت",
+      "ا",
+      "ئ",
+      "ر"
+    ],
+    "parts": [
+      "decor",
+      "bedroom",
+      "singular: ستائر",
+      "plural: ستائر"
+    ]
+  },
+  {
+    "english_word": "rug",
+    "arabic_word": "سجادة",
+    "arabic_letters": [
+      "س",
+      "ج",
+      "ا",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "decor",
+      "bedroom",
+      "singular: سجادة",
+      "plural: سجادات"
+    ]
+  },
+  {
+    "english_word": "nightstand",
+    "arabic_word": "مكتب ليلي",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ت",
+      "ب",
+      "ل",
+      "ي",
+      "ل",
+      "ي"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: مكتب ليلي",
+      "plural: مكتبات ليلية"
+    ]
+  },
+  {
+    "english_word": "alarm clock",
+    "arabic_word": "ساعة منبه",
+    "arabic_letters": [
+      "س",
+      "ا",
+      "ع",
+      "ة",
+      "م",
+      "ن",
+      "ب",
+      "ه"
+    ],
+    "parts": [
+      "electronic",
+      "bedroom",
+      "singular: ساعة منبه",
+      "plural: ساعات منبه"
+    ]
+  },
+  {
+    "english_word": "bedside table",
+    "arabic_word": "مكتب جانبي",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ت",
+      "ب",
+      "ج",
+      "ا",
+      "ن",
+      "ب",
+      "ي"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: مكتب جانبي",
+      "plural: مكتبات جانبية"
+    ]
+  },
+  {
+    "english_word": "closet",
+    "arabic_word": "خزانة ملابس كبيرة",
+    "arabic_letters": [
+      "خ",
+      "ز",
+      "ا",
+      "ن",
+      "ة",
+      "م",
+      "ل",
+      "ا",
+      "ب",
+      "س",
+      "ك",
+      "ب",
+      "ي",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: خزانة ملابس كبيرة",
+      "plural: خزانات ملابس كبيرة"
+    ]
+  },
+  {
+    "english_word": "hangers",
+    "arabic_word": "معلقات ملابس",
+    "arabic_letters": [
+      "م",
+      "ع",
+      "ل",
+      "ق",
+      "ا",
+      "ت",
+      "م",
+      "ل",
+      "ا",
+      "ب",
+      "س"
+    ],
+    "parts": [
+      "accessory",
+      "bedroom",
+      "singular: معلقة ملابس",
+      "plural: معلقات ملابس"
+    ]
+  },
+  {
+    "english_word": "laundry basket",
+    "arabic_word": "سلة غسيل",
+    "arabic_letters": [
+      "س",
+      "ل",
+      "ة",
+      "غ",
+      "س",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "accessory",
+      "bedroom",
+      "singular: سلة غسيل",
+      "plural: سللات غسيل"
+    ]
+  },
+  {
+    "english_word": "iron",
+    "arabic_word": "مكواة",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "و",
+      "ا",
+      "ة"
+    ],
+    "parts": [
+      "electronic",
+      "bedroom",
+      "singular: مكواة",
+      "plural: مكوايات"
+    ]
+  },
+  {
+    "english_word": "ironing board",
+    "arabic_word": "لوحة مكواة",
+    "arabic_letters": [
+      "ل",
+      "و",
+      "ح",
+      "ة",
+      "م",
+      "ك",
+      "و",
+      "ا",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: لوحة مكواة",
+      "plural: لوحات مكواة"
+    ]
+  },
+  {
+    "english_word": "window",
+    "arabic_word": "نافذة",
+    "arabic_letters": [
+      "ن",
+      "ا",
+      "ف",
+      "ذ",
+      "ة"
+    ],
+    "parts": [
+      "architecture",
+      "bedroom",
+      "singular: نافذة",
+      "plural: نوافذ"
+    ]
+  },
+  {
+    "english_word": "door",
+    "arabic_word": "باب",
+    "arabic_letters": [
+      "ب",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "architecture",
+      "bedroom",
+      "singular: باب",
+      "plural: أبواب"
+    ]
+  },
+  {
+    "english_word": "ceiling fan",
+    "arabic_word": "مروحة سقف",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "و",
+      "ح",
+      "ة",
+      "س",
+      "ق",
+      "ف"
+    ],
+    "parts": [
+      "electronic",
+      "bedroom",
+      "singular: مروحة سقف",
+      "plural: مروحات سقف"
+    ]
+  },
+  {
+    "english_word": "air conditioner",
+    "arabic_word": "مكيف هواء",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ي",
+      "ف",
+      "ه",
+      "و",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "electronic",
+      "bedroom",
+      "singular: مكيف هواء",
+      "plural: مكيفات هواء"
+    ]
+  },
+  {
+    "english_word": "TV stand",
+    "arabic_word": "مكتب تلفزيون",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ت",
+      "ب",
+      "ت",
+      "ل",
+      "ف",
+      "ز",
+      "ي",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: مكتب تلفزيون",
+      "plural: مكتبات تلفزيون"
+    ]
+  },
+  {
+    "english_word": "desk",
+    "arabic_word": "مكتب",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ت",
+      "ب"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: مكتب",
+      "plural: مكتبات"
+    ]
+  },
+  {
+    "english_word": "chair",
+    "arabic_word": "كرسي",
+    "arabic_letters": [
+      "ك",
+      "ر",
+      "س",
+      "ي"
+    ],
+    "parts": [
+      "furniture",
+      "bedroom",
+      "singular: كرسي",
+      "plural: كراسي"
+    ]
+  }
+]

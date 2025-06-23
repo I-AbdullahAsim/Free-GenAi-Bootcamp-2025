@@ -1,0 +1,574 @@
+[
+  {
+    "english_word": "store",
+    "arabic_word": "متجر",
+    "arabic_letters": [
+      "م",
+      "ت",
+      "ج",
+      "ر"
+    ],
+    "parts": [
+      "shop",
+      "shopping",
+      "singular: متجر",
+      "plural: متاجر"
+    ]
+  },
+  {
+    "english_word": "mall",
+    "arabic_word": "مركز تجاري",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "ك",
+      "ز",
+      "ت",
+      "ج",
+      "ا",
+      "ر",
+      "ي"
+    ],
+    "parts": [
+      "shopping center",
+      "shopping",
+      "singular: مركز تجاري",
+      "plural: مراكز تجارية"
+    ]
+  },
+  {
+    "english_word": "market",
+    "arabic_word": "سوق",
+    "arabic_letters": [
+      "س",
+      "و",
+      "ق"
+    ],
+    "parts": [
+      "shopping place",
+      "shopping",
+      "singular: سوق",
+      "plural: أسواق"
+    ]
+  },
+  {
+    "english_word": "product",
+    "arabic_word": "منتج",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ت",
+      "ج"
+    ],
+    "parts": [
+      "item",
+      "shopping",
+      "singular: منتج",
+      "plural: منتجات"
+    ]
+  },
+  {
+    "english_word": "price",
+    "arabic_word": "سعر",
+    "arabic_letters": [
+      "س",
+      "ع",
+      "ر"
+    ],
+    "parts": [
+      "cost",
+      "shopping",
+      "singular: سعر",
+      "plural: أسعار"
+    ]
+  },
+  {
+    "english_word": "discount",
+    "arabic_word": "تخفيض",
+    "arabic_letters": [
+      "ت",
+      "خ",
+      "ف",
+      "ي",
+      "ض"
+    ],
+    "parts": [
+      "sale",
+      "shopping",
+      "singular: تخفيض",
+      "plural: تخفيضات"
+    ]
+  },
+  {
+    "english_word": "voucher",
+    "arabic_word": "قسيمة",
+    "arabic_letters": [
+      "ق",
+      "س",
+      "ي",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "coupon",
+      "shopping",
+      "singular: قسيمة",
+      "plural: قسائم"
+    ]
+  },
+  {
+    "english_word": "cashier",
+    "arabic_word": "касير",
+    "arabic_letters": [
+      "к",
+      "а",
+      "с",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "shop assistant",
+      "shopping",
+      "singular: كاسير",
+      "plural: كاشيرات"
+    ]
+  },
+  {
+    "english_word": "shopping cart",
+    "arabic_word": "عربة التسوق",
+    "arabic_letters": [
+      "ع",
+      "ر",
+      "ب",
+      "ة",
+      "ا",
+      "ل",
+      "ت",
+      "س",
+      "و",
+      "ق"
+    ],
+    "parts": [
+      "trolley",
+      "shopping",
+      "singular: عربة التسوق",
+      "plural: عربات التسوق"
+    ]
+  },
+  {
+    "english_word": "online shopping",
+    "arabic_word": "التسوق عبر الإنترنت",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ت",
+      "س",
+      "و",
+      "ق",
+      "ع",
+      "ب",
+      "ر",
+      "ا",
+      "ل",
+      "إ",
+      "ن",
+      "ت",
+      "ر",
+      "ن",
+      "ت"
+    ],
+    "parts": [
+      "e-shopping",
+      "shopping",
+      "singular: التسوق عبر الإنترنت",
+      "plural: التسوق عبر الإنترنت"
+    ]
+  },
+  {
+    "english_word": "customer",
+    "arabic_word": "زبون",
+    "arabic_letters": [
+      "ز",
+      "ب",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "buyer",
+      "shopping",
+      "singular: زبون",
+      "plural: زبائن"
+    ]
+  },
+  {
+    "english_word": "salesperson",
+    "arabic_word": "بائع",
+    "arabic_letters": [
+      "ب",
+      "ا",
+      "ئ",
+      "ع"
+    ],
+    "parts": [
+      "shop assistant",
+      "shopping",
+      "singular: بائع",
+      "plural: بائعون"
+    ]
+  },
+  {
+    "english_word": "receipt",
+    "arabic_word": "إيصال",
+    "arabic_letters": [
+      "إ",
+      "ي",
+      "ص",
+      "ا",
+      "ل"
+    ],
+    "parts": [
+      "bill",
+      "shopping",
+      "singular: إيصال",
+      "plural: إيصالات"
+    ]
+  },
+  {
+    "english_word": "credit card",
+    "arabic_word": "بطاقة ائتمان",
+    "arabic_letters": [
+      "ب",
+      "ط",
+      "ا",
+      "ق",
+      "ة",
+      "ا",
+      "ئ",
+      "ت",
+      "م",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "payment method",
+      "shopping",
+      "singular: بطاقة ائتمان",
+      "plural: بطاقات ائتمان"
+    ]
+  },
+  {
+    "english_word": "cash",
+    "arabic_word": "نقود",
+    "arabic_letters": [
+      "ن",
+      "ق",
+      "و",
+      "د"
+    ],
+    "parts": [
+      "money",
+      "shopping",
+      "singular: نقود",
+      "plural: نقود"
+    ]
+  },
+  {
+    "english_word": "ATM",
+    "arabic_word": "جهاز سحب آلي",
+    "arabic_letters": [
+      "ج",
+      "ه",
+      "ا",
+      "ز",
+      "س",
+      "ح",
+      "ب",
+      "آ",
+      "ل",
+      "ي"
+    ],
+    "parts": [
+      "cash machine",
+      "shopping",
+      "singular: جهاز سحب آلي",
+      "plural: أجهزة سحب آلي"
+    ]
+  },
+  {
+    "english_word": "gift",
+    "arabic_word": "هديه",
+    "arabic_letters": [
+      "ه",
+      "د",
+      "ي",
+      "ه"
+    ],
+    "parts": [
+      "present",
+      "shopping",
+      "singular: هديه",
+      "plural: هدايا"
+    ]
+  },
+  {
+    "english_word": "wrap",
+    "arabic_word": "تغليف",
+    "arabic_letters": [
+      "ت",
+      "غ",
+      "ل",
+      "ي",
+      "ف"
+    ],
+    "parts": [
+      "packaging",
+      "shopping",
+      "singular: تغليف",
+      "plural: تغليفات"
+    ]
+  },
+  {
+    "english_word": "bag",
+    "arabic_word": "كيس",
+    "arabic_letters": [
+      "ك",
+      "ي",
+      "س"
+    ],
+    "parts": [
+      "shopping bag",
+      "shopping",
+      "singular: كيس",
+      "plural: أكيس"
+    ]
+  },
+  {
+    "english_word": "box",
+    "arabic_word": "صندوق",
+    "arabic_letters": [
+      "ص",
+      "ن",
+      "د",
+      "و",
+      "ق"
+    ],
+    "parts": [
+      "packaging",
+      "shopping",
+      "singular: صندوق",
+      "plural: صناديق"
+    ]
+  },
+  {
+    "english_word": "clothing",
+    "arabic_word": "ملابس",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ا",
+      "ب",
+      "س"
+    ],
+    "parts": [
+      "apparel",
+      "shopping",
+      "singular: ملابس",
+      "plural: ملابس"
+    ]
+  },
+  {
+    "english_word": "shoes",
+    "arabic_word": "أحذية",
+    "arabic_letters": [
+      "أ",
+      "ح",
+      "ذ",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "footwear",
+      "shopping",
+      "singular: أحذية",
+      "plural: أحذية"
+    ]
+  },
+  {
+    "english_word": "electronics",
+    "arabic_word": "إلكترونيات",
+    "arabic_letters": [
+      "إ",
+      "ل",
+      "ك",
+      "ت",
+      "ر",
+      "و",
+      "ن",
+      "ي",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "gadgets",
+      "shopping",
+      "singular: إلكترونيات",
+      "plural: إلكترونيات"
+    ]
+  },
+  {
+    "english_word": "furniture",
+    "arabic_word": "أثاث",
+    "arabic_letters": [
+      "أ",
+      "ث",
+      "ا",
+      "ث"
+    ],
+    "parts": [
+      "home decor",
+      "shopping",
+      "singular: أثاث",
+      "plural: أثاث"
+    ]
+  },
+  {
+    "english_word": "beauty products",
+    "arabic_word": "منتجات التجميل",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ت",
+      "ج",
+      "ا",
+      "ت",
+      "ا",
+      "ل",
+      "ت",
+      "ج",
+      "م",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "cosmetics",
+      "shopping",
+      "singular: منتجات التجميل",
+      "plural: منتجات التجميل"
+    ]
+  },
+  {
+    "english_word": "perfume",
+    "arabic_word": "عطر",
+    "arabic_letters": [
+      "ع",
+      "ط",
+      "ر"
+    ],
+    "parts": [
+      "fragrance",
+      "shopping",
+      "singular: عطر",
+      "plural: عطور"
+    ]
+  },
+  {
+    "english_word": "jewelry",
+    "arabic_word": "مجوهرات",
+    "arabic_letters": [
+      "م",
+      "ج",
+      "و",
+      "ه",
+      "ر",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "accessories",
+      "shopping",
+      "singular: مجوهرات",
+      "plural: مجوهرات"
+    ]
+  },
+  {
+    "english_word": "toy",
+    "arabic_word": "لعب",
+    "arabic_letters": [
+      "ل",
+      "ع",
+      "ب"
+    ],
+    "parts": [
+      "plaything",
+      "shopping",
+      "singular: لعب",
+      "plural: ألعاب"
+    ]
+  },
+  {
+    "english_word": "book",
+    "arabic_word": "كتاب",
+    "arabic_letters": [
+      "ك",
+      "ت",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "publication",
+      "shopping",
+      "singular: كتاب",
+      "plural: كتب"
+    ]
+  },
+  {
+    "english_word": "grocery",
+    "arabic_word": "بقالة",
+    "arabic_letters": [
+      "ب",
+      "ق",
+      "ا",
+      "ل",
+      "ة"
+    ],
+    "parts": [
+      "food items",
+      "shopping",
+      "singular: بقالة",
+      "plural: بقالة"
+    ]
+  },
+  {
+    "english_word": "pharmacy",
+    "arabic_word": "صيدلية",
+    "arabic_letters": [
+      "ص",
+      "ي",
+      "د",
+      "ل",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "drugstore",
+      "shopping",
+      "singular: صيدلية",
+      "plural: صيدليات"
+    ]
+  },
+  {
+    "english_word": "bank",
+    "arabic_word": "بنك",
+    "arabic_letters": [
+      "ب",
+      "ن",
+      "ك"
+    ],
+    "parts": [
+      "financial institution",
+      "shopping",
+      "singular: بنك",
+      "plural: بنوك"
+    ]
+  }
+]

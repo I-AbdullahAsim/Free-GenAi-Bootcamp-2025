@@ -1,3 +1,144 @@
 Week_1/ollama-comps/.env
 .vscode/
 *.db
+node_modules/
+*.db
+.vscode/
+__pycache__/
+Week_1/vocabulary-importer/.env.local
+
+
+
+# Byte-compiled / optimized / DLL files
+Week_2/language-learning-assistant/__pycache__/
+Week_2/language-learning-assistant/*.py[cod]
+Week_2/language-learning-assistant/*$py.class
+
+# C extensions
+Week_2/language-learning-assistant/*.so
+
+# Distribution / packaging
+Week_2/language-learning-assistant/.Python
+Week_2/language-learning-assistant/build/
+Week_2/language-learning-assistant/develop-eggs/
+Week_2/language-learning-assistant/dist/
+Week_2/language-learning-assistant/downloads/
+Week_2/language-learning-assistant/eggs/
+Week_2/language-learning-assistant/.eggs/
+Week_2/language-learning-assistant/lib/
+Week_2/language-learning-assistant/lib64/
+Week_2/language-learning-assistant/parts/
+Week_2/language-learning-assistant/sdist/
+Week_2/language-learning-assistant/var/
+Week_2/language-learning-assistant/wheels/
+Week_2/language-learning-assistant/share/python-wheels/
+Week_2/language-learning-assistant/*.egg-info/
+Week_2/language-learning-assistant/.installed.cfg
+Week_2/language-learning-assistant/*.egg
+Week_2/language-learning-assistant/MANIFEST
+
+# PyInstaller
+Week_2/language-learning-assistant/*.manifest
+Week_2/language-learning-assistant/*.spec
+
+# Installer logs
+Week_2/language-learning-assistant/pip-log.txt
+Week_2/language-learning-assistant/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+Week_2/language-learning-assistant/htmlcov/
+Week_2/language-learning-assistant/.tox/
+Week_2/language-learning-assistant/.nox/
+Week_2/language-learning-assistant/.coverage
+Week_2/language-learning-assistant/.coverage.*
+Week_2/language-learning-assistant/.cache
+Week_2/language-learning-assistant/nosetests.xml
+Week_2/language-learning-assistant/coverage.xml
+Week_2/language-learning-assistant/*.cover
+Week_2/language-learning-assistant/*.py,cover
+Week_2/language-learning-assistant/.hypothesis/
+Week_2/language-learning-assistant/.pytest_cache/
+Week_2/language-learning-assistant/cover/
+
+# Translations
+Week_2/language-learning-assistant/*.mo
+Week_2/language-learning-assistant/*.pot
+
+# Django stuff:
+Week_2/language-learning-assistant/*.log
+Week_2/language-learning-assistant/local_settings.py
+Week_2/language-learning-assistant/db.sqlite3
+Week_2/language-learning-assistant/db.sqlite3-journal
+
+# Flask stuff:
+Week_2/language-learning-assistant/instance/
+Week_2/language-learning-assistant/.webassets-cache
+
+# Scrapy stuff:
+Week_2/language-learning-assistant/.scrapy
+
+# Sphinx documentation
+Week_2/language-learning-assistant/docs/_build/
+
+# PyBuilder
+Week_2/language-learning-assistant/.pybuilder/
+Week_2/language-learning-assistant/target/
+
+# Jupyter Notebook
+Week_2/language-learning-assistant/.ipynb_checkpoints
+
+# IPython
+Week_2/language-learning-assistant/profile_default/
+Week_2/language-learning-assistant/ipython_config.py
+
+# pdm
+Week_2/language-learning-assistant/.pdm.toml
+Week_2/language-learning-assistant/.pdm-python
+Week_2/language-learning-assistant/.pdm-build/
+
+# PEP 582
+Week_2/language-learning-assistant/__pypackages__/
+
+# Celery
+Week_2/language-learning-assistant/celerybeat-schedule
+Week_2/language-learning-assistant/celerybeat.pid
+
+# SageMath
+Week_2/language-learning-assistant/*.sage.py
+
+# Environments
+Week_2/language-learning-assistant/.env
+Week_2/language-learning-assistant/.venv
+Week_2/language-learning-assistant/env/
+Week_2/language-learning-assistant/venv/
+Week_2/language-learning-assistant/ENV/
+Week_2/language-learning-assistant/env.bak/
+Week_2/language-learning-assistant/venv.bak/
+
+# Spyder
+Week_2/language-learning-assistant/.spyderproject
+Week_2/language-learning-assistant/.spyproject
+
+# Rope
+Week_2/language-learning-assistant/.ropeproject
+
+# mkdocs
+Week_2/language-learning-assistant/site
+
+# mypy
+Week_2/language-learning-assistant/.mypy_cache/
+Week_2/language-learning-assistant/.dmypy.json
+Week_2/language-learning-assistant/dmypy.json
+
+# Pyre
+Week_2/language-learning-assistant/.pyre/
+
+# pytype
+Week_2/language-learning-assistant/.pytype/
+
+# Cython debug symbols
+Week_2/language-learning-assistant/cython_debug/
+
+# PyPI config
+Week_2/language-learning-assistant/.pypirc
+

@@ -1,0 +1,570 @@
+[
+  {
+    "english_word": "stadium",
+    "arabic_word": "ملعب",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ع",
+      "ب"
+    ],
+    "parts": [
+      "venue",
+      "sports",
+      "singular: ملعب",
+      "plural: ملاعب"
+    ]
+  },
+  {
+    "english_word": "theater",
+    "arabic_word": "مسرح",
+    "arabic_letters": [
+      "م",
+      "س",
+      "ر",
+      "ح"
+    ],
+    "parts": [
+      "venue",
+      "entertainment",
+      "singular: مسرح",
+      "plural: مسارح"
+    ]
+  },
+  {
+    "english_word": "museum",
+    "arabic_word": "متحف",
+    "arabic_letters": [
+      "م",
+      "ت",
+      "ح",
+      "ف"
+    ],
+    "parts": [
+      "venue",
+      "culture",
+      "singular: متحف",
+      "plural: متاحف"
+    ]
+  },
+  {
+    "english_word": "library",
+    "arabic_word": "مكتبة",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ت",
+      "ب",
+      "ة"
+    ],
+    "parts": [
+      "venue",
+      "education",
+      "singular: مكتبة",
+      "plural: مكتبات"
+    ]
+  },
+  {
+    "english_word": "park",
+    "arabic_word": "متنزه",
+    "arabic_letters": [
+      "م",
+      "ت",
+      "ن",
+      "ز",
+      "ه"
+    ],
+    "parts": [
+      "venue",
+      "recreation",
+      "singular: متنزه",
+      "plural: متنزهات"
+    ]
+  },
+  {
+    "english_word": "garden",
+    "arabic_word": "حديقة",
+    "arabic_letters": [
+      "ح",
+      "د",
+      "ي",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "venue",
+      "recreation",
+      "singular: حديقة",
+      "plural: حدائق"
+    ]
+  },
+  {
+    "english_word": "amphitheater",
+    "arabic_word": "مسرح مفتوح",
+    "arabic_letters": [
+      "م",
+      "س",
+      "ر",
+      "ح",
+      "م",
+      "ف",
+      "ت",
+      "و",
+      "ح"
+    ],
+    "parts": [
+      "venue",
+      "entertainment",
+      "singular: مسرح مفتوح",
+      "plural: مسارح مفتوحة"
+    ]
+  },
+  {
+    "english_word": "auditorium",
+    "arabic_word": "قاعة اجتماعات",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ع",
+      "ة",
+      "ا",
+      "ج",
+      "ت",
+      "م",
+      "ا",
+      "ع",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "venue",
+      "entertainment",
+      "singular: قاعة اجتماعات",
+      "plural: قاعات اجتماعات"
+    ]
+  },
+  {
+    "english_word": "arena",
+    "arabic_word": "ملاعب",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ا",
+      "ع",
+      "ب"
+    ],
+    "parts": [
+      "venue",
+      "sports",
+      "singular: ملاعب",
+      "plural: ملاعب"
+    ]
+  },
+  {
+    "english_word": "hall",
+    "arabic_word": "قاعة",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ع",
+      "ة"
+    ],
+    "parts": [
+      "venue",
+      "general",
+      "singular: قاعة",
+      "plural: قاعات"
+    ]
+  },
+  {
+    "english_word": "conference room",
+    "arabic_word": "قاعة مؤتمر",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ع",
+      "ة",
+      "م",
+      "ؤ",
+      "ت",
+      "م",
+      "ر"
+    ],
+    "parts": [
+      "venue",
+      "business",
+      "singular: قاعة مؤتمر",
+      "plural: قاعات مؤتمر"
+    ]
+  },
+  {
+    "english_word": "exhibition hall",
+    "arabic_word": "قاعة معارض",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ع",
+      "ة",
+      "م",
+      "ع",
+      "ا",
+      "ر",
+      "ض"
+    ],
+    "parts": [
+      "venue",
+      "business",
+      "singular: قاعة معارض",
+      "plural: قاعات معارض"
+    ]
+  },
+  {
+    "english_word": "ballroom",
+    "arabic_word": "قاعة رقص",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ع",
+      "ة",
+      "ر",
+      "ق",
+      "ص"
+    ],
+    "parts": [
+      "venue",
+      "entertainment",
+      "singular: قاعة رقص",
+      "plural: قاعات رقص"
+    ]
+  },
+  {
+    "english_word": "nightclub",
+    "arabic_word": "نادي ليلي",
+    "arabic_letters": [
+      "ن",
+      "ا",
+      "د",
+      "ي",
+      "ل",
+      "ي",
+      "ل",
+      "ي"
+    ],
+    "parts": [
+      "venue",
+      "entertainment",
+      "singular: نادي ليلي",
+      "plural: نوادي ليلية"
+    ]
+  },
+  {
+    "english_word": "cinema",
+    "arabic_word": "سينما",
+    "arabic_letters": [
+      "س",
+      "ي",
+      "ن",
+      "م",
+      "ا"
+    ],
+    "parts": [
+      "venue",
+      "entertainment",
+      "singular: سينما",
+      "plural: سينمات"
+    ]
+  },
+  {
+    "english_word": "concert hall",
+    "arabic_word": "قاعة حفلات",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ع",
+      "ة",
+      "ح",
+      "ف",
+      "ل",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "venue",
+      "entertainment",
+      "singular: قاعة حفلات",
+      "plural: قاعات حفلات"
+    ]
+  },
+  {
+    "english_word": "stadium seating",
+    "arabic_word": "مدرج ملعب",
+    "arabic_letters": [
+      "م",
+      "د",
+      "ر",
+      "ج",
+      "م",
+      "ل",
+      "ع",
+      "ب"
+    ],
+    "parts": [
+      "venue",
+      "sports",
+      "singular: مدرج ملعب",
+      "plural: مدرجات ملاعب"
+    ]
+  },
+  {
+    "english_word": "amphitheater seating",
+    "arabic_word": "مدرج مسرح مفتوح",
+    "arabic_letters": [
+      "م",
+      "د",
+      "ر",
+      "ج",
+      "م",
+      "س",
+      "ر",
+      "ح",
+      "م",
+      "ف",
+      "ت",
+      "و",
+      "ح"
+    ],
+    "parts": [
+      "venue",
+      "entertainment",
+      "singular: مدرج مسرح مفتوح",
+      "plural: مدرجات مسارح مفتوحة"
+    ]
+  },
+  {
+    "english_word": "auditorium seating",
+    "arabic_word": "مدرج قاعة اجتماعات",
+    "arabic_letters": [
+      "م",
+      "د",
+      "ر",
+      "ج",
+      "ق",
+      "ا",
+      "ع",
+      "ة",
+      "ا",
+      "ج",
+      "ت",
+      "م",
+      "ا",
+      "ع",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "venue",
+      "entertainment",
+      "singular: مدرج قاعة اجتماعات",
+      "plural: مدرجات قاعات اجتماعات"
+    ]
+  },
+  {
+    "english_word": "arena seating",
+    "arabic_word": "مدرج ملاعب",
+    "arabic_letters": [
+      "م",
+      "د",
+      "ر",
+      "ج",
+      "م",
+      "ل",
+      "ا",
+      "ع",
+      "ب"
+    ],
+    "parts": [
+      "venue",
+      "sports",
+      "singular: مدرج ملاعب",
+      "plural: مدرجات ملاعب"
+    ]
+  },
+  {
+    "english_word": "hallway",
+    "arabic_word": "ممر",
+    "arabic_letters": [
+      "م",
+      "م",
+      "ر"
+    ],
+    "parts": [
+      "venue",
+      "general",
+      "singular: ممر",
+      "plural: ممرات"
+    ]
+  },
+  {
+    "english_word": "lobby",
+    "arabic_word": "رواق",
+    "arabic_letters": [
+      "ر",
+      "و",
+      "ا",
+      "ق"
+    ],
+    "parts": [
+      "venue",
+      "general",
+      "singular: رواق",
+      "plural: رواقات"
+    ]
+  },
+  {
+    "english_word": "corridor",
+    "arabic_word": "ممرات",
+    "arabic_letters": [
+      "م",
+      "م",
+      "ر",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "venue",
+      "general",
+      "singular: ممرات",
+      "plural: ممرات"
+    ]
+  },
+  {
+    "english_word": "atrium",
+    "arabic_word": "أتريوم",
+    "arabic_letters": [
+      "أ",
+      "ت",
+      "ر",
+      "ي",
+      "و",
+      "م"
+    ],
+    "parts": [
+      "venue",
+      "general",
+      "singular: أتريوم",
+      "plural: أتريومات"
+    ]
+  },
+  {
+    "english_word": "plaza",
+    "arabic_word": "ساحة",
+    "arabic_letters": [
+      "س",
+      "ا",
+      "ح",
+      "ة"
+    ],
+    "parts": [
+      "venue",
+      "general",
+      "singular: ساحة",
+      "plural: ساحات"
+    ]
+  },
+  {
+    "english_word": "square",
+    "arabic_word": "ميدان",
+    "arabic_letters": [
+      "م",
+      "ي",
+      "د",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "venue",
+      "general",
+      "singular: ميدان",
+      "plural: ميادين"
+    ]
+  },
+  {
+    "english_word": "courtyard",
+    "arabic_word": "فناء",
+    "arabic_letters": [
+      "ف",
+      "ن",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "venue",
+      "general",
+      "singular: فناء",
+      "plural: فنيان"
+    ]
+  },
+  {
+    "english_word": "gymnasium",
+    "arabic_word": "قاعة رياضية",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ع",
+      "ة",
+      "ر",
+      "ي",
+      "ا",
+      "ض",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "venue",
+      "sports",
+      "singular: قاعة رياضية",
+      "plural: قاعات رياضية"
+    ]
+  },
+  {
+    "english_word": "arena complex",
+    "arabic_word": "مجمع ملاعب",
+    "arabic_letters": [
+      "م",
+      "ج",
+      "م",
+      "ع",
+      "م",
+      "ل",
+      "ا",
+      "ع",
+      "ب"
+    ],
+    "parts": [
+      "venue",
+      "sports",
+      "singular: مجمع ملاعب",
+      "plural: مجامع ملاعب"
+    ]
+  },
+  {
+    "english_word": "stadium complex",
+    "arabic_word": "مجمع ملعب",
+    "arabic_letters": [
+      "م",
+      "ج",
+      "م",
+      "ع",
+      "م",
+      "ل",
+      "ع",
+      "ب"
+    ],
+    "parts": [
+      "venue",
+      "sports",
+      "singular: مجمع ملعب",
+      "plural: مجامع ملاعب"
+    ]
+  }
+]

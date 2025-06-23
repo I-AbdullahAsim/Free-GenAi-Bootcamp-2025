@@ -12,7 +12,11 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"gorm.io/gorm"
+	"errors"
+	"fmt"
 )
+
+var ErrGroupNotFound = errors.New("group not found")
 
 // Remove local GroupHandler definition
 
@@ -25,6 +29,7 @@ type MockGroupService struct {
 var _ service.GroupServiceInterface = (*MockGroupService)(nil)
 
 func (m *MockGroupService) ListGroups() ([]models.Group, error) {
+	fmt.Println("Mock ListGroups called")
 	args := m.Called()
 	return args.Get(0).([]models.Group), args.Error(1)
 }
@@ -79,27 +84,12 @@ func TestGetGroups(t *testing.T) {
 	mockService := new(MockGroupService)
 	router := setupGroupTestRouter(mockService)
 
-	// Test case 1: Successful retrieval of groups
 	t.Run("Success", func(t *testing.T) {
-		mockService.ExpectedCalls = nil // Reset mock
+		mockService.ExpectedCalls = nil // Reset mock for isolation
 		expectedGroups := []models.Group{
-			{
-				ID:    1,
-				Name:  "Basic Words",
-				Words: []models.Word{
-					{ID: 1},
-					{ID: 2},
-				},
-			},
-			{
-				ID:    2,
-				Name:  "Animals",
-				Words: []models.Word{
-					{ID: 3},
-				},
-			},
+			{ID: 1, Name: "Group 1"},
+			{ID: 2, Name: "Group 2"},
 		}
-
 		mockService.On("ListGroups").Return(expectedGroups, nil)
 
 		w := httptest.NewRecorder()
@@ -107,15 +97,17 @@ func TestGetGroups(t *testing.T) {
 		router.ServeHTTP(w, req)
 
 		assert.Equal(t, http.StatusOK, w.Code)
-
-		var response []models.Group
+		type groupsResponse struct {
+			Success bool           `json:"success"`
+			Message string         `json:"message"`
+			Data    []models.Group `json:"data"`
+		}
+		var response groupsResponse
 		err := json.Unmarshal(w.Body.Bytes(), &response)
 		assert.NoError(t, err)
-		assert.Len(t, response, 2)
-		assert.Equal(t, "Basic Words", response[0].Name)
-		assert.Equal(t, "Animals", response[1].Name)
-		assert.Equal(t, 2, len(response[0].Words))
-		assert.Equal(t, 1, len(response[1].Words))
+		assert.Len(t, response.Data, 2)
+		assert.Equal(t, "Group 1", response.Data[0].Name)
+		assert.Equal(t, "Group 2", response.Data[1].Name)
 	})
 
 	// Test case 2: Empty groups list
@@ -129,10 +121,15 @@ func TestGetGroups(t *testing.T) {
 
 		assert.Equal(t, http.StatusOK, w.Code)
 
-		var response []models.Group
+		type groupsResponse struct {
+			Success bool           `json:"success"`
+			Message string         `json:"message"`
+			Data    []models.Group `json:"data"`
+		}
+		var response groupsResponse
 		err := json.Unmarshal(w.Body.Bytes(), &response)
 		assert.NoError(t, err)
-		assert.Empty(t, response)
+		assert.Empty(t, response.Data)
 	})
 }
 
@@ -159,11 +156,16 @@ func TestGetGroup(t *testing.T) {
 
 		assert.Equal(t, http.StatusOK, w.Code)
 
-		var response models.Group
+		type groupResponse struct {
+			Success bool         `json:"success"`
+			Message string       `json:"message"`
+			Data    models.Group `json:"data"`
+		}
+		var response groupResponse
 		err := json.Unmarshal(w.Body.Bytes(), &response)
 		assert.NoError(t, err)
-		assert.Equal(t, "Basic Words", response.Name)
-		assert.Equal(t, 2, len(response.Words))
+		assert.Equal(t, "Basic Words", response.Data.Name)
+		assert.Equal(t, 2, len(response.Data.Words))
 	})
 
 	// Test case 2: Group not found
@@ -174,7 +176,16 @@ func TestGetGroup(t *testing.T) {
 		req, _ := http.NewRequest("GET", "/api/groups/999", nil)
 		router.ServeHTTP(w, req)
 
-		assert.Equal(t, http.StatusInternalServerError, w.Code)
+		assert.Equal(t, http.StatusNotFound, w.Code)
+		type errorResponse struct {
+			Success bool   `json:"success"`
+			Message string `json:"message"`
+		}
+		var response errorResponse
+		err := json.Unmarshal(w.Body.Bytes(), &response)
+		assert.NoError(t, err)
+		assert.False(t, response.Success)
+		assert.Equal(t, "Group not found", response.Message)
 	})
 }
 
@@ -205,12 +216,17 @@ func TestGetGroupWords(t *testing.T) {
 
 		assert.Equal(t, http.StatusOK, w.Code)
 
-		var response []models.Word
+		type wordsResponse struct {
+			Success bool          `json:"success"`
+			Message string        `json:"message"`
+			Data    []models.Word `json:"data"`
+		}
+		var response wordsResponse
 		err := json.Unmarshal(w.Body.Bytes(), &response)
 		assert.NoError(t, err)
-		assert.Len(t, response, 2)
-		assert.Equal(t, "مرحبا", response[0].ArabicWord)
-		assert.Equal(t, "شكرا", response[1].ArabicWord)
+		assert.Len(t, response.Data, 2)
+		assert.Equal(t, "مرحبا", response.Data[0].ArabicWord)
+		assert.Equal(t, "شكرا", response.Data[1].ArabicWord)
 	})
 
 	// Test case 2: Empty words list
@@ -223,10 +239,15 @@ func TestGetGroupWords(t *testing.T) {
 
 		assert.Equal(t, http.StatusOK, w.Code)
 
-		var response []models.Word
+		type wordsResponse struct {
+			Success bool          `json:"success"`
+			Message string        `json:"message"`
+			Data    []models.Word `json:"data"`
+		}
+		var response wordsResponse
 		err := json.Unmarshal(w.Body.Bytes(), &response)
 		assert.NoError(t, err)
-		assert.Empty(t, response)
+		assert.Empty(t, response.Data)
 	})
 }
 
@@ -235,9 +256,10 @@ func TestGetGroupStudySessions(t *testing.T) {
 	router := setupGroupTestRouter(mockService)
 
 	t.Run("Success", func(t *testing.T) {
+		mockService.ExpectedCalls = nil // Reset mock for isolation
 		expectedSessions := []service.GroupStudySessionResponse{
-			{ID: 1, GroupID: 1, ActivityID: 1, ActivityName: "Flashcards"},
-			{ID: 2, GroupID: 1, ActivityID: 2, ActivityName: "Quiz"},
+			{ID: 1, ActivityName: "Activity 1"},
+			{ID: 2, ActivityName: "Activity 2"},
 		}
 		mockService.On("GetGroupStudySessionsWithActivityName", uint(1)).Return(expectedSessions, nil)
 
@@ -246,16 +268,21 @@ func TestGetGroupStudySessions(t *testing.T) {
 		router.ServeHTTP(w, req)
 
 		assert.Equal(t, http.StatusOK, w.Code)
-
-		var response []service.GroupStudySessionResponse
+		type sessionsResponse struct {
+			Success bool                                 `json:"success"`
+			Message string                               `json:"message"`
+			Data    []service.GroupStudySessionResponse   `json:"data"`
+		}
+		var response sessionsResponse
 		err := json.Unmarshal(w.Body.Bytes(), &response)
 		assert.NoError(t, err)
-		assert.Len(t, response, 2)
-		assert.Equal(t, "Flashcards", response[0].ActivityName)
-		assert.Equal(t, "Quiz", response[1].ActivityName)
+		assert.Len(t, response.Data, 2)
+		assert.Equal(t, "Activity 1", response.Data[0].ActivityName)
+		assert.Equal(t, "Activity 2", response.Data[1].ActivityName)
 	})
 
 	t.Run("Empty List", func(t *testing.T) {
+		mockService.ExpectedCalls = nil // Reset mock for isolation
 		mockService.On("GetGroupStudySessionsWithActivityName", uint(2)).Return([]service.GroupStudySessionResponse{}, nil)
 
 		w := httptest.NewRecorder()
@@ -263,10 +290,76 @@ func TestGetGroupStudySessions(t *testing.T) {
 		router.ServeHTTP(w, req)
 
 		assert.Equal(t, http.StatusOK, w.Code)
-
-		var response []service.GroupStudySessionResponse
+		type sessionsResponse struct {
+			Success bool                                 `json:"success"`
+			Message string                               `json:"message"`
+			Data    []service.GroupStudySessionResponse   `json:"data"`
+		}
+		var response sessionsResponse
 		err := json.Unmarshal(w.Body.Bytes(), &response)
 		assert.NoError(t, err)
-		assert.Empty(t, response)
+		assert.Empty(t, response.Data)
+	})
+}
+
+func TestGroupsAPI_JSONFormatAndEdgeCases(t *testing.T) {
+	mockService := new(MockGroupService)
+	gin.SetMode(gin.TestMode)
+	router := gin.New()
+	handler := NewGroupHandler(mockService)
+	router.GET("/api/groups", handler.GetGroups)
+	router.GET("/api/groups/:id", handler.GetGroup)
+
+	t.Run("GET /api/groups returns JSON with required fields", func(t *testing.T) {
+		mockService.On("ListGroups").Return([]models.Group{}, nil)
+		w := httptest.NewRecorder()
+		req, _ := http.NewRequest("GET", "/api/groups", nil)
+		router.ServeHTTP(w, req)
+		assert.Equal(t, http.StatusOK, w.Code)
+		var resp map[string]interface{}
+		err := json.Unmarshal(w.Body.Bytes(), &resp)
+		assert.NoError(t, err)
+		assert.Contains(t, resp, "success")
+		assert.Contains(t, resp, "message")
+		assert.Contains(t, resp, "data")
+	})
+
+	t.Run("GET /api/groups/:id invalid returns 404 with JSON error", func(t *testing.T) {
+		mockService.On("GetGroup", uint(999)).Return(nil, ErrGroupNotFound)
+		w := httptest.NewRecorder()
+		req, _ := http.NewRequest("GET", "/api/groups/999", nil)
+		router.ServeHTTP(w, req)
+		assert.Equal(t, http.StatusNotFound, w.Code)
+		var resp map[string]interface{}
+		err := json.Unmarshal(w.Body.Bytes(), &resp)
+		assert.NoError(t, err)
+		assert.Contains(t, resp, "success")
+		assert.Contains(t, resp, "message")
+	})
+
+	t.Run("GET /api/groups?page=9999 returns empty list", func(t *testing.T) {
+		mockService.On("ListGroups").Return([]models.Group{}, nil)
+		w := httptest.NewRecorder()
+		req, _ := http.NewRequest("GET", "/api/groups?page=9999", nil)
+		router.ServeHTTP(w, req)
+		assert.Equal(t, http.StatusOK, w.Code)
+		var resp map[string]interface{}
+		err := json.Unmarshal(w.Body.Bytes(), &resp)
+		assert.NoError(t, err)
+		assert.Contains(t, resp, "data")
+		items := resp["data"].([]interface{})
+		assert.Empty(t, items)
+	})
+
+	t.Run("Malformed request returns 400 with JSON error", func(t *testing.T) {
+		w := httptest.NewRecorder()
+		req, _ := http.NewRequest("GET", "/api/groups/abc", nil)
+		router.ServeHTTP(w, req)
+		assert.Equal(t, http.StatusBadRequest, w.Code)
+		var resp map[string]interface{}
+		err := json.Unmarshal(w.Body.Bytes(), &resp)
+		assert.NoError(t, err)
+		assert.Contains(t, resp, "success")
+		assert.Contains(t, resp, "message")
 	})
 } 

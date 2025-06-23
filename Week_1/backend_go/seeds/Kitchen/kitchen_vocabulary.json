@@ -1,0 +1,514 @@
+[
+  {
+    "english_word": "kitchen",
+    "arabic_word": "مطبخ",
+    "arabic_letters": [
+      "م",
+      "ط",
+      "ب",
+      "خ"
+    ],
+    "parts": [
+      "room",
+      "house",
+      "singular: مطبخ",
+      "plural: مطابخ"
+    ]
+  },
+  {
+    "english_word": "table",
+    "arabic_word": "مائدة",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ئ",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "furniture",
+      "kitchen",
+      "singular: مائدة",
+      "plural: مائدات"
+    ]
+  },
+  {
+    "english_word": "chair",
+    "arabic_word": "كرسي",
+    "arabic_letters": [
+      "ك",
+      "ر",
+      "س",
+      "ي"
+    ],
+    "parts": [
+      "furniture",
+      "kitchen",
+      "singular: كرسي",
+      "plural: كراسي"
+    ]
+  },
+  {
+    "english_word": "cup",
+    "arabic_word": "كأس",
+    "arabic_letters": [
+      "ك",
+      "أ",
+      "س"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: كأس",
+      "plural: أكواس"
+    ]
+  },
+  {
+    "english_word": "plate",
+    "arabic_word": "صحن",
+    "arabic_letters": [
+      "ص",
+      "ح",
+      "ن"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: صحن",
+      "plural: صحون"
+    ]
+  },
+  {
+    "english_word": "spoon",
+    "arabic_word": "ملعقة",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ع",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: ملعقة",
+      "plural: ملعقات"
+    ]
+  },
+  {
+    "english_word": "fork",
+    "arabic_word": "شوك",
+    "arabic_letters": [
+      "ش",
+      "و",
+      "ك"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: شوك",
+      "plural: شوكات"
+    ]
+  },
+  {
+    "english_word": "knife",
+    "arabic_word": "سكين",
+    "arabic_letters": [
+      "س",
+      "ك",
+      "ي",
+      "ن"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: سكين",
+      "plural: سكاكين"
+    ]
+  },
+  {
+    "english_word": "oven",
+    "arabic_word": "فرن",
+    "arabic_letters": [
+      "ف",
+      "ر",
+      "ن"
+    ],
+    "parts": [
+      "appliance",
+      "kitchen",
+      "singular: فرن",
+      "plural: أفران"
+    ]
+  },
+  {
+    "english_word": "stove",
+    "arabic_word": "موقد",
+    "arabic_letters": [
+      "م",
+      "و",
+      "ق",
+      "د"
+    ],
+    "parts": [
+      "appliance",
+      "kitchen",
+      "singular: موقد",
+      "plural: مواقد"
+    ]
+  },
+  {
+    "english_word": "refrigerator",
+    "arabic_word": "ثلاجة",
+    "arabic_letters": [
+      "ث",
+      "ل",
+      "ا",
+      "ج",
+      "ة"
+    ],
+    "parts": [
+      "appliance",
+      "kitchen",
+      "singular: ثلاجة",
+      "plural: ثلاجات"
+    ]
+  },
+  {
+    "english_word": "sink",
+    "arabic_word": "مغسلة",
+    "arabic_letters": [
+      "م",
+      "غ",
+      "س",
+      "ل",
+      "ة"
+    ],
+    "parts": [
+      "fixture",
+      "kitchen",
+      "singular: مغسلة",
+      "plural: مغاسل"
+    ]
+  },
+  {
+    "english_word": "faucet",
+    "arabic_word": "ماء",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "fixture",
+      "kitchen",
+      "singular: ماء",
+      "plural: مياه"
+    ]
+  },
+  {
+    "english_word": "dishwasher",
+    "arabic_word": "غسالة أطباق",
+    "arabic_letters": [
+      "غ",
+      "س",
+      "ا",
+      "ل",
+      "ة",
+      "أ",
+      "ط",
+      "ب",
+      "ا",
+      "ق"
+    ],
+    "parts": [
+      "appliance",
+      "kitchen",
+      "singular: غسالة أطباق",
+      "plural: غسالات أطباق"
+    ]
+  },
+  {
+    "english_word": "microwave",
+    "arabic_word": "ميكروويف",
+    "arabic_letters": [
+      "م",
+      "ي",
+      "ك",
+      "ر",
+      "و",
+      "و",
+      "ي",
+      "ف"
+    ],
+    "parts": [
+      "appliance",
+      "kitchen",
+      "singular: ميكروويف",
+      "plural: ميكروويفات"
+    ]
+  },
+  {
+    "english_word": "toaster",
+    "arabic_word": "مُحمص",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "م",
+      "ص"
+    ],
+    "parts": [
+      "appliance",
+      "kitchen",
+      "singular: محمص",
+      "plural: محمصات"
+    ]
+  },
+  {
+    "english_word": "blender",
+    "arabic_word": "مُخضّر",
+    "arabic_letters": [
+      "م",
+      "خ",
+      "ض",
+      "ر"
+    ],
+    "parts": [
+      "appliance",
+      "kitchen",
+      "singular: مخضّر",
+      "plural: مخضّرات"
+    ]
+  },
+  {
+    "english_word": "coffee maker",
+    "arabic_word": "مُصنع قهوة",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ن",
+      "ع",
+      "ق",
+      "ه",
+      "و",
+      "ة"
+    ],
+    "parts": [
+      "appliance",
+      "kitchen",
+      "singular: مصنع قهوة",
+      "plural: مصانع قهوة"
+    ]
+  },
+  {
+    "english_word": "kettle",
+    "arabic_word": "ماء ساخن",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ء",
+      "س",
+      "ا",
+      "خ",
+      "ن"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: ماء ساخن",
+      "plural: مياه ساخنة"
+    ]
+  },
+  {
+    "english_word": "can opener",
+    "arabic_word": "مُفتح علب",
+    "arabic_letters": [
+      "م",
+      "ف",
+      "ت",
+      "ح",
+      "ع",
+      "ل",
+      "ب"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: مفتح علب",
+      "plural: مفاتح علب"
+    ]
+  },
+  {
+    "english_word": "peeler",
+    "arabic_word": "مُقشر",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ش",
+      "ر"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: مقشر",
+      "plural: مقاشر"
+    ]
+  },
+  {
+    "english_word": "grater",
+    "arabic_word": "مُجّر",
+    "arabic_letters": [
+      "م",
+      "ج",
+      "ر"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: مجّر",
+      "plural: مجّرات"
+    ]
+  },
+  {
+    "english_word": "colander",
+    "arabic_word": "مصفاة",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ف",
+      "ا",
+      "ة"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: مصفاة",
+      "plural: مصفايات"
+    ]
+  },
+  {
+    "english_word": "measuring cups",
+    "arabic_word": "كؤوس قياس",
+    "arabic_letters": [
+      "ك",
+      "ؤ",
+      "و",
+      "س",
+      "ق",
+      "ي",
+      "ا",
+      "س"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: كأس قياس",
+      "plural: كؤوس قياس"
+    ]
+  },
+  {
+    "english_word": "spatula",
+    "arabic_word": "مِزْقاة",
+    "arabic_letters": [
+      "م",
+      "ز",
+      "ق",
+      "ا",
+      "ة"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: مزقاة",
+      "plural: مزقايات"
+    ]
+  },
+  {
+    "english_word": "whisk",
+    "arabic_word": "مِخْوَة",
+    "arabic_letters": [
+      "م",
+      "خ",
+      "و",
+      "ة"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: مخوة",
+      "plural: مخوات"
+    ]
+  },
+  {
+    "english_word": "mixer",
+    "arabic_word": "مِخْلِط",
+    "arabic_letters": [
+      "م",
+      "خ",
+      "ل",
+      "ط"
+    ],
+    "parts": [
+      "appliance",
+      "kitchen",
+      "singular: مخلط",
+      "plural: مخلطات"
+    ]
+  },
+  {
+    "english_word": "bowl",
+    "arabic_word": "وعاء",
+    "arabic_letters": [
+      "و",
+      "ع",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: وعاء",
+      "plural: أوعية"
+    ]
+  },
+  {
+    "english_word": "cutting board",
+    "arabic_word": "لوح تقطيع",
+    "arabic_letters": [
+      "ل",
+      "و",
+      "ح",
+      "ت",
+      "ق",
+      "ط",
+      "ي",
+      "ع"
+    ],
+    "parts": [
+      "utensil",
+      "kitchen",
+      "singular: لوح تقطيع",
+      "plural: لوح تقطيع"
+    ]
+  },
+  {
+    "english_word": "trash can",
+    "arabic_word": "سلة قمامة",
+    "arabic_letters": [
+      "س",
+      "ل",
+      "ة",
+      "ق",
+      "م",
+      "ا",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "fixture",
+      "kitchen",
+      "singular: سلة قمامة",
+      "plural: سلالي قمامة"
+    ]
+  }
+]

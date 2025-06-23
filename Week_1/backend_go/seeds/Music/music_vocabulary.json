@@ -1,0 +1,506 @@
+[
+  {
+    "english_word": "music",
+    "arabic_word": "موسيقى",
+    "arabic_letters": [
+      "م",
+      "و",
+      "س",
+      "ي",
+      "ق",
+      "ى"
+    ],
+    "parts": [
+      "art",
+      "entertainment",
+      "singular: موسيقى",
+      "plural: موسيقى"
+    ]
+  },
+  {
+    "english_word": "song",
+    "arabic_word": "أغنية",
+    "arabic_letters": [
+      "أ",
+      "غ",
+      "ن",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "composition",
+      "audio",
+      "singular: أغنية",
+      "plural: أغاني"
+    ]
+  },
+  {
+    "english_word": "instrument",
+    "arabic_word": "آلة موسيقية",
+    "arabic_letters": [
+      "آ",
+      "ل",
+      "ة",
+      "م",
+      "و",
+      "س",
+      "ي",
+      "ق",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "music",
+      "singular: آلة موسيقية",
+      "plural: آلات موسيقية"
+    ]
+  },
+  {
+    "english_word": "guitar",
+    "arabic_word": "جيتار",
+    "arabic_letters": [
+      "ج",
+      "ي",
+      "ت",
+      "ا",
+      "ر"
+    ],
+    "parts": [
+      "stringed instrument",
+      "music",
+      "singular: جيتار",
+      "plural: جيتارات"
+    ]
+  },
+  {
+    "english_word": "piano",
+    "arabic_word": "بيانو",
+    "arabic_letters": [
+      "ب",
+      "ي",
+      "ا",
+      "ن",
+      "و"
+    ],
+    "parts": [
+      "keyboard instrument",
+      "music",
+      "singular: بيانو",
+      "plural: بيانو"
+    ]
+  },
+  {
+    "english_word": "drum",
+    "arabic_word": "طبلة",
+    "arabic_letters": [
+      "ط",
+      "ب",
+      "ل",
+      "ة"
+    ],
+    "parts": [
+      "percussion instrument",
+      "music",
+      "singular: طبلة",
+      "plural: طبول"
+    ]
+  },
+  {
+    "english_word": "violin",
+    "arabic_word": "كمان",
+    "arabic_letters": [
+      "ك",
+      "م",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "stringed instrument",
+      "music",
+      "singular: كمان",
+      "plural: كمانات"
+    ]
+  },
+  {
+    "english_word": "singer",
+    "arabic_word": "مغني",
+    "arabic_letters": [
+      "م",
+      "غ",
+      "ن",
+      "ي"
+    ],
+    "parts": [
+      "performer",
+      "music",
+      "singular: مغني",
+      "plural: مغنيون"
+    ]
+  },
+  {
+    "english_word": "band",
+    "arabic_word": "فرقة",
+    "arabic_letters": [
+      "ف",
+      "ر",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "group",
+      "music",
+      "singular: فرقة",
+      "plural: فرق"
+    ]
+  },
+  {
+    "english_word": "orchestra",
+    "arabic_word": "أوركسترا",
+    "arabic_letters": [
+      "أ",
+      "و",
+      "ر",
+      "ك",
+      "س",
+      "ت",
+      "ر",
+      "ا"
+    ],
+    "parts": [
+      "ensemble",
+      "music",
+      "singular: أوركسترا",
+      "plural: أوركسترات"
+    ]
+  },
+  {
+    "english_word": "concert",
+    "arabic_word": "كونسرت",
+    "arabic_letters": [
+      "ك",
+      "و",
+      "ن",
+      "س",
+      "ر",
+      "ت"
+    ],
+    "parts": [
+      "performance",
+      "music",
+      "singular: كونسرت",
+      "plural: كونسرتات"
+    ]
+  },
+  {
+    "english_word": "album",
+    "arabic_word": "ألبوم",
+    "arabic_letters": [
+      "أ",
+      "ل",
+      "ب",
+      "و",
+      "م"
+    ],
+    "parts": [
+      "collection",
+      "music",
+      "singular: ألبوم",
+      "plural: ألبومات"
+    ]
+  },
+  {
+    "english_word": "track",
+    "arabic_word": "مقطع",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ط",
+      "ع"
+    ],
+    "parts": [
+      "song",
+      "music",
+      "singular: مقطع",
+      "plural: مقاطع"
+    ]
+  },
+  {
+    "english_word": "lyrics",
+    "arabic_word": "كلمات",
+    "arabic_letters": [
+      "ك",
+      "ل",
+      "م",
+      "ا",
+      "ت"
+    ],
+    "parts": [
+      "words",
+      "song",
+      "singular: كلمات",
+      "plural: كلمات"
+    ]
+  },
+  {
+    "english_word": "melody",
+    "arabic_word": "لحن",
+    "arabic_letters": [
+      "ل",
+      "ح",
+      "ن"
+    ],
+    "parts": [
+      "tune",
+      "music",
+      "singular: لحن",
+      "plural: ألحان"
+    ]
+  },
+  {
+    "english_word": "rhythm",
+    "arabic_word": "إيقاع",
+    "arabic_letters": [
+      "إ",
+      "ي",
+      "ق",
+      "ا",
+      "ع"
+    ],
+    "parts": [
+      "beat",
+      "music",
+      "singular: إيقاع",
+      "plural: إيقاعات"
+    ]
+  },
+  {
+    "english_word": "harmony",
+    "arabic_word": "تآلف",
+    "arabic_letters": [
+      "ت",
+      "آ",
+      "ل",
+      "ف"
+    ],
+    "parts": [
+      "chord",
+      "music",
+      "singular: تآلف",
+      "plural: تآلفات"
+    ]
+  },
+  {
+    "english_word": "microphone",
+    "arabic_word": "ميكروفون",
+    "arabic_letters": [
+      "م",
+      "ي",
+      "ك",
+      "ر",
+      "و",
+      "ف",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "device",
+      "music",
+      "singular: ميكروفون",
+      "plural: ميكروفونات"
+    ]
+  },
+  {
+    "english_word": "headphones",
+    "arabic_word": "سماعات رأس",
+    "arabic_letters": [
+      "س",
+      "م",
+      "ا",
+      "ع",
+      "ا",
+      "ت",
+      "ر",
+      "أ",
+      "س"
+    ],
+    "parts": [
+      "device",
+      "music",
+      "singular: سماعات رأس",
+      "plural: سماعات رأس"
+    ]
+  },
+  {
+    "english_word": "speaker",
+    "arabic_word": "مكبر صوت",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ب",
+      "ر",
+      "ص",
+      "و",
+      "ت"
+    ],
+    "parts": [
+      "device",
+      "music",
+      "singular: مكبر صوت",
+      "plural: مكبرات صوت"
+    ]
+  },
+  {
+    "english_word": "recording",
+    "arabic_word": "تسجيل",
+    "arabic_letters": [
+      "ت",
+      "س",
+      "ج",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "audio",
+      "music",
+      "singular: تسجيل",
+      "plural: تسجيلات"
+    ]
+  },
+  {
+    "english_word": "studio",
+    "arabic_word": "استوديو",
+    "arabic_letters": [
+      "ا",
+      "س",
+      "ت",
+      "و",
+      "د",
+      "ي",
+      "و"
+    ],
+    "parts": [
+      "room",
+      "music",
+      "singular: استوديو",
+      "plural: استوديوهات"
+    ]
+  },
+  {
+    "english_word": "DJ",
+    "arabic_word": "دي جيه",
+    "arabic_letters": [
+      "د",
+      "ي",
+      "ج",
+      "ي",
+      "ه"
+    ],
+    "parts": [
+      "performer",
+      "music",
+      "singular: دي جيه",
+      "plural: دي جييهات"
+    ]
+  },
+  {
+    "english_word": "mix",
+    "arabic_word": "مكس",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "س"
+    ],
+    "parts": [
+      "blend",
+      "music",
+      "singular: مكس",
+      "plural: مكسات"
+    ]
+  },
+  {
+    "english_word": "genre",
+    "arabic_word": "نوع موسيقي",
+    "arabic_letters": [
+      "ن",
+      "و",
+      "ع",
+      "م",
+      "و",
+      "س",
+      "ي",
+      "ق",
+      "ي"
+    ],
+    "parts": [
+      "style",
+      "music",
+      "singular: نوع موسيقي",
+      "plural: أنواع موسيقية"
+    ]
+  },
+  {
+    "english_word": "classical",
+    "arabic_word": "كلاسيكي",
+    "arabic_letters": [
+      "ك",
+      "ل",
+      "ا",
+      "س",
+      "ي",
+      "ك",
+      "ي"
+    ],
+    "parts": [
+      "genre",
+      "music",
+      "singular: كلاسيكي",
+      "plural: كلاسيكيون"
+    ]
+  },
+  {
+    "english_word": "rock",
+    "arabic_word": "روك",
+    "arabic_letters": [
+      "ر",
+      "و",
+      "ك"
+    ],
+    "parts": [
+      "genre",
+      "music",
+      "singular: روك",
+      "plural: روك"
+    ]
+  },
+  {
+    "english_word": "pop",
+    "arabic_word": "بوب",
+    "arabic_letters": [
+      "ب",
+      "و",
+      "ب"
+    ],
+    "parts": [
+      "genre",
+      "music",
+      "singular: بوب",
+      "plural: بوب"
+    ]
+  },
+  {
+    "english_word": "jazz",
+    "arabic_word": "جاز",
+    "arabic_letters": [
+      "ج",
+      "ا",
+      "ز"
+    ],
+    "parts": [
+      "genre",
+      "music",
+      "singular: جاز",
+      "plural: جاز"
+    ]
+  }
+]

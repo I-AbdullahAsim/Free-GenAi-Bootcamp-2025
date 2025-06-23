@@ -1,0 +1,596 @@
+[
+  {
+    "english_word": "court",
+    "arabic_word": "محكمة",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ك",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "judicial institution",
+      "judiciary",
+      "singular: محكمة",
+      "plural: محاكم"
+    ]
+  },
+  {
+    "english_word": "judge",
+    "arabic_word": "قاضي",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ض",
+      "ي"
+    ],
+    "parts": [
+      "official",
+      "judiciary",
+      "singular: قاضي",
+      "plural: قاضون"
+    ]
+  },
+  {
+    "english_word": "lawyer",
+    "arabic_word": "محامي",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ا",
+      "م",
+      "ي"
+    ],
+    "parts": [
+      "professional",
+      "judiciary",
+      "singular: محامي",
+      "plural: محامون"
+    ]
+  },
+  {
+    "english_word": "trial",
+    "arabic_word": "محاكمة",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ا",
+      "ك",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "legal process",
+      "judiciary",
+      "singular: محاكمة",
+      "plural: محاكمات"
+    ]
+  },
+  {
+    "english_word": "verdict",
+    "arabic_word": "حكم",
+    "arabic_letters": [
+      "ح",
+      "ك",
+      "م"
+    ],
+    "parts": [
+      "judicial decision",
+      "judiciary",
+      "singular: حكم",
+      "plural: أحكام"
+    ]
+  },
+  {
+    "english_word": "sentence",
+    "arabic_word": "عقوبة",
+    "arabic_letters": [
+      "ع",
+      "ق",
+      "و",
+      "ب",
+      "ة"
+    ],
+    "parts": [
+      "punishment",
+      "judiciary",
+      "singular: عقوبة",
+      "plural: عقوبات"
+    ]
+  },
+  {
+    "english_word": "appeal",
+    "arabic_word": "استئناف",
+    "arabic_letters": [
+      "ا",
+      "س",
+      "ت",
+      "ئ",
+      "ن",
+      "ا",
+      "ف"
+    ],
+    "parts": [
+      "legal recourse",
+      "judiciary",
+      "singular: استئناف",
+      "plural: استئنافات"
+    ]
+  },
+  {
+    "english_word": "plaintiff",
+    "arabic_word": "مدعي",
+    "arabic_letters": [
+      "م",
+      "د",
+      "ع",
+      "ي"
+    ],
+    "parts": [
+      "party",
+      "judiciary",
+      "singular: مدعي",
+      "plural: مدعون"
+    ]
+  },
+  {
+    "english_word": "defendant",
+    "arabic_word": "مدعى عليه",
+    "arabic_letters": [
+      "م",
+      "د",
+      "ع",
+      "ى",
+      "ع",
+      "ل",
+      "ي",
+      "ه"
+    ],
+    "parts": [
+      "party",
+      "judiciary",
+      "singular: مدعى عليه",
+      "plural: مدعى عليهم"
+    ]
+  },
+  {
+    "english_word": "witness",
+    "arabic_word": "شاهد",
+    "arabic_letters": [
+      "ش",
+      "ا",
+      "ه",
+      "د"
+    ],
+    "parts": [
+      "person",
+      "judiciary",
+      "singular: شاهد",
+      "plural: شهداء"
+    ]
+  },
+  {
+    "english_word": "evidence",
+    "arabic_word": "دليل",
+    "arabic_letters": [
+      "د",
+      "ل",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "proof",
+      "judiciary",
+      "singular: دليل",
+      "plural: أدلة"
+    ]
+  },
+  {
+    "english_word": "testimony",
+    "arabic_word": "شهادة",
+    "arabic_letters": [
+      "ش",
+      "ه",
+      "ا",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "statement",
+      "judiciary",
+      "singular: شهادة",
+      "plural: شهادات"
+    ]
+  },
+  {
+    "english_word": "jury",
+    "arabic_word": "لجنة المحلفين",
+    "arabic_letters": [
+      "ل",
+      "ج",
+      "ن",
+      "ة",
+      "ا",
+      "ل",
+      "م",
+      "ح",
+      "ل",
+      "ف",
+      "ي",
+      "ن"
+    ],
+    "parts": [
+      "group",
+      "judiciary",
+      "singular: لجنة المحلفين",
+      "plural: لجان المحلفين"
+    ]
+  },
+  {
+    "english_word": "bailiff",
+    "arabic_word": "مأمور المحكمة",
+    "arabic_letters": [
+      "م",
+      "أ",
+      "م",
+      "و",
+      "ر",
+      "ا",
+      "ل",
+      "م",
+      "ح",
+      "ك",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "official",
+      "judiciary",
+      "singular: مأمور المحكمة",
+      "plural: مأمورو المحكمة"
+    ]
+  },
+  {
+    "english_word": "clerk",
+    "arabic_word": "كاتب المحكمة",
+    "arabic_letters": [
+      "ك",
+      "ا",
+      "ت",
+      "ب",
+      "ا",
+      "ل",
+      "م",
+      "ح",
+      "ك",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "official",
+      "judiciary",
+      "singular: كاتب المحكمة",
+      "plural: كتبي المحكمة"
+    ]
+  },
+  {
+    "english_word": "lawsuit",
+    "arabic_word": "دعوى",
+    "arabic_letters": [
+      "د",
+      "ع",
+      "و",
+      "ى"
+    ],
+    "parts": [
+      "legal action",
+      "judiciary",
+      "singular: دعوى",
+      "plural: دعاوى"
+    ]
+  },
+  {
+    "english_word": "attorney",
+    "arabic_word": "محامي",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ا",
+      "م",
+      "ي"
+    ],
+    "parts": [
+      "professional",
+      "judiciary",
+      "singular: محامي",
+      "plural: محامون"
+    ]
+  },
+  {
+    "english_word": "prosecutor",
+    "arabic_word": "مدعي عام",
+    "arabic_letters": [
+      "م",
+      "د",
+      "ع",
+      "ي",
+      "ع",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "official",
+      "judiciary",
+      "singular: مدعي عام",
+      "plural: مدعون عامون"
+    ]
+  },
+  {
+    "english_word": "defender",
+    "arabic_word": "مدافع",
+    "arabic_letters": [
+      "م",
+      "د",
+      "ا",
+      "ف",
+      "ع"
+    ],
+    "parts": [
+      "professional",
+      "judiciary",
+      "singular: مدافع",
+      "plural: مدافعون"
+    ]
+  },
+  {
+    "english_word": "arraignment",
+    "arabic_word": "جلسة المحاكمة",
+    "arabic_letters": [
+      "ج",
+      "ل",
+      "س",
+      "ة",
+      "ا",
+      "ل",
+      "م",
+      "ح",
+      "ا",
+      "ك",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "legal process",
+      "judiciary",
+      "singular: جلسة المحاكمة",
+      "plural: جلسات المحاكمة"
+    ]
+  },
+  {
+    "english_word": "indictment",
+    "arabic_word": "لائحة الاتهام",
+    "arabic_letters": [
+      "ل",
+      "ا",
+      "ئ",
+      "ح",
+      "ة",
+      "ا",
+      "ل",
+      "ا",
+      "ت",
+      "ه",
+      "ا",
+      "م"
+    ],
+    "parts": [
+      "legal document",
+      "judiciary",
+      "singular: لائحة الاتهام",
+      "plural: لائحات الاتهام"
+    ]
+  },
+  {
+    "english_word": "acquittal",
+    "arabic_word": "براءة",
+    "arabic_letters": [
+      "ب",
+      "ر",
+      "ا",
+      "ء",
+      "ة"
+    ],
+    "parts": [
+      "judicial decision",
+      "judiciary",
+      "singular: براءة",
+      "plural: براءات"
+    ]
+  },
+  {
+    "english_word": "conviction",
+    "arabic_word": "إدانة",
+    "arabic_letters": [
+      "إ",
+      "د",
+      "ا",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "judicial decision",
+      "judiciary",
+      "singular: إدانة",
+      "plural: إدانات"
+    ]
+  },
+  {
+    "english_word": "parole",
+    "arabic_word": "إفراج مشروط",
+    "arabic_letters": [
+      "إ",
+      "ف",
+      "ر",
+      "ا",
+      "ج",
+      "م",
+      "ش",
+      "ر",
+      "و",
+      "ط"
+    ],
+    "parts": [
+      "conditional release",
+      "judiciary",
+      "singular: إفراج مشروط",
+      "plural: إفراجات مشروطة"
+    ]
+  },
+  {
+    "english_word": "probation",
+    "arabic_word": "مراقبة",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "ا",
+      "ق",
+      "ب",
+      "ة"
+    ],
+    "parts": [
+      "supervision",
+      "judiciary",
+      "singular: مراقبة",
+      "plural: مراقبات"
+    ]
+  },
+  {
+    "english_word": "arraignment hearing",
+    "arabic_word": "جلسة استماع المحاكمة",
+    "arabic_letters": [
+      "ج",
+      "ل",
+      "س",
+      "ة",
+      "ا",
+      "س",
+      "ت",
+      "م",
+      "ا",
+      "ع",
+      "ا",
+      "ل",
+      "م",
+      "ح",
+      "ا",
+      "ك",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "legal process",
+      "judiciary",
+      "singular: جلسة استماع المحاكمة",
+      "plural: جلسات استماع المحاكمة"
+    ]
+  },
+  {
+    "english_word": "pretrial",
+    "arabic_word": "ما قبل المحاكمة",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ق",
+      "ب",
+      "ل",
+      "ا",
+      "ل",
+      "م",
+      "ح",
+      "ا",
+      "ك",
+      "م",
+      "ة"
+    ],
+    "parts": [
+      "legal process",
+      "judiciary",
+      "singular: ما قبل المحاكمة",
+      "plural: ما قبل المحاكمات"
+    ]
+  },
+  {
+    "english_word": "trial court",
+    "arabic_word": "محكمة أول درجة",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ك",
+      "م",
+      "ة",
+      "أ",
+      "و",
+      "ل",
+      "د",
+      "ر",
+      "ج",
+      "ة"
+    ],
+    "parts": [
+      "judicial institution",
+      "judiciary",
+      "singular: محكمة أول درجة",
+      "plural: محاكم أول درجة"
+    ]
+  },
+  {
+    "english_word": "appellate court",
+    "arabic_word": "محكمة استئناف",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ك",
+      "م",
+      "ة",
+      "ا",
+      "س",
+      "ت",
+      "ئ",
+      "ن",
+      "ا",
+      "ف"
+    ],
+    "parts": [
+      "judicial institution",
+      "judiciary",
+      "singular: محكمة استئناف",
+      "plural: محاكم استئناف"
+    ]
+  },
+  {
+    "english_word": "supreme court",
+    "arabic_word": "المحكمة العليا",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "م",
+      "ح",
+      "ك",
+      "م",
+      "ة",
+      "ا",
+      "ل",
+      "ع",
+      "ل",
+      "ي",
+      "ا"
+    ],
+    "parts": [
+      "judicial institution",
+      "judiciary",
+      "singular: المحكمة العليا",
+      "plural: المحاكم العليا"
+    ]
+  }
+]

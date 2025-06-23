@@ -1,0 +1,459 @@
+[
+  {
+    "english_word": "fish",
+    "arabic_word": "سمكة",
+    "arabic_letters": [
+      "س",
+      "م",
+      "ك",
+      "ة"
+    ],
+    "parts": [
+      "animal",
+      "aquatic",
+      "singular: سمكة",
+      "plural: سمكات"
+    ]
+  },
+  {
+    "english_word": "salmon",
+    "arabic_word": "سلمون",
+    "arabic_letters": [
+      "س",
+      "ل",
+      "م",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: سلمون",
+      "plural: سلمونات"
+    ]
+  },
+  {
+    "english_word": "shark",
+    "arabic_word": "قرش",
+    "arabic_letters": [
+      "ق",
+      "ر",
+      "ش"
+    ],
+    "parts": [
+      "fish",
+      "marine",
+      "singular: قرش",
+      "plural: قروش"
+    ]
+  },
+  {
+    "english_word": "tuna",
+    "arabic_word": "تونة",
+    "arabic_letters": [
+      "ت",
+      "و",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: تونة",
+      "plural: تونات"
+    ]
+  },
+  {
+    "english_word": "goldfish",
+    "arabic_word": "سمكة ذهبية",
+    "arabic_letters": [
+      "س",
+      "م",
+      "ك",
+      "ة",
+      "ذ",
+      "ه",
+      "ب",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "fish",
+      "pet",
+      "singular: سمكة ذهبية",
+      "plural: سمكات ذهبية"
+    ]
+  },
+  {
+    "english_word": "swordfish",
+    "arabic_word": "مخروط",
+    "arabic_letters": [
+      "م",
+      "خ",
+      "ر",
+      "و",
+      "ط"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: مخروط",
+      "plural: مخروطة"
+    ]
+  },
+  {
+    "english_word": "trout",
+    "arabic_word": "شبوط",
+    "arabic_letters": [
+      "ش",
+      "ب",
+      "و",
+      "ط"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: شبوط",
+      "plural: شبوطات"
+    ]
+  },
+  {
+    "english_word": "eel",
+    "arabic_word": "أنجول",
+    "arabic_letters": [
+      "أ",
+      "ن",
+      "ج",
+      "و",
+      "ل"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: أنجول",
+      "plural: أنجولات"
+    ]
+  },
+  {
+    "english_word": "cod",
+    "arabic_word": "قود",
+    "arabic_letters": [
+      "ق",
+      "و",
+      "د"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: قود",
+      "plural: قودات"
+    ]
+  },
+  {
+    "english_word": "herring",
+    "arabic_word": "رنجة",
+    "arabic_letters": [
+      "ر",
+      "ن",
+      "ج",
+      "ة"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: رنجة",
+      "plural: رنجات"
+    ]
+  },
+  {
+    "english_word": "mackerel",
+    "arabic_word": "مكريل",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ر",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: مكريل",
+      "plural: مكريلات"
+    ]
+  },
+  {
+    "english_word": "anchovy",
+    "arabic_word": "رنكة",
+    "arabic_letters": [
+      "ر",
+      "ن",
+      "ك",
+      "ة"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: رنكة",
+      "plural: رنكات"
+    ]
+  },
+  {
+    "english_word": "sardine",
+    "arabic_word": "سردينة",
+    "arabic_letters": [
+      "س",
+      "ر",
+      "د",
+      "ي",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: سردينة",
+      "plural: سردينات"
+    ]
+  },
+  {
+    "english_word": "halibut",
+    "arabic_word": "هاليبوت",
+    "arabic_letters": [
+      "ه",
+      "ا",
+      "ل",
+      "ي",
+      "ب",
+      "و",
+      "ت"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: هاليبوت",
+      "plural: هاليبوتات"
+    ]
+  },
+  {
+    "english_word": "mullet",
+    "arabic_word": "ملت",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ت"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: ملت",
+      "plural: ملتات"
+    ]
+  },
+  {
+    "english_word": "bass",
+    "arabic_word": "باس",
+    "arabic_letters": [
+      "ب",
+      "ا",
+      "س"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: باس",
+      "plural: باسات"
+    ]
+  },
+  {
+    "english_word": "carp",
+    "arabic_word": "كرپ",
+    "arabic_letters": [
+      "ك",
+      "ر",
+      "پ"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: كرپ",
+      "plural: كرپات"
+    ]
+  },
+  {
+    "english_word": "catfish",
+    "arabic_word": "سمكة القط",
+    "arabic_letters": [
+      "س",
+      "م",
+      "ك",
+      "ة",
+      "ا",
+      "ل",
+      "ق",
+      "ط"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: سمكة القط",
+      "plural: سمكات القط"
+    ]
+  },
+  {
+    "english_word": "tilapia",
+    "arabic_word": "تيلابيا",
+    "arabic_letters": [
+      "ت",
+      "ي",
+      "ل",
+      "ا",
+      "ب",
+      "ي",
+      "ا"
+    ],
+    "parts": [
+      "fish",
+      "food",
+      "singular: تيلابيا",
+      "plural: تيلابيات"
+    ]
+  },
+  {
+    "english_word": "guppy",
+    "arabic_word": "جوبي",
+    "arabic_letters": [
+      "ج",
+      "و",
+      "ب",
+      "ي"
+    ],
+    "parts": [
+      "fish",
+      "pet",
+      "singular: جوبي",
+      "plural: جوبيات"
+    ]
+  },
+  {
+    "english_word": "angelfish",
+    "arabic_word": "سمكة الملاك",
+    "arabic_letters": [
+      "س",
+      "م",
+      "ك",
+      "ة",
+      "ا",
+      "ل",
+      "م",
+      "ل",
+      "ا",
+      "ك"
+    ],
+    "parts": [
+      "fish",
+      "pet",
+      "singular: سمكة الملاك",
+      "plural: سمكات الملاك"
+    ]
+  },
+  {
+    "english_word": "clownfish",
+    "arabic_word": "سمكة البوفون",
+    "arabic_letters": [
+      "س",
+      "م",
+      "ك",
+      "ة",
+      "ا",
+      "ل",
+      "ب",
+      "و",
+      "ف",
+      "و",
+      "ن"
+    ],
+    "parts": [
+      "fish",
+      "pet",
+      "singular: سمكة البوفون",
+      "plural: سمكات البوفون"
+    ]
+  },
+  {
+    "english_word": "tropical fish",
+    "arabic_word": "سمكة استوائية",
+    "arabic_letters": [
+      "س",
+      "م",
+      "ك",
+      "ة",
+      "ا",
+      "س",
+      "ت",
+      "و",
+      "ا",
+      "ئ",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "fish",
+      "pet",
+      "singular: سمكة استوائية",
+      "plural: سمكات استوائية"
+    ]
+  },
+  {
+    "english_word": "piranha",
+    "arabic_word": "بيرانه",
+    "arabic_letters": [
+      "ب",
+      "ي",
+      "ر",
+      "ا",
+      "ن",
+      "ه"
+    ],
+    "parts": [
+      "fish",
+      "aquatic",
+      "singular: بيرانه",
+      "plural: بيرانات"
+    ]
+  },
+  {
+    "english_word": "stingray",
+    "arabic_word": "شعاع",
+    "arabic_letters": [
+      "ش",
+      "ع",
+      "ا",
+      "ع"
+    ],
+    "parts": [
+      "fish",
+      "marine",
+      "singular: شعاع",
+      "plural: شعاعات"
+    ]
+  },
+  {
+    "english_word": "jellyfish",
+    "arabic_word": "ميدوزا",
+    "arabic_letters": [
+      "م",
+      "ي",
+      "د",
+      "و",
+      "ز",
+      "ا"
+    ],
+    "parts": [
+      "fish",
+      "marine",
+      "singular: ميدوزا",
+      "plural: ميدوزات"
+    ]
+  }
+]

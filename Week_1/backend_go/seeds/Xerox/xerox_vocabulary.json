@@ -1,0 +1,352 @@
+[
+  {
+    "english_word": "photocopy",
+    "arabic_word": "نسخة مصورة",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "خ",
+      "ة",
+      "م",
+      "ص",
+      "و",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "document",
+      "office",
+      "singular: نسخة مصورة",
+      "plural: نسخ مصورة"
+    ]
+  },
+  {
+    "english_word": "scanner",
+    "arabic_word": "ماسح ضوئي",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "س",
+      "ح",
+      "ض",
+      "و",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "device",
+      "office",
+      "singular: ماسح ضوئي",
+      "plural: ماسحات ضوئية"
+    ]
+  },
+  {
+    "english_word": "printer",
+    "arabic_word": "مطبعة",
+    "arabic_letters": [
+      "م",
+      "ط",
+      "ب",
+      "ع",
+      "ة"
+    ],
+    "parts": [
+      "device",
+      "office",
+      "singular: مطبعة",
+      "plural: مطابع"
+    ]
+  },
+  {
+    "english_word": "copier",
+    "arabic_word": "مكبر نسخ",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ب",
+      "ر",
+      "ن",
+      "س",
+      "خ"
+    ],
+    "parts": [
+      "machine",
+      "office",
+      "singular: مكبر نسخ",
+      "plural: مكبرات نسخ"
+    ]
+  },
+  {
+    "english_word": "fax",
+    "arabic_word": "فاكس",
+    "arabic_letters": [
+      "ف",
+      "ا",
+      "ك",
+      "س"
+    ],
+    "parts": [
+      "machine",
+      "office",
+      "singular: فاكس",
+      "plural: فاكسات"
+    ]
+  },
+  {
+    "english_word": "document",
+    "arabic_word": "مستند",
+    "arabic_letters": [
+      "م",
+      "س",
+      "ت",
+      "ن",
+      "د"
+    ],
+    "parts": [
+      "paper",
+      "office",
+      "singular: مستند",
+      "plural: مستندات"
+    ]
+  },
+  {
+    "english_word": "paper",
+    "arabic_word": "ورقة",
+    "arabic_letters": [
+      "و",
+      "ر",
+      "ق",
+      "ة"
+    ],
+    "parts": [
+      "material",
+      "office",
+      "singular: ورقة",
+      "plural: ورقات"
+    ]
+  },
+  {
+    "english_word": "ink",
+    "arabic_word": "حبر",
+    "arabic_letters": [
+      "ح",
+      "ب",
+      "ر"
+    ],
+    "parts": [
+      "material",
+      "office",
+      "singular: حبر",
+      "plural: أحبار"
+    ]
+  },
+  {
+    "english_word": "toner",
+    "arabic_word": "تونر",
+    "arabic_letters": [
+      "ت",
+      "و",
+      "ن",
+      "ر"
+    ],
+    "parts": [
+      "material",
+      "office",
+      "singular: تونر",
+      "plural: تونرات"
+    ]
+  },
+  {
+    "english_word": "cartridge",
+    "arabic_word": "كارت리지",
+    "arabic_letters": [
+      "ك",
+      "ا",
+      "ر",
+      "ت",
+      "리",
+      "지"
+    ],
+    "parts": [
+      "part",
+      "office",
+      "singular: كارت리지",
+      "plural: كارتيرات"
+    ]
+  },
+  {
+    "english_word": "printout",
+    "arabic_word": "مطبوعة",
+    "arabic_letters": [
+      "م",
+      "ط",
+      "ب",
+      "و",
+      "ع",
+      "ة"
+    ],
+    "parts": [
+      "document",
+      "office",
+      "singular: مطبوعة",
+      "plural: مطبوعات"
+    ]
+  },
+  {
+    "english_word": "duplicate",
+    "arabic_word": "نسخة مكررة",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "خ",
+      "ة",
+      "م",
+      "ك",
+      "ر",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "document",
+      "office",
+      "singular: نسخة مكررة",
+      "plural: نسخ مكررة"
+    ]
+  },
+  {
+    "english_word": "original",
+    "arabic_word": "نسخة أصلية",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "خ",
+      "ة",
+      "أ",
+      "ص",
+      "ل",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "document",
+      "office",
+      "singular: نسخة أصلية",
+      "plural: نسخ أصلية"
+    ]
+  },
+  {
+    "english_word": "copy",
+    "arabic_word": "نسخة",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "خ",
+      "ة"
+    ],
+    "parts": [
+      "document",
+      "office",
+      "singular: نسخة",
+      "plural: نسخ"
+    ]
+  },
+  {
+    "english_word": "reproduce",
+    "arabic_word": "إعادة إنتاج",
+    "arabic_letters": [
+      "إ",
+      "ع",
+      "ا",
+      "د",
+      "ة",
+      "إ",
+      "ن",
+      "ت",
+      "ا",
+      "ج"
+    ],
+    "parts": [
+      "action",
+      "office",
+      "singular: إعادة إنتاج",
+      "plural: إعادة إنتاجات"
+    ]
+  },
+  {
+    "english_word": "duplicate document",
+    "arabic_word": "نسخة وثيقة مكررة",
+    "arabic_letters": [
+      "ن",
+      "س",
+      "خ",
+      "ة",
+      "و",
+      "ث",
+      "ي",
+      "ق",
+      "ة",
+      "م",
+      "ك",
+      "ر",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "document",
+      "office",
+      "singular: نسخة وثيقة مكررة",
+      "plural: نسخ وثائق مكررة"
+    ]
+  },
+  {
+    "english_word": "photocopy machine",
+    "arabic_word": "مكينة نسخ مصورة",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ي",
+      "ن",
+      "ة",
+      "ن",
+      "س",
+      "خ",
+      "م",
+      "ص",
+      "و",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "machine",
+      "office",
+      "singular: مكينة نسخ مصورة",
+      "plural: مكينات نسخ مصورة"
+    ]
+  },
+  {
+    "english_word": "scanner software",
+    "arabic_word": "برمجية ماسح ضوئي",
+    "arabic_letters": [
+      "ب",
+      "ر",
+      "م",
+      "ج",
+      "ي",
+      "ة",
+      "م",
+      "ا",
+      "س",
+      "ح",
+      "ض",
+      "و",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "software",
+      "office",
+      "singular: برمجية ماسح ضوئي",
+      "plural: برمجيات ماسحات ضوئية"
+    ]
+  }
+]

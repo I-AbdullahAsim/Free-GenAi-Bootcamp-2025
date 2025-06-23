@@ -1,0 +1,480 @@
+[
+  {
+    "english_word": "Hell",
+    "arabic_word": "جهنم",
+    "arabic_letters": [
+      "ج",
+      "ه",
+      "ن",
+      "م"
+    ],
+    "parts": [
+      "place",
+      "religion",
+      "singular: جهنم",
+      "plural: جهنمات"
+    ]
+  },
+  {
+    "english_word": "Underworld",
+    "arabic_word": "الدار السفلى",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "د",
+      "ا",
+      "ر",
+      "ا",
+      "ل",
+      "س",
+      "ف",
+      "ل",
+      "ى"
+    ],
+    "parts": [
+      "place",
+      "mythology",
+      "singular: الدار السفلى",
+      "plural: دور سفلية"
+    ]
+  },
+  {
+    "english_word": "Inferno",
+    "arabic_word": "جهنم النار",
+    "arabic_letters": [
+      "ج",
+      "ه",
+      "ن",
+      "م",
+      "ا",
+      "ل",
+      "ن",
+      "ا",
+      "ر"
+    ],
+    "parts": [
+      "place",
+      "religion",
+      "singular: جهنم النار",
+      "plural: جهنمات النار"
+    ]
+  },
+  {
+    "english_word": "Purgatory",
+    "arabic_word": "عذاب الموتى",
+    "arabic_letters": [
+      "ع",
+      "ذ",
+      "ا",
+      "ب",
+      "ا",
+      "ل",
+      "م",
+      "و",
+      "ت",
+      "ى"
+    ],
+    "parts": [
+      "place",
+      "religion",
+      "singular: عذاب الموتى",
+      "plural: عذابات الموتى"
+    ]
+  },
+  {
+    "english_word": "Limbo",
+    "arabic_word": "ليمبو",
+    "arabic_letters": [
+      "ل",
+      "ي",
+      "م",
+      "ب",
+      "و"
+    ],
+    "parts": [
+      "place",
+      "religion",
+      "singular: ليمبو",
+      "plural: ليمبوهات"
+    ]
+  },
+  {
+    "english_word": "Gehenna",
+    "arabic_word": "جهنم",
+    "arabic_letters": [
+      "ج",
+      "ه",
+      "ن",
+      "م"
+    ],
+    "parts": [
+      "place",
+      "religion",
+      "singular: جهنم",
+      "plural: جهنمات"
+    ]
+  },
+  {
+    "english_word": "Hades",
+    "arabic_word": "هاديس",
+    "arabic_letters": [
+      "ه",
+      "ا",
+      "د",
+      "ي",
+      "س"
+    ],
+    "parts": [
+      "place",
+      "mythology",
+      "singular: هاديس",
+      "plural: هاديسات"
+    ]
+  },
+  {
+    "english_word": "Abyss",
+    "arabic_word": "الهاوية",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ه",
+      "ا",
+      "و",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "place",
+      "religion",
+      "singular: الهاوية",
+      "plural: هاويات"
+    ]
+  },
+  {
+    "english_word": "Tartarus",
+    "arabic_word": "تارتاروس",
+    "arabic_letters": [
+      "ت",
+      "ا",
+      "ر",
+      "ت",
+      "ا",
+      "ر",
+      "و",
+      "س"
+    ],
+    "parts": [
+      "place",
+      "mythology",
+      "singular: تارتاروس",
+      "plural: تارتاروسات"
+    ]
+  },
+  {
+    "english_word": "Sheol",
+    "arabic_word": "شئول",
+    "arabic_letters": [
+      "ش",
+      "ئ",
+      "و",
+      "ل"
+    ],
+    "parts": [
+      "place",
+      "religion",
+      "singular: شئول",
+      "plural: شئولات"
+    ]
+  },
+  {
+    "english_word": "Netherworld",
+    "arabic_word": "عالم الأسفل",
+    "arabic_letters": [
+      "ع",
+      "ا",
+      "ل",
+      "م",
+      "ا",
+      "ل",
+      "أ",
+      "س",
+      "ف",
+      "ل"
+    ],
+    "parts": [
+      "place",
+      "mythology",
+      "singular: عالم الأسفل",
+      "plural: عوالم الأسفل"
+    ]
+  },
+  {
+    "english_word": "Afterlife",
+    "arabic_word": "الحياة الأخرى",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ح",
+      "ي",
+      "ا",
+      "ة",
+      "ا",
+      "ل",
+      "أ",
+      "خ",
+      "ر",
+      "ى"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: الحياة الأخرى",
+      "plural: حياة أخرى"
+    ]
+  },
+  {
+    "english_word": "Damnation",
+    "arabic_word": "اللعنة",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ل",
+      "ع",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: اللعنة",
+      "plural: لعنات"
+    ]
+  },
+  {
+    "english_word": "Torment",
+    "arabic_word": "العذاب",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ع",
+      "ذ",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: العذاب",
+      "plural: عذابات"
+    ]
+  },
+  {
+    "english_word": "Punishment",
+    "arabic_word": "العقاب",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ع",
+      "ق",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: العقاب",
+      "plural: عقابات"
+    ]
+  },
+  {
+    "english_word": "Suffering",
+    "arabic_word": "المعاناة",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "م",
+      "ع",
+      "ا",
+      "ن",
+      "ا",
+      "ة"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: المعاناة",
+      "plural: معاناة"
+    ]
+  },
+  {
+    "english_word": "Agony",
+    "arabic_word": "العذاب الشديد",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ع",
+      "ذ",
+      "ا",
+      "ب",
+      "ا",
+      "ل",
+      "ش",
+      "د",
+      "ي",
+      "د"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: العذاب الشديد",
+      "plural: عذابات شديدة"
+    ]
+  },
+  {
+    "english_word": "Misery",
+    "arabic_word": "الشقاء",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ش",
+      "ق",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: الشقاء",
+      "plural: شقاء"
+    ]
+  },
+  {
+    "english_word": "Woe",
+    "arabic_word": "الويل",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "و",
+      "ي",
+      "ل"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: الويل",
+      "plural: ويلات"
+    ]
+  },
+  {
+    "english_word": "Perdition",
+    "arabic_word": "الخسران",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "خ",
+      "س",
+      "ر",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: الخسران",
+      "plural: خسرانات"
+    ]
+  },
+  {
+    "english_word": "Doom",
+    "arabic_word": "النهاية",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "ن",
+      "ه",
+      "ا",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: النهاية",
+      "plural: نهايات"
+    ]
+  },
+  {
+    "english_word": "Destruction",
+    "arabic_word": "الدمار",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "د",
+      "م",
+      "ا",
+      "ر"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: الدمار",
+      "plural: دمارات"
+    ]
+  },
+  {
+    "english_word": "Annihilation",
+    "arabic_word": "الإبادة",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "إ",
+      "ب",
+      "ا",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: الإبادة",
+      "plural: إبادات"
+    ]
+  },
+  {
+    "english_word": "Eternal",
+    "arabic_word": "الأبدية",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "أ",
+      "ب",
+      "د",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: الأبدية",
+      "plural: أبديات"
+    ]
+  },
+  {
+    "english_word": "Eternity",
+    "arabic_word": "الخلود",
+    "arabic_letters": [
+      "ا",
+      "ل",
+      "خ",
+      "ل",
+      "و",
+      "د"
+    ],
+    "parts": [
+      "concept",
+      "religion",
+      "singular: الخلود",
+      "plural: خلودات"
+    ]
+  }
+]

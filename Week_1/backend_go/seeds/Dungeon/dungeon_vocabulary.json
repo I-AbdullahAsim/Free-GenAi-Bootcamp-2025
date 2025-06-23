@@ -1,0 +1,416 @@
+[
+  {
+    "english_word": "dungeon",
+    "arabic_word": "مصحة",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ح",
+      "ة"
+    ],
+    "parts": [
+      "structure",
+      "fantasy",
+      "singular: مصحة",
+      "plural: مصحات"
+    ]
+  },
+  {
+    "english_word": "prison",
+    "arabic_word": "سجن",
+    "arabic_letters": [
+      "س",
+      "ج",
+      "ن"
+    ],
+    "parts": [
+      "structure",
+      "law",
+      "singular: سجن",
+      "plural: سجون"
+    ]
+  },
+  {
+    "english_word": "cell",
+    "arabic_word": "خلية",
+    "arabic_letters": [
+      "خ",
+      "ل",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "room",
+      "prison",
+      "singular: خلية",
+      "plural: خلايا"
+    ]
+  },
+  {
+    "english_word": "torture",
+    "arabic_word": "تعذيب",
+    "arabic_letters": [
+      "ت",
+      "ع",
+      "ذ",
+      "ي",
+      "ب"
+    ],
+    "parts": [
+      "act",
+      "cruelty",
+      "singular: تعذيب",
+      "plural: تعذيبات"
+    ]
+  },
+  {
+    "english_word": "chain",
+    "arabic_word": "سلسلة",
+    "arabic_letters": [
+      "س",
+      "ل",
+      "س",
+      "ل",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "restraint",
+      "singular: سلسلة",
+      "plural: سلاسل"
+    ]
+  },
+  {
+    "english_word": "shackle",
+    "arabic_word": "قيد",
+    "arabic_letters": [
+      "ق",
+      "ي",
+      "د"
+    ],
+    "parts": [
+      "object",
+      "restraint",
+      "singular: قيد",
+      "plural: قيود"
+    ]
+  },
+  {
+    "english_word": "guard",
+    "arabic_word": "حارس",
+    "arabic_letters": [
+      "ح",
+      "ا",
+      "ر",
+      "س"
+    ],
+    "parts": [
+      "person",
+      "security",
+      "singular: حارس",
+      "plural: حراس"
+    ]
+  },
+  {
+    "english_word": "key",
+    "arabic_word": "مفتاح",
+    "arabic_letters": [
+      "م",
+      "ف",
+      "ت",
+      "ا",
+      "ح"
+    ],
+    "parts": [
+      "object",
+      "unlock",
+      "singular: مفتاح",
+      "plural: مفاتيح"
+    ]
+  },
+  {
+    "english_word": "lock",
+    "arabic_word": "قفل",
+    "arabic_letters": [
+      "ق",
+      "ف",
+      "ل"
+    ],
+    "parts": [
+      "object",
+      "secure",
+      "singular: قفل",
+      "plural: أقفال"
+    ]
+  },
+  {
+    "english_word": "door",
+    "arabic_word": "باب",
+    "arabic_letters": [
+      "ب",
+      "ا",
+      "ب"
+    ],
+    "parts": [
+      "structure",
+      "entry",
+      "singular: باب",
+      "plural: أبواب"
+    ]
+  },
+  {
+    "english_word": "wall",
+    "arabic_word": "جدار",
+    "arabic_letters": [
+      "ج",
+      "د",
+      "ا",
+      "ر"
+    ],
+    "parts": [
+      "structure",
+      "barrier",
+      "singular: جدار",
+      "plural: جدران"
+    ]
+  },
+  {
+    "english_word": "tower",
+    "arabic_word": "برج",
+    "arabic_letters": [
+      "ب",
+      "ر",
+      "ج"
+    ],
+    "parts": [
+      "structure",
+      "high",
+      "singular: برج",
+      "plural: أبرج"
+    ]
+  },
+  {
+    "english_word": "moat",
+    "arabic_word": "خندق",
+    "arabic_letters": [
+      "خ",
+      "ن",
+      "د",
+      "ق"
+    ],
+    "parts": [
+      "structure",
+      "defense",
+      "singular: خندق",
+      "plural: خنادق"
+    ]
+  },
+  {
+    "english_word": "drawbridge",
+    "arabic_word": "جسر متحرك",
+    "arabic_letters": [
+      "ج",
+      "س",
+      "ر",
+      "م",
+      "ت",
+      "ح",
+      "ر",
+      "ك"
+    ],
+    "parts": [
+      "structure",
+      "entry",
+      "singular: جسر متحرك",
+      "plural: جسور متحركة"
+    ]
+  },
+  {
+    "english_word": "portcullis",
+    "arabic_word": "باب حديدي",
+    "arabic_letters": [
+      "ب",
+      "ا",
+      "ب",
+      "ح",
+      "د",
+      "ي",
+      "د",
+      "ي"
+    ],
+    "parts": [
+      "structure",
+      "gate",
+      "singular: باب حديدي",
+      "plural: أبواب حديدية"
+    ]
+  },
+  {
+    "english_word": "dungeon master",
+    "arabic_word": "سيد المصحة",
+    "arabic_letters": [
+      "س",
+      "ي",
+      "د",
+      "ا",
+      "ل",
+      "م",
+      "ص",
+      "ح",
+      "ة"
+    ],
+    "parts": [
+      "person",
+      "game",
+      "singular: سيد المصحة",
+      "plural: سادة المصحات"
+    ]
+  },
+  {
+    "english_word": "prisoner",
+    "arabic_word": "سجين",
+    "arabic_letters": [
+      "س",
+      "ج",
+      "ي",
+      "ن"
+    ],
+    "parts": [
+      "person",
+      "captivity",
+      "singular: سجين",
+      "plural: سجناء"
+    ]
+  },
+  {
+    "english_word": "trap",
+    "arabic_word": "فخ",
+    "arabic_letters": [
+      "ف",
+      "خ"
+    ],
+    "parts": [
+      "object",
+      "danger",
+      "singular: فخ",
+      "plural: فخاخ"
+    ]
+  },
+  {
+    "english_word": "puzzle",
+    "arabic_word": "لغز",
+    "arabic_letters": [
+      "ل",
+      "غ",
+      "ز"
+    ],
+    "parts": [
+      "object",
+      "challenge",
+      "singular: لغز",
+      "plural: ألغاز"
+    ]
+  },
+  {
+    "english_word": "riddle",
+    "arabic_word": "لغز",
+    "arabic_letters": [
+      "ل",
+      "غ",
+      "ز"
+    ],
+    "parts": [
+      "object",
+      "challenge",
+      "singular: لغز",
+      "plural: ألغاز"
+    ]
+  },
+  {
+    "english_word": "secret door",
+    "arabic_word": "باب سري",
+    "arabic_letters": [
+      "ب",
+      "ا",
+      "ب",
+      "س",
+      "ر",
+      "ي"
+    ],
+    "parts": [
+      "structure",
+      "hidden",
+      "singular: باب سري",
+      "plural: أبواب سرية"
+    ]
+  },
+  {
+    "english_word": "hidden passage",
+    "arabic_word": "ممر سري",
+    "arabic_letters": [
+      "م",
+      "م",
+      "ر",
+      "س",
+      "ر",
+      "ي"
+    ],
+    "parts": [
+      "structure",
+      "secret",
+      "singular: ممر سري",
+      "plural: ممارس سرية"
+    ]
+  },
+  {
+    "english_word": "treasure",
+    "arabic_word": "كنز",
+    "arabic_letters": [
+      "ك",
+      "ن",
+      "ز"
+    ],
+    "parts": [
+      "object",
+      "valuable",
+      "singular: كنز",
+      "plural: كنوز"
+    ]
+  },
+  {
+    "english_word": "chest",
+    "arabic_word": "صندوق",
+    "arabic_letters": [
+      "ص",
+      "ن",
+      "د",
+      "و",
+      "ق"
+    ],
+    "parts": [
+      "object",
+      "container",
+      "singular: صندوق",
+      "plural: صناديق"
+    ]
+  },
+  {
+    "english_word": "keyhole",
+    "arabic_word": "مفتاحية",
+    "arabic_letters": [
+      "م",
+      "ف",
+      "ت",
+      "ا",
+      "ح",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "object",
+      "lock",
+      "singular: مفتاحية",
+      "plural: مفاتيحيات"
+    ]
+  }
+]

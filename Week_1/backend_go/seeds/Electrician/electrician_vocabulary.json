@@ -1,0 +1,511 @@
+[
+  {
+    "english_word": "electrician",
+    "arabic_word": "كهربائي",
+    "arabic_letters": [
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "profession",
+      "electricity",
+      "singular: كهربائي",
+      "plural: كهربائيون"
+    ]
+  },
+  {
+    "english_word": "circuit",
+    "arabic_word": "دائرة",
+    "arabic_letters": [
+      "د",
+      "ا",
+      "ئ",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: دائرة",
+      "plural: دوائر"
+    ]
+  },
+  {
+    "english_word": "wire",
+    "arabic_word": "سلك",
+    "arabic_letters": [
+      "س",
+      "ل",
+      "ك"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: سلك",
+      "plural: أسلاك"
+    ]
+  },
+  {
+    "english_word": "cable",
+    "arabic_word": "كابل",
+    "arabic_letters": [
+      "ك",
+      "ا",
+      "ب",
+      "ل"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: كابل",
+      "plural: كابلات"
+    ]
+  },
+  {
+    "english_word": "socket",
+    "arabic_word": "مأخذ",
+    "arabic_letters": [
+      "م",
+      "أ",
+      "خ",
+      "ذ"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: مأخذ",
+      "plural: مأخذات"
+    ]
+  },
+  {
+    "english_word": "plug",
+    "arabic_word": "مفصل",
+    "arabic_letters": [
+      "م",
+      "ف",
+      "ص",
+      "ل"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: مفصل",
+      "plural: مفاصل"
+    ]
+  },
+  {
+    "english_word": "switch",
+    "arabic_word": "مفتاح",
+    "arabic_letters": [
+      "م",
+      "ف",
+      "ت",
+      "ا",
+      "ح"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: مفتاح",
+      "plural: مفاتيح"
+    ]
+  },
+  {
+    "english_word": "fuse",
+    "arabic_word": "مصهر",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ه",
+      "ر"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: مصهر",
+      "plural: مصاهر"
+    ]
+  },
+  {
+    "english_word": "transformer",
+    "arabic_word": "مغير جهد",
+    "arabic_letters": [
+      "م",
+      "غ",
+      "ي",
+      "ر",
+      "ج",
+      "ه",
+      "د"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: مغير جهد",
+      "plural: مغيرو جهد"
+    ]
+  },
+  {
+    "english_word": "generator",
+    "arabic_word": "مولد كهربائي",
+    "arabic_letters": [
+      "م",
+      "و",
+      "ل",
+      "د",
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: مولد كهربائي",
+      "plural: مولدات كهربائية"
+    ]
+  },
+  {
+    "english_word": "battery",
+    "arabic_word": "بطارية",
+    "arabic_letters": [
+      "ب",
+      "ط",
+      "ا",
+      "ر",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: بطارية",
+      "plural: بطاريات"
+    ]
+  },
+  {
+    "english_word": "charger",
+    "arabic_word": "شاحن",
+    "arabic_letters": [
+      "ش",
+      "ا",
+      "ح",
+      "ن"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: شاحن",
+      "plural: شاحنات"
+    ]
+  },
+  {
+    "english_word": "insulator",
+    "arabic_word": "عازل",
+    "arabic_letters": [
+      "ع",
+      "ا",
+      "ز",
+      "ل"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: عازل",
+      "plural: عازلات"
+    ]
+  },
+  {
+    "english_word": "conductor",
+    "arabic_word": "موصل",
+    "arabic_letters": [
+      "م",
+      "و",
+      "ص",
+      "ل"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: موصل",
+      "plural: موصلات"
+    ]
+  },
+  {
+    "english_word": "resistor",
+    "arabic_word": "مقاوم",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ا",
+      "و",
+      "م"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: مقاوم",
+      "plural: مقاومات"
+    ]
+  },
+  {
+    "english_word": "capacitor",
+    "arabic_word": "مكثف",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ث",
+      "ف"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: مكثف",
+      "plural: مكثفات"
+    ]
+  },
+  {
+    "english_word": "inductor",
+    "arabic_word": "محاث",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ا",
+      "ث"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: محاث",
+      "plural: محاثات"
+    ]
+  },
+  {
+    "english_word": "electricity",
+    "arabic_word": "كهرباء",
+    "arabic_letters": [
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "energy",
+      "physics",
+      "singular: كهرباء",
+      "plural: كهرباءات"
+    ]
+  },
+  {
+    "english_word": "electrical",
+    "arabic_word": "كهربائي",
+    "arabic_letters": [
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: كهربائي",
+      "plural: كهربائيون"
+    ]
+  },
+  {
+    "english_word": "electronic",
+    "arabic_word": "إلكتروني",
+    "arabic_letters": [
+      "إ",
+      "ل",
+      "ك",
+      "ت",
+      "ر",
+      "و",
+      "ن",
+      "ي"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: إلكتروني",
+      "plural: إلكترونيون"
+    ]
+  },
+  {
+    "english_word": "circuit breaker",
+    "arabic_word": "قاطع دائرة",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ط",
+      "ع",
+      "د",
+      "ا",
+      "ئ",
+      "ر",
+      "ة"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: قاطع دائرة",
+      "plural: قواطع دوائر"
+    ]
+  },
+  {
+    "english_word": "electric motor",
+    "arabic_word": "محرك كهربائي",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ر",
+      "ك",
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: محرك كهربائي",
+      "plural: محركات كهربائية"
+    ]
+  },
+  {
+    "english_word": "electric panel",
+    "arabic_word": "لوحة كهربائية",
+    "arabic_letters": [
+      "ل",
+      "و",
+      "ح",
+      "ة",
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: لوحة كهربائية",
+      "plural: لوحات كهربائية"
+    ]
+  },
+  {
+    "english_word": "electric meter",
+    "arabic_word": "عداد كهربائي",
+    "arabic_letters": [
+      "ع",
+      "د",
+      "ا",
+      "د",
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: عداد كهربائي",
+      "plural: عدادات كهربائية"
+    ]
+  },
+  {
+    "english_word": "electric drill",
+    "arabic_word": "مثقاب كهربائي",
+    "arabic_letters": [
+      "م",
+      "ث",
+      "ق",
+      "ا",
+      "ب",
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: مثقاب كهربائي",
+      "plural: مثاقب كهربائية"
+    ]
+  },
+  {
+    "english_word": "electric saw",
+    "arabic_word": "منشار كهربائي",
+    "arabic_letters": [
+      "م",
+      "ن",
+      "ش",
+      "ا",
+      "ر",
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: منشار كهربائي",
+      "plural: مناشير كهربائية"
+    ]
+  },
+  {
+    "english_word": "electrician's tool",
+    "arabic_word": "أداة كهربائية",
+    "arabic_letters": [
+      "أ",
+      "د",
+      "ا",
+      "ة",
+      "ك",
+      "ه",
+      "ر",
+      "ب",
+      "ا",
+      "ئ",
+      "ي",
+      "ة"
+    ],
+    "parts": [
+      "electricity",
+      "electronics",
+      "singular: أداة كهربائية",
+      "plural: أدوات كهربائية"
+    ]
+  }
+]

@@ -1,0 +1,456 @@
+[
+  {
+    "english_word": "warrior",
+    "arabic_word": "محارب",
+    "arabic_letters": [
+      "م",
+      "ح",
+      "ا",
+      "ر",
+      "ب"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: محارب",
+      "plural: محاربيون"
+    ]
+  },
+  {
+    "english_word": "soldier",
+    "arabic_word": "جندي",
+    "arabic_letters": [
+      "ج",
+      "ن",
+      "د",
+      "ي"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: جندي",
+      "plural: جنود"
+    ]
+  },
+  {
+    "english_word": "fighter",
+    "arabic_word": "مقاتل",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ا",
+      "ت",
+      "ل"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: مقاتل",
+      "plural: مقاتلون"
+    ]
+  },
+  {
+    "english_word": "boxer",
+    "arabic_word": "ملاكم",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ا",
+      "ك",
+      "م"
+    ],
+    "parts": [
+      "fighter",
+      "sports",
+      "singular: ملاكم",
+      "plural: ملاكمون"
+    ]
+  },
+  {
+    "english_word": "wrestler",
+    "arabic_word": "مصارع",
+    "arabic_letters": [
+      "م",
+      "ص",
+      "ا",
+      "ر",
+      "ع"
+    ],
+    "parts": [
+      "fighter",
+      "sports",
+      "singular: مصارع",
+      "plural: مصارعون"
+    ]
+  },
+  {
+    "english_word": "martial artist",
+    "arabic_word": "فنان قتالي",
+    "arabic_letters": [
+      "ف",
+      "ن",
+      "ا",
+      "ن",
+      "ق",
+      "ت",
+      "ا",
+      "ل",
+      "ي"
+    ],
+    "parts": [
+      "fighter",
+      "martial arts",
+      "singular: فنان قتالي",
+      "plural: فناني قتاليون"
+    ]
+  },
+  {
+    "english_word": "ninja",
+    "arabic_word": "نينجا",
+    "arabic_letters": [
+      "ن",
+      "ي",
+      "ن",
+      "ج",
+      "ا"
+    ],
+    "parts": [
+      "fighter",
+      "martial arts",
+      "singular: نينجا",
+      "plural: نينجيات"
+    ]
+  },
+  {
+    "english_word": "samurai",
+    "arabic_word": "ساموراي",
+    "arabic_letters": [
+      "س",
+      "ا",
+      "م",
+      "و",
+      "ر",
+      "ا",
+      "ي"
+    ],
+    "parts": [
+      "fighter",
+      "martial arts",
+      "singular: ساموراي",
+      "plural: سامورايات"
+    ]
+  },
+  {
+    "english_word": "gladiator",
+    "arabic_word": "مقاتل روماني",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ا",
+      "ت",
+      "ل",
+      "ر",
+      "و",
+      "م",
+      "ا",
+      "ن",
+      "ي"
+    ],
+    "parts": [
+      "fighter",
+      "history",
+      "singular: مقاتل روماني",
+      "plural: مقاتلون رومانيون"
+    ]
+  },
+  {
+    "english_word": "knight",
+    "arabic_word": "فارس",
+    "arabic_letters": [
+      "ف",
+      "ا",
+      "ر",
+      "س"
+    ],
+    "parts": [
+      "fighter",
+      "history",
+      "singular: فارس",
+      "plural: فرسان"
+    ]
+  },
+  {
+    "english_word": "mercenary",
+    "arabic_word": "مرتزق",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "ت",
+      "ز",
+      "ق"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: مرتزق",
+      "plural: مرتزقون"
+    ]
+  },
+  {
+    "english_word": "assassin",
+    "arabic_word": "قاتل",
+    "arabic_letters": [
+      "ق",
+      "ا",
+      "ت",
+      "ل"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: قاتل",
+      "plural: قاتلون"
+    ]
+  },
+  {
+    "english_word": "commando",
+    "arabic_word": "كوماندو",
+    "arabic_letters": [
+      "ك",
+      "و",
+      "م",
+      "ا",
+      "ن",
+      "د",
+      "و"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: كوماندو",
+      "plural: كوماندوات"
+    ]
+  },
+  {
+    "english_word": "sniper",
+    "arabic_word": "قناص",
+    "arabic_letters": [
+      "ق",
+      "ن",
+      "ا",
+      "ص"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: قناص",
+      "plural: قناصون"
+    ]
+  },
+  {
+    "english_word": "gunfighter",
+    "arabic_word": "مقاتل بالسلاح",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ا",
+      "ت",
+      "ل",
+      "ب",
+      "ا",
+      "ل",
+      "س",
+      "ل",
+      "ا",
+      "ح"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: مقاتل بالسلاح",
+      "plural: مقاتلون بالسلاح"
+    ]
+  },
+  {
+    "english_word": "duelist",
+    "arabic_word": "مبارز",
+    "arabic_letters": [
+      "م",
+      "ب",
+      "ا",
+      "ر",
+      "ز"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: مبارز",
+      "plural: مبارزون"
+    ]
+  },
+  {
+    "english_word": "archer",
+    "arabic_word": "رامي",
+    "arabic_letters": [
+      "ر",
+      "ا",
+      "م",
+      "ي"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: رامي",
+      "plural: رماة"
+    ]
+  },
+  {
+    "english_word": "swordsman",
+    "arabic_word": "مبارز بالسيف",
+    "arabic_letters": [
+      "م",
+      "ب",
+      "ا",
+      "ر",
+      "ز",
+      "ب",
+      "ا",
+      "ل",
+      "س",
+      "ي",
+      "ف"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: مبارز بالسيف",
+      "plural: مبارزون بالسيف"
+    ]
+  },
+  {
+    "english_word": "warlord",
+    "arabic_word": "لورد الحرب",
+    "arabic_letters": [
+      "ل",
+      "و",
+      "ر",
+      "د",
+      "ا",
+      "ل",
+      "ح",
+      "ر",
+      "ب"
+    ],
+    "parts": [
+      "fighter",
+      "military",
+      "singular: لورد الحرب",
+      "plural: لوردات الحرب"
+    ]
+  },
+  {
+    "english_word": "brawler",
+    "arabic_word": "مقاتل باليد",
+    "arabic_letters": [
+      "م",
+      "ق",
+      "ا",
+      "ت",
+      "ل",
+      "ب",
+      "ا",
+      "ل",
+      "ي",
+      "د"
+    ],
+    "parts": [
+      "fighter",
+      "sports",
+      "singular: مقاتل باليد",
+      "plural: مقاتلون باليد"
+    ]
+  },
+  {
+    "english_word": "fencer",
+    "arabic_word": "مبارز بالسيف",
+    "arabic_letters": [
+      "م",
+      "ب",
+      "ا",
+      "ر",
+      "ز",
+      "ب",
+      "ا",
+      "ل",
+      "س",
+      "ي",
+      "ف"
+    ],
+    "parts": [
+      "fighter",
+      "sports",
+      "singular: مبارز بالسيف",
+      "plural: مبارزون بالسيف"
+    ]
+  },
+  {
+    "english_word": "judoist",
+    "arabic_word": "جودوكا",
+    "arabic_letters": [
+      "ج",
+      "و",
+      "د",
+      "و",
+      "ك",
+      "ا"
+    ],
+    "parts": [
+      "fighter",
+      "sports",
+      "singular: جودوكا",
+      "plural: جودوكا"
+    ]
+  },
+  {
+    "english_word": "karateka",
+    "arabic_word": "كاريتيكا",
+    "arabic_letters": [
+      "ك",
+      "ا",
+      "ر",
+      "ي",
+      "ت",
+      "ي",
+      "ك",
+      "ا"
+    ],
+    "parts": [
+      "fighter",
+      "sports",
+      "singular: كاريتيكا",
+      "plural: كاريتيكا"
+    ]
+  },
+  {
+    "english_word": "taekwondoin",
+    "arabic_word": "تايكوندوين",
+    "arabic_letters": [
+      "ت",
+      "ا",
+      "ي",
+      "ك",
+      "و",
+      "ن",
+      "د",
+      "و",
+      "ي",
+      "ن"
+    ],
+    "parts": [
+      "fighter",
+      "sports",
+      "singular: تايكوندوين",
+      "plural: تايكوندوين"
+    ]
+  }
+]

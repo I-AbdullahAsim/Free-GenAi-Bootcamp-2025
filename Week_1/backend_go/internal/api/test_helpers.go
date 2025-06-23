@@ -83,7 +83,7 @@ func (m *MockStudyService) DeleteStudyActivity(id uint) error {
 func (m *MockStudyService) GetStudyActivitySessions(activityID uint) ([]models.StudySession, error) {
 	args := m.Called(activityID)
 	return args.Get(0).([]models.StudySession), args.Error(1)
-}
+} 
 
 // MockSettingsService implements the SettingsService for testing
 // Only the methods needed for handler tests are implemented

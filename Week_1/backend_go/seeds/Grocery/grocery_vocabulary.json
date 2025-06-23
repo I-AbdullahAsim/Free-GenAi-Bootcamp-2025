@@ -1,0 +1,619 @@
+[
+  {
+    "english_word": "bread",
+    "arabic_word": "خبز",
+    "arabic_letters": [
+      "خ",
+      "ب",
+      "ز"
+    ],
+    "parts": [
+      "bakery",
+      "food",
+      "singular: خبز",
+      "plural: خبزات"
+    ]
+  },
+  {
+    "english_word": "milk",
+    "arabic_word": "لبن",
+    "arabic_letters": [
+      "ل",
+      "ب",
+      "ن"
+    ],
+    "parts": [
+      "dairy",
+      "beverage",
+      "singular: لبن",
+      "plural: لبان"
+    ]
+  },
+  {
+    "english_word": "eggs",
+    "arabic_word": "بيض",
+    "arabic_letters": [
+      "ب",
+      "ي",
+      "ض"
+    ],
+    "parts": [
+      "dairy",
+      "food",
+      "singular: بيضة",
+      "plural: بيضات"
+    ]
+  },
+  {
+    "english_word": "cheese",
+    "arabic_word": "جبن",
+    "arabic_letters": [
+      "ج",
+      "ب",
+      "ن"
+    ],
+    "parts": [
+      "dairy",
+      "food",
+      "singular: جبنة",
+      "plural: جبنات"
+    ]
+  },
+  {
+    "english_word": "butter",
+    "arabic_word": "زبدة",
+    "arabic_letters": [
+      "ز",
+      "ب",
+      "د",
+      "ة"
+    ],
+    "parts": [
+      "dairy",
+      "food",
+      "singular: زبدة",
+      "plural: زبدات"
+    ]
+  },
+  {
+    "english_word": "meat",
+    "arabic_word": "لحم",
+    "arabic_letters": [
+      "ل",
+      "ح",
+      "م"
+    ],
+    "parts": [
+      "meat",
+      "food",
+      "singular: لحم",
+      "plural: لحوم"
+    ]
+  },
+  {
+    "english_word": "chicken",
+    "arabic_word": "دجاج",
+    "arabic_letters": [
+      "د",
+      "ج",
+      "ا",
+      "ج"
+    ],
+    "parts": [
+      "meat",
+      "food",
+      "singular: دجاجة",
+      "plural: دجاجات"
+    ]
+  },
+  {
+    "english_word": "beef",
+    "arabic_word": "لحم بقر",
+    "arabic_letters": [
+      "ل",
+      "ح",
+      "م",
+      "ب",
+      "ق",
+      "ر"
+    ],
+    "parts": [
+      "meat",
+      "food",
+      "singular: لحم بقر",
+      "plural: لحوم بقر"
+    ]
+  },
+  {
+    "english_word": "fish",
+    "arabic_word": "سمكة",
+    "arabic_letters": [
+      "س",
+      "م",
+      "ك",
+      "ة"
+    ],
+    "parts": [
+      "seafood",
+      "food",
+      "singular: سمكة",
+      "plural: سمكات"
+    ]
+  },
+  {
+    "english_word": "shrimp",
+    "arabic_word": "روبيان",
+    "arabic_letters": [
+      "ر",
+      "و",
+      "ب",
+      "ي",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "seafood",
+      "food",
+      "singular: روبيانة",
+      "plural: روبيانات"
+    ]
+  },
+  {
+    "english_word": "rice",
+    "arabic_word": "أرز",
+    "arabic_letters": [
+      "أ",
+      "ر",
+      "ز"
+    ],
+    "parts": [
+      "grain",
+      "food",
+      "singular: أرز",
+      "plural: أرزات"
+    ]
+  },
+  {
+    "english_word": "pasta",
+    "arabic_word": "مكرونة",
+    "arabic_letters": [
+      "م",
+      "ك",
+      "ر",
+      "و",
+      "ن",
+      "ة"
+    ],
+    "parts": [
+      "grain",
+      "food",
+      "singular: مكرونة",
+      "plural: مكرونات"
+    ]
+  },
+  {
+    "english_word": "oil",
+    "arabic_word": "زيت",
+    "arabic_letters": [
+      "ز",
+      "ي",
+      "ت"
+    ],
+    "parts": [
+      "cooking",
+      "food",
+      "singular: زيت",
+      "plural: زيوت"
+    ]
+  },
+  {
+    "english_word": "sugar",
+    "arabic_word": "سكر",
+    "arabic_letters": [
+      "س",
+      "ك",
+      "ر"
+    ],
+    "parts": [
+      "sweetener",
+      "food",
+      "singular: سكر",
+      "plural: سكرات"
+    ]
+  },
+  {
+    "english_word": "salt",
+    "arabic_word": "ملح",
+    "arabic_letters": [
+      "م",
+      "ل",
+      "ح"
+    ],
+    "parts": [
+      "seasoning",
+      "food",
+      "singular: ملح",
+      "plural: ملحات"
+    ]
+  },
+  {
+    "english_word": "flour",
+    "arabic_word": "دقيق",
+    "arabic_letters": [
+      "د",
+      "ق",
+      "ي",
+      "ق"
+    ],
+    "parts": [
+      "grain",
+      "food",
+      "singular: دقيق",
+      "plural: دقائق"
+    ]
+  },
+  {
+    "english_word": "coffee",
+    "arabic_word": "قهوة",
+    "arabic_letters": [
+      "ق",
+      "ه",
+      "و",
+      "ة"
+    ],
+    "parts": [
+      "beverage",
+      "drink",
+      "singular: قهوة",
+      "plural: قهوات"
+    ]
+  },
+  {
+    "english_word": "tea",
+    "arabic_word": "شاي",
+    "arabic_letters": [
+      "ش",
+      "ا",
+      "ي"
+    ],
+    "parts": [
+      "beverage",
+      "drink",
+      "singular: شاي",
+      "plural: شايات"
+    ]
+  },
+  {
+    "english_word": "water",
+    "arabic_word": "ماء",
+    "arabic_letters": [
+      "م",
+      "ا",
+      "ء"
+    ],
+    "parts": [
+      "beverage",
+      "drink",
+      "singular: ماء",
+      "plural: مياه"
+    ]
+  },
+  {
+    "english_word": "juice",
+    "arabic_word": "عصير",
+    "arabic_letters": [
+      "ع",
+      "ص",
+      "ي",
+      "ر"
+    ],
+    "parts": [
+      "beverage",
+      "drink",
+      "singular: عصير",
+      "plural: عصائر"
+    ]
+  },
+  {
+    "english_word": "milkshake",
+    "arabic_word": "ميلك شيك",
+    "arabic_letters": [
+      "م",
+      "ي",
+      "ل",
+      "ك",
+      "ش",
+      "ي",
+      "ك"
+    ],
+    "parts": [
+      "beverage",
+      "drink",
+      "singular: ميلك شيك",
+      "plural: ميلك شيكات"
+    ]
+  },
+  {
+    "english_word": "honey",
+    "arabic_word": "عسل",
+    "arabic_letters": [
+      "ع",
+      "س",
+      "ل"
+    ],
+    "parts": [
+      "sweetener",
+      "food",
+      "singular: عسل",
+      "plural: عسلات"
+    ]
+  },
+  {
+    "english_word": "jam",
+    "arabic_word": "مرمل",
+    "arabic_letters": [
+      "م",
+      "ر",
+      "م",
+      "ل"
+    ],
+    "parts": [
+      "spread",
+      "food",
+      "singular: مرمل",
+      "plural: مرملات"
+    ]
+  },
+  {
+    "english_word": "peanut butter",
+    "arabic_word": "زبدة فول سوداني",
+    "arabic_letters": [
+      "ز",
+      "ب",
+      "د",
+      "ة",
+      "ف",
+      "و",
+      "ل",
+      "س",
+      "و",
+      "د",
+      "ا",
+      "ن",
+      "ي"
+    ],
+    "parts": [
+      "spread",
+      "food",
+      "singular: زبدة فول سوداني",
+      "plural: زبدات فول سوداني"
+    ]
+  },
+  {
+    "english_word": "tomato",
+    "arabic_word": "طماطم",
+    "arabic_letters": [
+      "ط",
+      "م",
+      "ا",
+      "ط",
+      "م"
+    ],
+    "parts": [
+      "vegetable",
+      "food",
+      "singular: طماطم",
+      "plural: طماطمات"
+    ]
+  },
+  {
+    "english_word": "onion",
+    "arabic_word": "بصل",
+    "arabic_letters": [
+      "ب",
+      "ص",
+      "ل"
+    ],
+    "parts": [
+      "vegetable",
+      "food",
+      "singular: بصل",
+      "plural: بصلات"
+    ]
+  },
+  {
+    "english_word": "potato",
+    "arabic_word": "بطاطا",
+    "arabic_letters": [
+      "ب",
+      "ط",
+      "ا",
+      "ط",
+      "ا"
+    ],
+    "parts": [
+      "vegetable",
+      "food",
+      "singular: بطاطا",
+      "plural: بطاطات"
+    ]
+  },
+  {
+    "english_word": "carrot",
+    "arabic_word": "جزر",
+    "arabic_letters": [
+      "ج",
+      "ز",
+      "ر"
+    ],
+    "parts": [
+      "vegetable",
+      "food",
+      "singular: جزر",
+      "plural: جزرات"
+    ]
+  },
+  {
+    "english_word": "banana",
+    "arabic_word": "موز",
+    "arabic_letters": [
+      "م",
+      "و",
+      "ز"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: موز",
+      "plural: موزات"
+    ]
+  },
+  {
+    "english_word": "apple",
+    "arabic_word": "تفاحة",
+    "arabic_letters": [
+      "ت",
+      "ف",
+      "ا",
+      "ح",
+      "ة"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: تفاحة",
+      "plural: تفاحات"
+    ]
+  },
+  {
+    "english_word": "orange",
+    "arabic_word": "برتقال",
+    "arabic_letters": [
+      "ب",
+      "ر",
+      "ت",
+      "ق",
+      "ا",
+      "ل"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: برتقال",
+      "plural: برتقالات"
+    ]
+  },
+  {
+    "english_word": "grapes",
+    "arabic_word": "عنب",
+    "arabic_letters": [
+      "ع",
+      "ن",
+      "ب"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: عنبة",
+      "plural: عنبات"
+    ]
+  },
+  {
+    "english_word": "pear",
+    "arabic_word": "كمثرى",
+    "arabic_letters": [
+      "ك",
+      "م",
+      "ث",
+      "ر",
+      "ى"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: كمثرى",
+      "plural: كمثريات"
+    ]
+  },
+  {
+    "english_word": "peach",
+    "arabic_word": "دراق",
+    "arabic_letters": [
+      "د",
+      "ر",
+      "ا",
+      "ق"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: دراق",
+      "plural: دراقات"
+    ]
+  },
+  {
+    "english_word": "cherry",
+    "arabic_word": "كرز",
+    "arabic_letters": [
+      "ك",
+      "ر",
+      "ز"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: كرز",
+      "plural: كرزات"
+    ]
+  },
+  {
+    "english_word": "strawberry",
+    "arabic_word": "فراولة",
+    "arabic_letters": [
+      "ف",
+      "ر",
+      "ا",
+      "و",
+      "ل",
+      "ة"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: فراولة",
+      "plural: فراولات"
+    ]
+  },
+  {
+    "english_word": "watermelon",
+    "arabic_word": "بطيخ",
+    "arabic_letters": [
+      "ب",
+      "ط",
+      "ي",
+      "خ"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: بطيخ",
+      "plural: بطيخات"
+    ]
+  },
+  {
+    "english_word": "pomegranate",
+    "arabic_word": "رمان",
+    "arabic_letters": [
+      "ر",
+      "م",
+      "ا",
+      "ن"
+    ],
+    "parts": [
+      "fruit",
+      "food",
+      "singular: رمان",
+      "plural: رمانات"
+    ]
+  }
+]
